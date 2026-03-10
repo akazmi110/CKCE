@@ -1,0 +1,983 @@
+source,target,weight
+attack track projection,computer crime,1
+attack track projection,continually learn,1
+attack track projection,cyber fusion,1
+attack track projection,cyber security,1
+attack track projection,hacker tradecraft,1
+attack track projection,impact assessment architecture,1
+attack track projection,information fusion technique,1
+attack track projection,intrusion detection,1
+attack track projection,intrusion projection,1
+attack track projection,real time,1
+computer crime,continually learn,1
+computer crime,cyber fusion,1
+computer crime,cyber security,1
+computer crime,hacker tradecraft,1
+computer crime,impact assessment architecture,1
+computer crime,information fusion technique,1
+computer crime,intrusion detection,1
+computer crime,intrusion projection,1
+computer crime,real time,1
+continually learn,cyber fusion,1
+continually learn,cyber security,1
+continually learn,hacker tradecraft,1
+continually learn,impact assessment architecture,1
+continually learn,information fusion technique,1
+continually learn,intrusion detection,1
+continually learn,intrusion projection,1
+continually learn,real time,1
+cyber fusion,cyber security,1
+cyber fusion,hacker tradecraft,1
+cyber fusion,impact assessment architecture,1
+cyber fusion,information fusion technique,1
+cyber fusion,intrusion detection,1
+cyber fusion,intrusion projection,1
+cyber fusion,real time,1
+cyber security,hacker tradecraft,1
+cyber security,impact assessment architecture,1
+cyber security,information fusion technique,1
+cyber security,intrusion detection,2
+cyber security,intrusion projection,1
+cyber security,real time,1
+cyber security,cluster architecture,1
+cyber security,concurrent experimental topology,1
+cyber security,configured dynamically,1
+cyber security,deterministic operation,1
+cyber security,experimental node,1
+cyber security,inter experiment isolation problem,1
+cyber security,local cluster,1
+cyber security,network emulation,1
+cyber security,secure cluster,1
+cyber security,utah emulab design,1
+cyber security,community fusion center,1
+cyber security,cyber capability,1
+cyber security,cyber defense effort,1
+cyber security,cyber environment,1
+cyber security,disparate piece,1
+cyber security,fusion center,1
+cyber security,government fusion center,1
+cyber security,government involvement,1
+cyber security,homeland security,1
+cyber security,potential cyber attack,1
+cyber security,potential terrorist attack,1
+cyber security,alert correlation,1
+cyber security,computer network,1
+cyber security,impact assessment,2
+cyber security,information fusion,2
+cyber security,network modeling,1
+cyber security,threat assessment,1
+cyber security,data,1
+cyber security,distributed architecture,1
+cyber security,distributed processing,1
+cyber security,insider threat,2
+cyber security,insider threat detection,1
+cyber security,multiagent,1
+cyber security,security,1
+cyber security,situation aware,1
+cyber security,situation awareness,1
+cyber security,situation management,1
+cyber security,social networking,1
+cyber security,intrinsic information security,1
+cyber security,quantum communication,1
+cyber security,quantum computer,1
+cyber security,quantum computing,1
+cyber security,quantum information,1
+cyber security,quantum key distribution,1
+cyber security,quantum physic,1
+cyber security,quantum search algorithm,1
+cyber security,cyber crime,1
+cyber security,secure,1
+cyber security,blackhat community,1
+cyber security,code organization,1
+cyber security,data fusion,1
+cyber security,gen 3 honeynet architecture,1
+cyber security,graphical analysis console,1
+cyber security,host intrusion detection,1
+cyber security,multilayer cyber attack detection,1
+cyber security,percentage reduction,1
+cyber security,security data,1
+cyber security,sensor fusion,1
+cyber security,statistical distribution,1
+cyber security,statistical trend distribution,1
+cyber security,stealth mode operation,1
+cyber security,critical information infrastructure protection,1
+cyber security,government regulation,1
+cyber security,market failure,1
+cyber security,alternative,1
+cyber security,malicious software,1
+cyber security,remote access,1
+cyber security,remote connectivity,1
+cyber security,security concern,1
+cyber security,testbed environment,1
+cyber security,testbed user,1
+cyber security,computer security,1
+cyber security,data mining,1
+cyber security,distributed denial of service,1
+cyber security,geology,1
+cyber security,remote sensing,1
+cyber security,statistics,1
+cyber security,traffic volume,1
+hacker tradecraft,impact assessment architecture,1
+hacker tradecraft,information fusion technique,1
+hacker tradecraft,intrusion detection,1
+hacker tradecraft,intrusion projection,1
+hacker tradecraft,real time,1
+impact assessment architecture,information fusion technique,1
+impact assessment architecture,intrusion detection,1
+impact assessment architecture,intrusion projection,1
+impact assessment architecture,real time,1
+information fusion technique,intrusion detection,1
+information fusion technique,intrusion projection,1
+information fusion technique,real time,1
+intrusion detection,intrusion projection,1
+intrusion detection,real time,1
+intrusion detection,computer security,1
+intrusion detection,data mining,1
+intrusion detection,distributed denial of service,1
+intrusion detection,geology,1
+intrusion detection,remote sensing,1
+intrusion detection,statistics,1
+intrusion detection,traffic volume,1
+intrusion projection,real time,1
+cluster architecture,concurrent experimental topology,1
+cluster architecture,configured dynamically,1
+cluster architecture,deterministic operation,1
+cluster architecture,experimental node,1
+cluster architecture,inter experiment isolation problem,1
+cluster architecture,local cluster,1
+cluster architecture,network emulation,1
+cluster architecture,secure cluster,1
+cluster architecture,utah emulab design,1
+concurrent experimental topology,configured dynamically,1
+concurrent experimental topology,deterministic operation,1
+concurrent experimental topology,experimental node,1
+concurrent experimental topology,inter experiment isolation problem,1
+concurrent experimental topology,local cluster,1
+concurrent experimental topology,network emulation,1
+concurrent experimental topology,secure cluster,1
+concurrent experimental topology,utah emulab design,1
+configured dynamically,deterministic operation,1
+configured dynamically,experimental node,1
+configured dynamically,inter experiment isolation problem,1
+configured dynamically,local cluster,1
+configured dynamically,network emulation,1
+configured dynamically,secure cluster,1
+configured dynamically,utah emulab design,1
+deterministic operation,experimental node,1
+deterministic operation,inter experiment isolation problem,1
+deterministic operation,local cluster,1
+deterministic operation,network emulation,1
+deterministic operation,secure cluster,1
+deterministic operation,utah emulab design,1
+experimental node,inter experiment isolation problem,1
+experimental node,local cluster,1
+experimental node,network emulation,1
+experimental node,secure cluster,1
+experimental node,utah emulab design,1
+inter experiment isolation problem,local cluster,1
+inter experiment isolation problem,network emulation,1
+inter experiment isolation problem,secure cluster,1
+inter experiment isolation problem,utah emulab design,1
+local cluster,network emulation,1
+local cluster,secure cluster,1
+local cluster,utah emulab design,1
+network emulation,secure cluster,1
+network emulation,utah emulab design,1
+secure cluster,utah emulab design,1
+community fusion center,cyber capability,1
+community fusion center,cyber defense effort,1
+community fusion center,cyber environment,1
+community fusion center,disparate piece,1
+community fusion center,fusion center,1
+community fusion center,government fusion center,1
+community fusion center,government involvement,1
+community fusion center,homeland security,1
+community fusion center,potential cyber attack,1
+community fusion center,potential terrorist attack,1
+cyber capability,cyber defense effort,1
+cyber capability,cyber environment,1
+cyber capability,disparate piece,1
+cyber capability,fusion center,1
+cyber capability,government fusion center,1
+cyber capability,government involvement,1
+cyber capability,homeland security,1
+cyber capability,potential cyber attack,1
+cyber capability,potential terrorist attack,1
+cyber defense effort,cyber environment,1
+cyber defense effort,disparate piece,1
+cyber defense effort,fusion center,1
+cyber defense effort,government fusion center,1
+cyber defense effort,government involvement,1
+cyber defense effort,homeland security,1
+cyber defense effort,potential cyber attack,1
+cyber defense effort,potential terrorist attack,1
+cyber environment,disparate piece,1
+cyber environment,fusion center,1
+cyber environment,government fusion center,1
+cyber environment,government involvement,1
+cyber environment,homeland security,1
+cyber environment,potential cyber attack,1
+cyber environment,potential terrorist attack,1
+disparate piece,fusion center,1
+disparate piece,government fusion center,1
+disparate piece,government involvement,1
+disparate piece,homeland security,1
+disparate piece,potential cyber attack,1
+disparate piece,potential terrorist attack,1
+fusion center,government fusion center,1
+fusion center,government involvement,1
+fusion center,homeland security,1
+fusion center,potential cyber attack,1
+fusion center,potential terrorist attack,1
+government fusion center,government involvement,1
+government fusion center,homeland security,1
+government fusion center,potential cyber attack,1
+government fusion center,potential terrorist attack,1
+government involvement,homeland security,1
+government involvement,potential cyber attack,1
+government involvement,potential terrorist attack,1
+homeland security,potential cyber attack,1
+homeland security,potential terrorist attack,1
+potential cyber attack,potential terrorist attack,1
+business risk management,careful consideration,1
+business risk management,collaborative work style,1
+business risk management,cyberspace security,1
+business risk management,disruptive change,1
+business risk management,economic uncertainty,1
+business risk management,healthy debate,1
+business risk management,improved enterprise,1
+business risk management,information security,1
+business risk management,key performance indicator,1
+business risk management,security control,1
+business risk management,stakeholder mission value,1
+careful consideration,collaborative work style,1
+careful consideration,cyberspace security,1
+careful consideration,disruptive change,1
+careful consideration,economic uncertainty,1
+careful consideration,healthy debate,1
+careful consideration,improved enterprise,1
+careful consideration,information security,1
+careful consideration,key performance indicator,1
+careful consideration,security control,1
+careful consideration,stakeholder mission value,1
+collaborative work style,cyberspace security,1
+collaborative work style,disruptive change,1
+collaborative work style,economic uncertainty,1
+collaborative work style,healthy debate,1
+collaborative work style,improved enterprise,1
+collaborative work style,information security,1
+collaborative work style,key performance indicator,1
+collaborative work style,security control,1
+collaborative work style,stakeholder mission value,1
+cyberspace security,disruptive change,1
+cyberspace security,economic uncertainty,1
+cyberspace security,healthy debate,1
+cyberspace security,improved enterprise,1
+cyberspace security,information security,1
+cyberspace security,key performance indicator,1
+cyberspace security,security control,1
+cyberspace security,stakeholder mission value,1
+disruptive change,economic uncertainty,1
+disruptive change,healthy debate,1
+disruptive change,improved enterprise,1
+disruptive change,information security,1
+disruptive change,key performance indicator,1
+disruptive change,security control,1
+disruptive change,stakeholder mission value,1
+economic uncertainty,healthy debate,1
+economic uncertainty,improved enterprise,1
+economic uncertainty,information security,1
+economic uncertainty,key performance indicator,1
+economic uncertainty,security control,1
+economic uncertainty,stakeholder mission value,1
+healthy debate,improved enterprise,1
+healthy debate,information security,1
+healthy debate,key performance indicator,1
+healthy debate,security control,1
+healthy debate,stakeholder mission value,1
+improved enterprise,information security,1
+improved enterprise,key performance indicator,1
+improved enterprise,security control,1
+improved enterprise,stakeholder mission value,1
+information security,key performance indicator,1
+information security,security control,1
+information security,stakeholder mission value,1
+key performance indicator,security control,1
+key performance indicator,stakeholder mission value,1
+security control,stakeholder mission value,1
+alert correlation,computer network,1
+alert correlation,impact assessment,1
+alert correlation,information fusion,1
+alert correlation,network modeling,1
+alert correlation,threat assessment,1
+computer network,impact assessment,1
+computer network,information fusion,2
+computer network,network modeling,1
+computer network,threat assessment,2
+computer network,computer network security,1
+computer network,computer security,1
+computer network,cyber intrusion projection,1
+computer network,cyber security research,1
+computer network,dempster shafer theory,1
+computer network,future situation and impact awareness,1
+computer network,inference mechanism,1
+computer network,plausible future,1
+computer network,security of data,1
+computer network,sensor fusion,1
+computer network,telecommunication computing,1
+computer network,telecommunication security,1
+computer network,threat projection algorithm,1
+impact assessment,information fusion,2
+impact assessment,network modeling,1
+impact assessment,threat assessment,1
+information fusion,network modeling,1
+information fusion,threat assessment,2
+information fusion,computer network security,1
+information fusion,computer security,1
+information fusion,cyber intrusion projection,1
+information fusion,cyber security research,1
+information fusion,dempster shafer theory,1
+information fusion,future situation and impact awareness,1
+information fusion,inference mechanism,1
+information fusion,plausible future,1
+information fusion,security of data,1
+information fusion,sensor fusion,1
+information fusion,telecommunication computing,1
+information fusion,telecommunication security,1
+information fusion,threat projection algorithm,1
+network modeling,threat assessment,1
+threat assessment,computer network security,1
+threat assessment,computer security,1
+threat assessment,cyber intrusion projection,1
+threat assessment,cyber security research,1
+threat assessment,dempster shafer theory,1
+threat assessment,future situation and impact awareness,1
+threat assessment,inference mechanism,1
+threat assessment,plausible future,1
+threat assessment,security of data,1
+threat assessment,sensor fusion,1
+threat assessment,telecommunication computing,1
+threat assessment,telecommunication security,1
+threat assessment,threat projection algorithm,1
+data,distributed architecture,1
+data,distributed processing,1
+data,insider threat,1
+data,insider threat detection,1
+data,multiagent,1
+data,security,2
+data,situation aware,1
+data,situation awareness,1
+data,situation management,1
+data,social networking,1
+data,allocation,1
+data,application,1
+data,architecture,1
+data,ballooning,1
+data,building,1
+data,challenge,1
+data,computing,1
+data,cyber,1
+data,effective,1
+data,intensive,1
+data,management,1
+data,petabyte,1
+data,research,1
+data,resource,1
+data,scalable,1
+data,scientific,1
+data,social,1
+data,software,1
+data,solution,1
+data,utilization,1
+data,volume,1
+distributed architecture,distributed processing,1
+distributed architecture,insider threat,1
+distributed architecture,insider threat detection,1
+distributed architecture,multiagent,1
+distributed architecture,security,1
+distributed architecture,situation aware,1
+distributed architecture,situation awareness,1
+distributed architecture,situation management,1
+distributed architecture,social networking,1
+distributed processing,insider threat,1
+distributed processing,insider threat detection,1
+distributed processing,multiagent,1
+distributed processing,security,1
+distributed processing,situation aware,1
+distributed processing,situation awareness,1
+distributed processing,situation management,1
+distributed processing,social networking,1
+insider threat,insider threat detection,1
+insider threat,multiagent,1
+insider threat,security,1
+insider threat,situation aware,1
+insider threat,situation awareness,1
+insider threat,situation management,1
+insider threat,social networking,1
+insider threat,cyber crime,1
+insider threat,secure,1
+insider threat detection,multiagent,1
+insider threat detection,security,1
+insider threat detection,situation aware,1
+insider threat detection,situation awareness,1
+insider threat detection,situation management,1
+insider threat detection,social networking,1
+multiagent,security,1
+multiagent,situation aware,1
+multiagent,situation awareness,1
+multiagent,situation management,1
+multiagent,social networking,1
+security,situation aware,1
+security,situation awareness,1
+security,situation management,1
+security,social networking,1
+security,allocation,1
+security,application,1
+security,architecture,1
+security,ballooning,1
+security,building,1
+security,challenge,1
+security,computing,1
+security,cyber,2
+security,effective,1
+security,intensive,1
+security,management,1
+security,petabyte,1
+security,research,1
+security,resource,1
+security,scalable,1
+security,scientific,1
+security,social,1
+security,software,1
+security,solution,1
+security,utilization,1
+security,volume,1
+security,code,1
+security,command,1
+security,computer,1
+security,control,1
+security,cybersecurity,1
+security,ethical,1
+security,ethics,1
+security,information,1
+security,kuhn,1
+security,paradigm,1
+security,professional,1
+security,regulation,1
+security,goal,1
+security,obtainable,1
+situation aware,situation awareness,1
+situation aware,situation management,1
+situation aware,social networking,1
+situation awareness,situation management,1
+situation awareness,social networking,1
+situation management,social networking,1
+allocation,application,1
+allocation,architecture,1
+allocation,ballooning,1
+allocation,building,1
+allocation,challenge,1
+allocation,computing,1
+allocation,cyber,1
+allocation,effective,1
+allocation,intensive,1
+allocation,management,1
+allocation,petabyte,1
+allocation,research,1
+allocation,resource,1
+allocation,scalable,1
+allocation,scientific,1
+allocation,social,1
+allocation,software,1
+allocation,solution,1
+allocation,utilization,1
+allocation,volume,1
+application,architecture,1
+application,ballooning,1
+application,building,1
+application,challenge,1
+application,computing,1
+application,cyber,1
+application,effective,1
+application,intensive,1
+application,management,1
+application,petabyte,1
+application,research,1
+application,resource,1
+application,scalable,1
+application,scientific,1
+application,social,1
+application,software,1
+application,solution,1
+application,utilization,1
+application,volume,1
+architecture,ballooning,1
+architecture,building,1
+architecture,challenge,1
+architecture,computing,1
+architecture,cyber,1
+architecture,effective,1
+architecture,intensive,1
+architecture,management,1
+architecture,petabyte,1
+architecture,research,1
+architecture,resource,1
+architecture,scalable,1
+architecture,scientific,1
+architecture,social,1
+architecture,software,1
+architecture,solution,1
+architecture,utilization,1
+architecture,volume,1
+ballooning,building,1
+ballooning,challenge,1
+ballooning,computing,1
+ballooning,cyber,1
+ballooning,effective,1
+ballooning,intensive,1
+ballooning,management,1
+ballooning,petabyte,1
+ballooning,research,1
+ballooning,resource,1
+ballooning,scalable,1
+ballooning,scientific,1
+ballooning,social,1
+ballooning,software,1
+ballooning,solution,1
+ballooning,utilization,1
+ballooning,volume,1
+building,challenge,1
+building,computing,1
+building,cyber,1
+building,effective,1
+building,intensive,1
+building,management,1
+building,petabyte,1
+building,research,1
+building,resource,1
+building,scalable,1
+building,scientific,1
+building,social,1
+building,software,1
+building,solution,1
+building,utilization,1
+building,volume,1
+challenge,computing,1
+challenge,cyber,1
+challenge,effective,1
+challenge,intensive,1
+challenge,management,1
+challenge,petabyte,1
+challenge,research,1
+challenge,resource,1
+challenge,scalable,1
+challenge,scientific,1
+challenge,social,1
+challenge,software,1
+challenge,solution,1
+challenge,utilization,1
+challenge,volume,1
+computing,cyber,1
+computing,effective,1
+computing,intensive,1
+computing,management,1
+computing,petabyte,1
+computing,research,1
+computing,resource,1
+computing,scalable,1
+computing,scientific,1
+computing,social,1
+computing,software,1
+computing,solution,1
+computing,utilization,1
+computing,volume,1
+cyber,effective,1
+cyber,intensive,1
+cyber,management,1
+cyber,petabyte,1
+cyber,research,1
+cyber,resource,1
+cyber,scalable,1
+cyber,scientific,1
+cyber,social,1
+cyber,software,1
+cyber,solution,1
+cyber,utilization,1
+cyber,volume,1
+cyber,goal,1
+cyber,obtainable,1
+effective,intensive,1
+effective,management,1
+effective,petabyte,1
+effective,research,1
+effective,resource,1
+effective,scalable,1
+effective,scientific,1
+effective,social,1
+effective,software,1
+effective,solution,1
+effective,utilization,1
+effective,volume,1
+intensive,management,1
+intensive,petabyte,1
+intensive,research,1
+intensive,resource,1
+intensive,scalable,1
+intensive,scientific,1
+intensive,social,1
+intensive,software,1
+intensive,solution,1
+intensive,utilization,1
+intensive,volume,1
+management,petabyte,1
+management,research,1
+management,resource,1
+management,scalable,1
+management,scientific,1
+management,social,1
+management,software,1
+management,solution,1
+management,utilization,1
+management,volume,1
+petabyte,research,1
+petabyte,resource,1
+petabyte,scalable,1
+petabyte,scientific,1
+petabyte,social,1
+petabyte,software,1
+petabyte,solution,1
+petabyte,utilization,1
+petabyte,volume,1
+research,resource,1
+research,scalable,1
+research,scientific,1
+research,social,1
+research,software,1
+research,solution,1
+research,utilization,1
+research,volume,1
+resource,scalable,1
+resource,scientific,1
+resource,social,1
+resource,software,1
+resource,solution,1
+resource,utilization,1
+resource,volume,1
+scalable,scientific,1
+scalable,social,1
+scalable,software,1
+scalable,solution,1
+scalable,utilization,1
+scalable,volume,1
+scientific,social,1
+scientific,software,1
+scientific,solution,1
+scientific,utilization,1
+scientific,volume,1
+social,software,1
+social,solution,1
+social,utilization,1
+social,volume,1
+software,solution,1
+software,utilization,1
+software,volume,1
+solution,utilization,1
+solution,volume,1
+utilization,volume,1
+intrinsic information security,quantum communication,1
+intrinsic information security,quantum computer,1
+intrinsic information security,quantum computing,1
+intrinsic information security,quantum information,1
+intrinsic information security,quantum key distribution,1
+intrinsic information security,quantum physic,1
+intrinsic information security,quantum search algorithm,1
+quantum communication,quantum computer,1
+quantum communication,quantum computing,1
+quantum communication,quantum information,1
+quantum communication,quantum key distribution,1
+quantum communication,quantum physic,1
+quantum communication,quantum search algorithm,1
+quantum computer,quantum computing,1
+quantum computer,quantum information,1
+quantum computer,quantum key distribution,1
+quantum computer,quantum physic,1
+quantum computer,quantum search algorithm,1
+quantum computing,quantum information,1
+quantum computing,quantum key distribution,1
+quantum computing,quantum physic,1
+quantum computing,quantum search algorithm,1
+quantum information,quantum key distribution,1
+quantum information,quantum physic,1
+quantum information,quantum search algorithm,1
+quantum key distribution,quantum physic,1
+quantum key distribution,quantum search algorithm,1
+quantum physic,quantum search algorithm,1
+cyber crime,secure,1
+code,command,1
+code,computer,1
+code,control,1
+code,cybersecurity,1
+code,ethical,1
+code,ethics,1
+code,information,1
+code,kuhn,1
+code,paradigm,1
+code,professional,1
+code,regulation,1
+command,computer,1
+command,control,1
+command,cybersecurity,1
+command,ethical,1
+command,ethics,1
+command,information,1
+command,kuhn,1
+command,paradigm,1
+command,professional,1
+command,regulation,1
+computer,control,1
+computer,cybersecurity,1
+computer,ethical,1
+computer,ethics,1
+computer,information,1
+computer,kuhn,1
+computer,paradigm,1
+computer,professional,1
+computer,regulation,1
+control,cybersecurity,1
+control,ethical,1
+control,ethics,1
+control,information,1
+control,kuhn,1
+control,paradigm,1
+control,professional,1
+control,regulation,1
+cybersecurity,ethical,1
+cybersecurity,ethics,1
+cybersecurity,information,1
+cybersecurity,kuhn,1
+cybersecurity,paradigm,1
+cybersecurity,professional,1
+cybersecurity,regulation,1
+ethical,ethics,1
+ethical,information,1
+ethical,kuhn,1
+ethical,paradigm,1
+ethical,professional,1
+ethical,regulation,1
+ethics,information,1
+ethics,kuhn,1
+ethics,paradigm,1
+ethics,professional,1
+ethics,regulation,1
+information,kuhn,1
+information,paradigm,1
+information,professional,1
+information,regulation,1
+kuhn,paradigm,1
+kuhn,professional,1
+kuhn,regulation,1
+paradigm,professional,1
+paradigm,regulation,1
+professional,regulation,1
+blackhat community,code organization,1
+blackhat community,data fusion,1
+blackhat community,gen 3 honeynet architecture,1
+blackhat community,graphical analysis console,1
+blackhat community,host intrusion detection,1
+blackhat community,multilayer cyber attack detection,1
+blackhat community,percentage reduction,1
+blackhat community,security data,1
+blackhat community,sensor fusion,1
+blackhat community,statistical distribution,1
+blackhat community,statistical trend distribution,1
+blackhat community,stealth mode operation,1
+code organization,data fusion,1
+code organization,gen 3 honeynet architecture,1
+code organization,graphical analysis console,1
+code organization,host intrusion detection,1
+code organization,multilayer cyber attack detection,1
+code organization,percentage reduction,1
+code organization,security data,1
+code organization,sensor fusion,1
+code organization,statistical distribution,1
+code organization,statistical trend distribution,1
+code organization,stealth mode operation,1
+data fusion,gen 3 honeynet architecture,1
+data fusion,graphical analysis console,1
+data fusion,host intrusion detection,1
+data fusion,multilayer cyber attack detection,1
+data fusion,percentage reduction,1
+data fusion,security data,1
+data fusion,sensor fusion,1
+data fusion,statistical distribution,1
+data fusion,statistical trend distribution,1
+data fusion,stealth mode operation,1
+gen 3 honeynet architecture,graphical analysis console,1
+gen 3 honeynet architecture,host intrusion detection,1
+gen 3 honeynet architecture,multilayer cyber attack detection,1
+gen 3 honeynet architecture,percentage reduction,1
+gen 3 honeynet architecture,security data,1
+gen 3 honeynet architecture,sensor fusion,1
+gen 3 honeynet architecture,statistical distribution,1
+gen 3 honeynet architecture,statistical trend distribution,1
+gen 3 honeynet architecture,stealth mode operation,1
+graphical analysis console,host intrusion detection,1
+graphical analysis console,multilayer cyber attack detection,1
+graphical analysis console,percentage reduction,1
+graphical analysis console,security data,1
+graphical analysis console,sensor fusion,1
+graphical analysis console,statistical distribution,1
+graphical analysis console,statistical trend distribution,1
+graphical analysis console,stealth mode operation,1
+host intrusion detection,multilayer cyber attack detection,1
+host intrusion detection,percentage reduction,1
+host intrusion detection,security data,1
+host intrusion detection,sensor fusion,1
+host intrusion detection,statistical distribution,1
+host intrusion detection,statistical trend distribution,1
+host intrusion detection,stealth mode operation,1
+multilayer cyber attack detection,percentage reduction,1
+multilayer cyber attack detection,security data,1
+multilayer cyber attack detection,sensor fusion,1
+multilayer cyber attack detection,statistical distribution,1
+multilayer cyber attack detection,statistical trend distribution,1
+multilayer cyber attack detection,stealth mode operation,1
+percentage reduction,security data,1
+percentage reduction,sensor fusion,1
+percentage reduction,statistical distribution,1
+percentage reduction,statistical trend distribution,1
+percentage reduction,stealth mode operation,1
+security data,sensor fusion,1
+security data,statistical distribution,1
+security data,statistical trend distribution,1
+security data,stealth mode operation,1
+sensor fusion,statistical distribution,1
+sensor fusion,statistical trend distribution,1
+sensor fusion,stealth mode operation,1
+sensor fusion,computer network security,1
+sensor fusion,computer security,1
+sensor fusion,cyber intrusion projection,1
+sensor fusion,cyber security research,1
+sensor fusion,dempster shafer theory,1
+sensor fusion,future situation and impact awareness,1
+sensor fusion,inference mechanism,1
+sensor fusion,plausible future,1
+sensor fusion,security of data,1
+sensor fusion,telecommunication computing,1
+sensor fusion,telecommunication security,1
+sensor fusion,threat projection algorithm,1
+statistical distribution,statistical trend distribution,1
+statistical distribution,stealth mode operation,1
+statistical trend distribution,stealth mode operation,1
+computer network security,computer security,1
+computer network security,cyber intrusion projection,1
+computer network security,cyber security research,1
+computer network security,dempster shafer theory,1
+computer network security,future situation and impact awareness,1
+computer network security,inference mechanism,1
+computer network security,plausible future,1
+computer network security,security of data,1
+computer network security,telecommunication computing,1
+computer network security,telecommunication security,1
+computer network security,threat projection algorithm,1
+computer security,cyber intrusion projection,1
+computer security,cyber security research,1
+computer security,dempster shafer theory,1
+computer security,future situation and impact awareness,1
+computer security,inference mechanism,1
+computer security,plausible future,1
+computer security,security of data,1
+computer security,telecommunication computing,1
+computer security,telecommunication security,1
+computer security,threat projection algorithm,1
+computer security,data mining,1
+computer security,distributed denial of service,1
+computer security,geology,1
+computer security,remote sensing,1
+computer security,statistics,1
+computer security,traffic volume,1
+cyber intrusion projection,cyber security research,1
+cyber intrusion projection,dempster shafer theory,1
+cyber intrusion projection,future situation and impact awareness,1
+cyber intrusion projection,inference mechanism,1
+cyber intrusion projection,plausible future,1
+cyber intrusion projection,security of data,1
+cyber intrusion projection,telecommunication computing,1
+cyber intrusion projection,telecommunication security,1
+cyber intrusion projection,threat projection algorithm,1
+cyber security research,dempster shafer theory,1
+cyber security research,future situation and impact awareness,1
+cyber security research,inference mechanism,1
+cyber security research,plausible future,1
+cyber security research,security of data,1
+cyber security research,telecommunication computing,1
+cyber security research,telecommunication security,1
+cyber security research,threat projection algorithm,1
+dempster shafer theory,future situation and impact awareness,1
+dempster shafer theory,inference mechanism,1
+dempster shafer theory,plausible future,1
+dempster shafer theory,security of data,1
+dempster shafer theory,telecommunication computing,1
+dempster shafer theory,telecommunication security,1
+dempster shafer theory,threat projection algorithm,1
+future situation and impact awareness,inference mechanism,1
+future situation and impact awareness,plausible future,1
+future situation and impact awareness,security of data,1
+future situation and impact awareness,telecommunication computing,1
+future situation and impact awareness,telecommunication security,1
+future situation and impact awareness,threat projection algorithm,1
+inference mechanism,plausible future,1
+inference mechanism,security of data,1
+inference mechanism,telecommunication computing,1
+inference mechanism,telecommunication security,1
+inference mechanism,threat projection algorithm,1
+plausible future,security of data,1
+plausible future,telecommunication computing,1
+plausible future,telecommunication security,1
+plausible future,threat projection algorithm,1
+security of data,telecommunication computing,1
+security of data,telecommunication security,1
+security of data,threat projection algorithm,1
+telecommunication computing,telecommunication security,1
+telecommunication computing,threat projection algorithm,1
+telecommunication security,threat projection algorithm,1
+goal,obtainable,1
+critical information infrastructure protection,government regulation,1
+critical information infrastructure protection,market failure,1
+government regulation,market failure,1
+alternative,malicious software,1
+alternative,remote access,1
+alternative,remote connectivity,1
+alternative,security concern,1
+alternative,testbed environment,1
+alternative,testbed user,1
+malicious software,remote access,1
+malicious software,remote connectivity,1
+malicious software,security concern,1
+malicious software,testbed environment,1
+malicious software,testbed user,1
+remote access,remote connectivity,1
+remote access,security concern,1
+remote access,testbed environment,1
+remote access,testbed user,1
+remote connectivity,security concern,1
+remote connectivity,testbed environment,1
+remote connectivity,testbed user,1
+security concern,testbed environment,1
+security concern,testbed user,1
+testbed environment,testbed user,1
+data mining,distributed denial of service,1
+data mining,geology,1
+data mining,remote sensing,1
+data mining,statistics,1
+data mining,traffic volume,1
+distributed denial of service,geology,1
+distributed denial of service,remote sensing,1
+distributed denial of service,statistics,1
+distributed denial of service,traffic volume,1
+geology,remote sensing,1
+geology,statistics,1
+geology,traffic volume,1
+remote sensing,statistics,1
+remote sensing,traffic volume,1
+statistics,traffic volume,1

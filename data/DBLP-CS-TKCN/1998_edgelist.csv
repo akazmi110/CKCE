@@ -1,0 +1,21 @@
+source,target,weight
+attack graph,cyber security,1
+attack graph,deterrence,1
+attack graph,information security,1
+attack graph,security awareness,1
+cyber security,deterrence,1
+cyber security,information security,1
+cyber security,security awareness,1
+deterrence,information security,1
+deterrence,security awareness,1
+information security,security awareness,1
+cyber warfare,digital sovereignty,1
+cyber warfare,global cybersecurity,1
+cyber warfare,information warfare,1
+cyber warfare,internet governance,1
+digital sovereignty,global cybersecurity,1
+digital sovereignty,information warfare,1
+digital sovereignty,internet governance,1
+global cybersecurity,information warfare,1
+global cybersecurity,internet governance,1
+information warfare,internet governance,1

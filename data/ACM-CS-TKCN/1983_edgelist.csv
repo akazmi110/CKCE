@@ -1,0 +1,16 @@
+source,target,weight
+5g,cybersecurity,1
+5g,dataset,1
+5g,deep learning,1
+5g,intrusion detection,1
+5g,machine learning,1
+cybersecurity,dataset,1
+cybersecurity,deep learning,1
+cybersecurity,intrusion detection,1
+cybersecurity,machine learning,1
+dataset,deep learning,1
+dataset,intrusion detection,1
+dataset,machine learning,1
+deep learning,intrusion detection,1
+deep learning,machine learning,1
+intrusion detection,machine learning,1

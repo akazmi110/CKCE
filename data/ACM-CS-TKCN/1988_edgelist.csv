@@ -1,0 +1,11 @@
+source,target,weight
+counterterrorism,cyber security,1
+counterterrorism,data protection,1
+counterterrorism,security,1
+counterterrorism,security measure,1
+cyber security,data protection,1
+cyber security,security,1
+cyber security,security measure,1
+data protection,security,1
+data protection,security measure,1
+security,security measure,1

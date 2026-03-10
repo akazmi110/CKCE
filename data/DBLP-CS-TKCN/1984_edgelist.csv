@@ -1,0 +1,7 @@
+source,target,weight
+analytics,artificial intelligence,1
+analytics,cybersecurity,1
+analytics,machine learning,1
+artificial intelligence,cybersecurity,1
+artificial intelligence,machine learning,1
+cybersecurity,machine learning,1

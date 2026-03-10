@@ -1,0 +1,2568 @@
+source,target,weight
+cybersecurity,development,1
+cybersecurity,open source,1
+cybersecurity,research,1
+cybersecurity,small business,1
+cybersecurity,technology transition,1
+cybersecurity,antivirus,1
+cybersecurity,botnet,2
+cybersecurity,ddos,1
+cybersecurity,incentive,1
+cybersecurity,malware,1
+cybersecurity,organized crime,1
+cybersecurity,zombie,1
+cybersecurity,advanced meter infrastructure,1
+cybersecurity,infrastructure security,1
+cybersecurity,smart grid,2
+cybersecurity,attack,1
+cybersecurity,cloud computing,2
+cybersecurity,cyberthreat proliferation,1
+cybersecurity,defense,1
+cybersecurity,h1n1 flu virus,1
+cybersecurity,infectious disease,1
+cybersecurity,kellermann coresecurity,1
+cybersecurity,pervasive global epidemic,1
+cybersecurity,security,4
+cybersecurity,situational awareness,1
+cybersecurity,ubiquitous computing,1
+cybersecurity,integer optimization,1
+cybersecurity,multiobjective,1
+cybersecurity,network,1
+cybersecurity,optimization,1
+cybersecurity,cybex,1
+cybersecurity,design,1
+cybersecurity,information exchange,1
+cybersecurity,standardization,1
+cybersecurity,analyst,1
+cybersecurity,bulletin,1
+cybersecurity,collaboration,1
+cybersecurity,collaborative,1
+cybersecurity,computer,2
+cybersecurity,data,1
+cybersecurity,framework,1
+cybersecurity,groupware,1
+cybersecurity,attack tree,1
+cybersecurity,defense system,1
+cybersecurity,power system control,1
+cybersecurity,security vulnerability,1
+cybersecurity,incident command,1
+cybersecurity,intelligent agent,1
+cybersecurity,linear sensitivity,1
+cybersecurity,reactive power resources,1
+cybersecurity,voltage control,1
+cybersecurity,digital infrastructure,1
+cybersecurity,economic incentive,1
+cybersecurity,internet service provider,1
+cybersecurity,threat reduction strategy,1
+cybersecurity,culture,1
+cybersecurity,globalization,1
+cybersecurity,internationalization,1
+cybersecurity,policy,1
+cybersecurity,coding,1
+cybersecurity,education,1
+cybersecurity,keylogging,1
+cybersecurity,rootkit,1
+cybersecurity,secure,1
+cybersecurity,broadband,1
+cybersecurity,local culture,1
+cybersecurity,local economy,1
+cybersecurity,computer network security,1
+cybersecurity,cybersecurity information exchange,1
+cybersecurity,future network,1
+cybersecurity,grid computing,1
+cybersecurity,next generation network,1
+cybersecurity,machine learning,1
+cybersecurity,global,1
+development,open source,1
+development,research,1
+development,small business,1
+development,technology transition,1
+open source,research,1
+open source,small business,1
+open source,technology transition,1
+research,small business,1
+research,technology transition,1
+research,algorithm,1
+research,artificial,1
+research,assessment,1
+research,attack,1
+research,challenge,1
+research,cyber,1
+research,detection,1
+research,fault,1
+research,fuzzy,1
+research,grid,1
+research,immune,1
+research,intrusion,1
+research,nerc,1
+research,network,1
+research,neural,1
+research,power,1
+research,risk,1
+research,security,1
+research,set,1
+research,smart,1
+small business,technology transition,1
+antivirus,botnet,1
+antivirus,ddos,1
+antivirus,incentive,1
+antivirus,malware,1
+antivirus,organized crime,1
+antivirus,zombie,1
+botnet,ddos,1
+botnet,incentive,1
+botnet,malware,1
+botnet,organized crime,1
+botnet,zombie,1
+botnet,digital infrastructure,1
+botnet,economic incentive,1
+botnet,internet service provider,1
+botnet,threat reduction strategy,1
+ddos,incentive,1
+ddos,malware,1
+ddos,organized crime,1
+ddos,zombie,1
+incentive,malware,1
+incentive,organized crime,1
+incentive,zombie,1
+malware,organized crime,1
+malware,zombie,1
+organized crime,zombie,1
+advanced meter infrastructure,infrastructure security,1
+advanced meter infrastructure,smart grid,1
+infrastructure security,smart grid,1
+smart grid,adaptive autonomy,1
+smart grid,cyber security,2
+smart grid,human automation interaction,1
+smart grid,performance shaping factor,1
+smart grid,cloud computing,1
+smart grid,computer network security,1
+smart grid,cybersecurity information exchange,1
+smart grid,future network,1
+smart grid,grid computing,1
+smart grid,next generation network,1
+smart grid,energy efficiency,1
+smart grid,governmental fiscal stimuli,1
+smart grid,intelligence,1
+smart grid,metering,1
+smart grid,smart grid technology,1
+smart grid,smart metering,1
+smart grid,smart power grid,1
+smart grid,uk,1
+cyber security metric,cyber security standard,1
+cyber security metric,information security,1
+cyber security metric,risk management,1
+computer crime,cybersecurity metric,1
+computer crime,data mining,1
+computer crime,database,1
+computer crime,forecasting,1
+computer crime,internet,1
+computer crime,network,1
+computer crime,network security,1
+computer crime,cnii protection,1
+computer crime,communication network,1
+computer crime,component,1
+computer crime,critical infrastructure,1
+computer crime,critical national information infrastructure,1
+computer crime,cyber attack,1
+computer crime,cyber security policy,1
+computer crime,cyber terrorism,1
+computer crime,cyber threat,1
+computer crime,economic strength,1
+computer crime,government capability,1
+computer crime,government data processing,1
+computer crime,government policy,1
+computer crime,information network,1
+computer crime,policy development,1
+computer crime,public health,1
+computer crime,safeguarding malaysia critical national information infrastructure,1
+cybersecurity metric,data mining,1
+cybersecurity metric,database,1
+cybersecurity metric,forecasting,1
+cybersecurity metric,internet,1
+cybersecurity metric,network,1
+cybersecurity metric,network security,1
+data mining,database,1
+data mining,forecasting,1
+data mining,internet,1
+data mining,network,1
+data mining,network security,1
+database,forecasting,1
+database,internet,1
+database,network,1
+database,network security,1
+forecasting,internet,1
+forecasting,network,1
+forecasting,network security,1
+internet,network,1
+internet,network security,1
+internet,attack,1
+internet,authorisation,2
+internet,communication,1
+internet,computer,1
+internet,control,1
+internet,crime,1
+internet,critical,1
+internet,cyber,2
+internet,data,1
+internet,denial,1
+internet,detection,1
+internet,distribution,1
+internet,electricity,1
+internet,ethernet,1
+internet,firewall,1
+internet,gas,1
+internet,generation,1
+internet,infrastructure,2
+internet,injection,1
+internet,intrusion,1
+internet,net,1
+internet,neural,1
+internet,oil,1
+internet,production,1
+internet,protocol,2
+internet,sector,1
+internet,security,2
+internet,service,1
+internet,threat,1
+internet,treatment,1
+internet,water,1
+internet,community cyber security,1
+internet,cyber security,1
+internet,demarcated geographical boundary,1
+internet,discretionary access control,1
+internet,infrastructure assurance,1
+internet,mandatory access control,1
+internet,role access control,1
+internet,secure information sharing model,1
+internet,authentication,1
+internet,design,1
+internet,effective,1
+internet,grid,1
+internet,past,1
+internet,power,1
+internet,principle,1
+internet,standard,1
+internet,work,1
+network,network security,1
+network,integer optimization,1
+network,multiobjective,1
+network,optimization,1
+network,algorithm,1
+network,artificial,1
+network,assessment,1
+network,attack,1
+network,challenge,1
+network,cyber,1
+network,detection,1
+network,fault,1
+network,fuzzy,1
+network,grid,1
+network,immune,1
+network,intrusion,1
+network,nerc,1
+network,neural,1
+network,power,1
+network,risk,1
+network,security,1
+network,set,1
+network,smart,1
+network security,better understanding,1
+network security,challenging problem,1
+network security,cyber security,1
+network security,game theory,1
+network security,network defense mechanism design,1
+attack,cloud computing,1
+attack,cyberthreat proliferation,1
+attack,defense,1
+attack,h1n1 flu virus,1
+attack,infectious disease,1
+attack,kellermann coresecurity,1
+attack,pervasive global epidemic,1
+attack,security,3
+attack,situational awareness,1
+attack,ubiquitous computing,1
+attack,algorithm,1
+attack,artificial,1
+attack,assessment,1
+attack,challenge,1
+attack,cyber,2
+attack,detection,2
+attack,fault,1
+attack,fuzzy,1
+attack,grid,1
+attack,immune,1
+attack,intrusion,2
+attack,nerc,1
+attack,neural,2
+attack,power,1
+attack,risk,1
+attack,set,1
+attack,smart,1
+attack,authorisation,1
+attack,communication,1
+attack,computer,1
+attack,control,1
+attack,crime,1
+attack,critical,1
+attack,data,1
+attack,denial,1
+attack,distribution,1
+attack,electricity,1
+attack,ethernet,1
+attack,firewall,1
+attack,gas,1
+attack,generation,1
+attack,infrastructure,1
+attack,injection,1
+attack,net,1
+attack,oil,1
+attack,production,1
+attack,protocol,1
+attack,sector,1
+attack,service,1
+attack,threat,1
+attack,treatment,1
+attack,water,1
+cloud computing,cyberthreat proliferation,1
+cloud computing,defense,1
+cloud computing,h1n1 flu virus,1
+cloud computing,infectious disease,1
+cloud computing,kellermann coresecurity,1
+cloud computing,pervasive global epidemic,1
+cloud computing,security,1
+cloud computing,situational awareness,1
+cloud computing,ubiquitous computing,1
+cloud computing,cyber security,1
+cloud computing,mission assurance,1
+cloud computing,mission effectiveness,1
+cloud computing,computer network security,1
+cloud computing,cybersecurity information exchange,1
+cloud computing,future network,1
+cloud computing,grid computing,1
+cloud computing,next generation network,1
+cyberthreat proliferation,defense,1
+cyberthreat proliferation,h1n1 flu virus,1
+cyberthreat proliferation,infectious disease,1
+cyberthreat proliferation,kellermann coresecurity,1
+cyberthreat proliferation,pervasive global epidemic,1
+cyberthreat proliferation,security,1
+cyberthreat proliferation,situational awareness,1
+cyberthreat proliferation,ubiquitous computing,1
+defense,h1n1 flu virus,1
+defense,infectious disease,1
+defense,kellermann coresecurity,1
+defense,pervasive global epidemic,1
+defense,security,1
+defense,situational awareness,1
+defense,ubiquitous computing,1
+h1n1 flu virus,infectious disease,1
+h1n1 flu virus,kellermann coresecurity,1
+h1n1 flu virus,pervasive global epidemic,1
+h1n1 flu virus,security,1
+h1n1 flu virus,situational awareness,1
+h1n1 flu virus,ubiquitous computing,1
+infectious disease,kellermann coresecurity,1
+infectious disease,pervasive global epidemic,1
+infectious disease,security,1
+infectious disease,situational awareness,1
+infectious disease,ubiquitous computing,1
+kellermann coresecurity,pervasive global epidemic,1
+kellermann coresecurity,security,1
+kellermann coresecurity,situational awareness,1
+kellermann coresecurity,ubiquitous computing,1
+pervasive global epidemic,security,1
+pervasive global epidemic,situational awareness,1
+pervasive global epidemic,ubiquitous computing,1
+security,situational awareness,1
+security,ubiquitous computing,1
+security,cybex,1
+security,design,2
+security,information exchange,1
+security,standardization,1
+security,analyst,1
+security,bulletin,1
+security,collaboration,1
+security,collaborative,1
+security,computer,3
+security,data,3
+security,framework,1
+security,groupware,1
+security,assurance,1
+security,cyber,4
+security,improving,1
+security,investment,1
+security,methodology,1
+security,mission,1
+security,objective,1
+security,planning,1
+security,prep,1
+security,preparedness,1
+security,prioritization,1
+security,success,1
+security,threat,2
+security,bad data detection,1
+security,control,2
+security,critical infrastructure,1
+security,critical state estimation component,1
+security,cyber attack,1
+security,cyber security,2
+security,deception attack,1
+security,electric power,1
+security,engineering computing,1
+security,grid,3
+security,intelligent attacker,1
+security,linear state estimator,1
+security,measurement redundancy,1
+security,nonlinear estimation,1
+security,nonlinear estimator,1
+security,random outlier detection,1
+security,reliability,1
+security,reliable operation,1
+security,safe operation,1
+security,state estimation,1
+security,supervisory control and data acquisition,1
+security,coding,1
+security,education,1
+security,keylogging,1
+security,rootkit,1
+security,secure,1
+security,algorithm,1
+security,artificial,1
+security,assessment,1
+security,challenge,1
+security,detection,2
+security,fault,1
+security,fuzzy,1
+security,immune,1
+security,intrusion,2
+security,nerc,1
+security,neural,2
+security,power,2
+security,risk,1
+security,set,1
+security,smart,1
+security,continuous mission oriented assessment,1
+security,distributed processing,1
+security,enterprise management,1
+security,esm,1
+security,fault tolerance,1
+security,information assurance,1
+security,information management,1
+security,interaction pattern,1
+security,mission assurance,1
+security,nagios,1
+security,ossec,1
+security,platform,1
+security,quality of service,1
+security,runtime assessment,1
+security,snmp,1
+security,authorisation,1
+security,communication,1
+security,crime,1
+security,critical,1
+security,denial,1
+security,distribution,1
+security,electricity,1
+security,ethernet,1
+security,firewall,1
+security,gas,1
+security,generation,1
+security,infrastructure,2
+security,injection,1
+security,net,1
+security,oil,1
+security,production,1
+security,protocol,2
+security,sector,1
+security,service,1
+security,treatment,1
+security,water,1
+security,authentication,1
+security,effective,1
+security,past,1
+security,principle,1
+security,standard,1
+security,work,1
+situational awareness,ubiquitous computing,1
+ubiquitous computing,ambient intelligence,1
+ubiquitous computing,artificial intelligence,1
+ubiquitous computing,context,1
+ubiquitous computing,context-aware application,1
+ubiquitous computing,contextual information,1
+ubiquitous computing,cyber-security application,1
+ubiquitous computing,defense application,1
+ubiquitous computing,high-level fusion architecture,1
+ubiquitous computing,ontologies,1
+ubiquitous computing,security of data,1
+ubiquitous computing,sensor fusion,1
+china,comprehensive national cybersecurity initiative,1
+china,cyberconflict,1
+china,cybersecurity policy,1
+china,cyberwar,1
+china,estonia,1
+china,privacy,1
+comprehensive national cybersecurity initiative,cyberconflict,1
+comprehensive national cybersecurity initiative,cybersecurity policy,1
+comprehensive national cybersecurity initiative,cyberwar,1
+comprehensive national cybersecurity initiative,estonia,1
+comprehensive national cybersecurity initiative,privacy,1
+cyberconflict,cybersecurity policy,1
+cyberconflict,cyberwar,1
+cyberconflict,estonia,1
+cyberconflict,privacy,1
+cybersecurity policy,cyberwar,1
+cybersecurity policy,estonia,1
+cybersecurity policy,privacy,1
+cyberwar,estonia,1
+cyberwar,privacy,1
+estonia,privacy,1
+integer optimization,multiobjective,1
+integer optimization,optimization,1
+multiobjective,optimization,1
+adaptive autonomy,cyber security,1
+adaptive autonomy,human automation interaction,1
+adaptive autonomy,performance shaping factor,1
+cyber security,human automation interaction,1
+cyber security,performance shaping factor,1
+cyber security,data protection,1
+cyber security,information technology amendment act,1
+cyber security,corporate intelligence,1
+cyber security,cyber attack,2
+cyber security,data security,1
+cyber security,gises model,1
+cyber security,organizational aspect,1
+cyber security,organizational learning,1
+cyber security,organizational vulnerability,1
+cyber security,security culture,1
+cyber security,senior management,1
+cyber security,bad data detection,1
+cyber security,control,1
+cyber security,critical infrastructure,1
+cyber security,critical state estimation component,1
+cyber security,deception attack,1
+cyber security,electric power,1
+cyber security,engineering computing,1
+cyber security,grid,1
+cyber security,intelligent attacker,1
+cyber security,linear state estimator,1
+cyber security,measurement redundancy,1
+cyber security,nonlinear estimation,1
+cyber security,nonlinear estimator,1
+cyber security,random outlier detection,1
+cyber security,reliability,1
+cyber security,reliable operation,1
+cyber security,safe operation,1
+cyber security,state estimation,1
+cyber security,supervisory control and data acquisition,1
+cyber security,bayesian network,1
+cyber security,belief network,1
+cyber security,business communication,1
+cyber security,computer network security,1
+cyber security,enterprise network,1
+cyber security,intrusion response,1
+cyber security,parameter perturbation,1
+cyber security,uncertainty handling,1
+cyber security,uncertainty modeling,1
+cyber security,control system communication,1
+cyber security,intrusion detection,1
+cyber security,support vector data description,1
+cyber security,support vector machine,1
+cyber security,mission assurance,2
+cyber security,mission effectiveness,1
+cyber security,better understanding,1
+cyber security,challenging problem,1
+cyber security,game theory,1
+cyber security,network defense mechanism design,1
+cyber security,cyber attack outbreak,1
+cyber security,cyber security domain,1
+cyber security,discover coherent relationship,1
+cyber security,domain specific open source,1
+cyber security,key domain term,1
+cyber security,numerous open source intelligence,1
+cyber security,open source intelligence,1
+cyber security,term extraction pattern,1
+cyber security,unstructured open source information,1
+cyber security,unstructured text,1
+cyber security,unstructured text document,1
+cyber security,various public web source,1
+cyber security,continuous mission oriented assessment,1
+cyber security,data,1
+cyber security,distributed processing,1
+cyber security,enterprise management,1
+cyber security,esm,1
+cyber security,fault tolerance,1
+cyber security,information assurance,1
+cyber security,information management,1
+cyber security,interaction pattern,1
+cyber security,nagios,1
+cyber security,ossec,1
+cyber security,platform,1
+cyber security,quality of service,1
+cyber security,runtime assessment,1
+cyber security,snmp,1
+cyber security,authorisation,1
+cyber security,community cyber security,1
+cyber security,demarcated geographical boundary,1
+cyber security,discretionary access control,1
+cyber security,infrastructure assurance,1
+cyber security,mandatory access control,1
+cyber security,role access control,1
+cyber security,secure information sharing model,1
+cyber security,energy efficiency,1
+cyber security,governmental fiscal stimuli,1
+cyber security,intelligence,1
+cyber security,metering,1
+cyber security,smart grid technology,1
+cyber security,smart metering,1
+cyber security,smart power grid,1
+cyber security,uk,1
+cyber security,cyber crime,1
+cyber security,insider threat,1
+human automation interaction,performance shaping factor,1
+cyberspace security,legal issue,1
+cyberspace security,mandatory inoculation,1
+legal issue,mandatory inoculation,1
+author share,busy class,1
+author share,condensed course schedule,1
+author share,condensed version,1
+author share,course component,1
+author share,different course component,1
+author share,escalating cyber security threat,1
+author share,tight schedule,1
+author share,time condensed computer security class,1
+author share,time condensed version,1
+author share,undergraduate level computer security,1
+busy class,condensed course schedule,1
+busy class,condensed version,1
+busy class,course component,1
+busy class,different course component,1
+busy class,escalating cyber security threat,1
+busy class,tight schedule,1
+busy class,time condensed computer security class,1
+busy class,time condensed version,1
+busy class,undergraduate level computer security,1
+condensed course schedule,condensed version,1
+condensed course schedule,course component,1
+condensed course schedule,different course component,1
+condensed course schedule,escalating cyber security threat,1
+condensed course schedule,tight schedule,1
+condensed course schedule,time condensed computer security class,1
+condensed course schedule,time condensed version,1
+condensed course schedule,undergraduate level computer security,1
+condensed version,course component,1
+condensed version,different course component,1
+condensed version,escalating cyber security threat,1
+condensed version,tight schedule,1
+condensed version,time condensed computer security class,1
+condensed version,time condensed version,1
+condensed version,undergraduate level computer security,1
+course component,different course component,1
+course component,escalating cyber security threat,1
+course component,tight schedule,1
+course component,time condensed computer security class,1
+course component,time condensed version,1
+course component,undergraduate level computer security,1
+different course component,escalating cyber security threat,1
+different course component,tight schedule,1
+different course component,time condensed computer security class,1
+different course component,time condensed version,1
+different course component,undergraduate level computer security,1
+escalating cyber security threat,tight schedule,1
+escalating cyber security threat,time condensed computer security class,1
+escalating cyber security threat,time condensed version,1
+escalating cyber security threat,undergraduate level computer security,1
+tight schedule,time condensed computer security class,1
+tight schedule,time condensed version,1
+tight schedule,undergraduate level computer security,1
+time condensed computer security class,time condensed version,1
+time condensed computer security class,undergraduate level computer security,1
+time condensed version,undergraduate level computer security,1
+cybex,design,1
+cybex,information exchange,1
+cybex,standardization,1
+design,information exchange,1
+design,standardization,1
+design,authentication,1
+design,cyber,1
+design,effective,1
+design,grid,1
+design,infrastructure,1
+design,past,1
+design,power,1
+design,principle,1
+design,protocol,1
+design,standard,1
+design,work,1
+information exchange,standardization,1
+data protection,information technology amendment act,1
+corporate intelligence,cyber attack,1
+corporate intelligence,data security,1
+corporate intelligence,gises model,1
+corporate intelligence,organizational aspect,1
+corporate intelligence,organizational learning,1
+corporate intelligence,organizational vulnerability,1
+corporate intelligence,security culture,1
+corporate intelligence,senior management,1
+cyber attack,data security,1
+cyber attack,gises model,1
+cyber attack,organizational aspect,1
+cyber attack,organizational learning,1
+cyber attack,organizational vulnerability,1
+cyber attack,security culture,1
+cyber attack,senior management,1
+cyber attack,bad data detection,1
+cyber attack,control,1
+cyber attack,critical infrastructure,2
+cyber attack,critical state estimation component,1
+cyber attack,deception attack,1
+cyber attack,electric power,1
+cyber attack,engineering computing,1
+cyber attack,grid,1
+cyber attack,intelligent attacker,1
+cyber attack,linear state estimator,1
+cyber attack,measurement redundancy,1
+cyber attack,nonlinear estimation,1
+cyber attack,nonlinear estimator,1
+cyber attack,random outlier detection,1
+cyber attack,reliability,1
+cyber attack,reliable operation,1
+cyber attack,safe operation,1
+cyber attack,state estimation,1
+cyber attack,supervisory control and data acquisition,1
+cyber attack,cnii protection,1
+cyber attack,communication network,1
+cyber attack,component,1
+cyber attack,critical national information infrastructure,1
+cyber attack,cyber security policy,1
+cyber attack,cyber terrorism,1
+cyber attack,cyber threat,1
+cyber attack,economic strength,1
+cyber attack,government capability,1
+cyber attack,government data processing,1
+cyber attack,government policy,1
+cyber attack,information network,1
+cyber attack,policy development,1
+cyber attack,public health,1
+cyber attack,safeguarding malaysia critical national information infrastructure,1
+data security,gises model,1
+data security,organizational aspect,1
+data security,organizational learning,1
+data security,organizational vulnerability,1
+data security,security culture,1
+data security,senior management,1
+gises model,organizational aspect,1
+gises model,organizational learning,1
+gises model,organizational vulnerability,1
+gises model,security culture,1
+gises model,senior management,1
+organizational aspect,organizational learning,1
+organizational aspect,organizational vulnerability,1
+organizational aspect,security culture,1
+organizational aspect,senior management,1
+organizational learning,organizational vulnerability,1
+organizational learning,security culture,1
+organizational learning,senior management,1
+organizational vulnerability,security culture,1
+organizational vulnerability,senior management,1
+security culture,senior management,1
+analyst,bulletin,1
+analyst,collaboration,1
+analyst,collaborative,1
+analyst,computer,1
+analyst,data,1
+analyst,framework,1
+analyst,groupware,1
+bulletin,collaboration,1
+bulletin,collaborative,1
+bulletin,computer,1
+bulletin,data,1
+bulletin,framework,1
+bulletin,groupware,1
+collaboration,collaborative,1
+collaboration,computer,1
+collaboration,data,1
+collaboration,framework,1
+collaboration,groupware,1
+collaborative,computer,1
+collaborative,data,1
+collaborative,framework,1
+collaborative,groupware,1
+computer,data,2
+computer,framework,1
+computer,groupware,1
+computer,coding,1
+computer,education,1
+computer,keylogging,1
+computer,rootkit,1
+computer,secure,1
+computer,authorisation,1
+computer,communication,1
+computer,control,1
+computer,crime,1
+computer,critical,1
+computer,cyber,1
+computer,denial,1
+computer,detection,1
+computer,distribution,1
+computer,electricity,1
+computer,ethernet,1
+computer,firewall,1
+computer,gas,1
+computer,generation,1
+computer,infrastructure,1
+computer,injection,1
+computer,intrusion,1
+computer,net,1
+computer,neural,1
+computer,oil,1
+computer,production,1
+computer,protocol,1
+computer,sector,1
+computer,service,1
+computer,threat,1
+computer,treatment,1
+computer,water,1
+data,framework,1
+data,groupware,1
+data,continuous mission oriented assessment,1
+data,distributed processing,1
+data,enterprise management,1
+data,esm,1
+data,fault tolerance,1
+data,information assurance,1
+data,information management,1
+data,interaction pattern,1
+data,mission assurance,1
+data,nagios,1
+data,ossec,1
+data,platform,1
+data,quality of service,1
+data,runtime assessment,1
+data,snmp,1
+data,authorisation,1
+data,communication,1
+data,control,1
+data,crime,1
+data,critical,1
+data,cyber,1
+data,denial,1
+data,detection,1
+data,distribution,1
+data,electricity,1
+data,ethernet,1
+data,firewall,1
+data,gas,1
+data,generation,1
+data,infrastructure,1
+data,injection,1
+data,intrusion,1
+data,net,1
+data,neural,1
+data,oil,1
+data,production,1
+data,protocol,1
+data,sector,1
+data,service,1
+data,threat,1
+data,treatment,1
+data,water,1
+framework,groupware,1
+information security,risk management,1
+information security,computer security,1
+information security,cybersecurity research,1
+information security,high performance computing,1
+information security,information assurance,1
+information security,research funding,1
+assurance,cyber,1
+assurance,improving,1
+assurance,investment,1
+assurance,methodology,1
+assurance,mission,1
+assurance,objective,1
+assurance,planning,1
+assurance,prep,1
+assurance,preparedness,1
+assurance,prioritization,1
+assurance,success,1
+assurance,threat,1
+cyber,improving,1
+cyber,investment,1
+cyber,methodology,1
+cyber,mission,1
+cyber,objective,1
+cyber,planning,1
+cyber,prep,1
+cyber,preparedness,1
+cyber,prioritization,1
+cyber,success,1
+cyber,threat,2
+cyber,algorithm,1
+cyber,artificial,1
+cyber,assessment,1
+cyber,challenge,1
+cyber,detection,2
+cyber,fault,1
+cyber,fuzzy,1
+cyber,grid,2
+cyber,immune,1
+cyber,intrusion,2
+cyber,nerc,1
+cyber,neural,2
+cyber,power,2
+cyber,risk,1
+cyber,set,1
+cyber,smart,1
+cyber,authorisation,1
+cyber,communication,1
+cyber,control,1
+cyber,crime,1
+cyber,critical,1
+cyber,denial,1
+cyber,distribution,1
+cyber,electricity,1
+cyber,ethernet,1
+cyber,firewall,1
+cyber,gas,1
+cyber,generation,1
+cyber,infrastructure,2
+cyber,injection,1
+cyber,net,1
+cyber,oil,1
+cyber,production,1
+cyber,protocol,2
+cyber,sector,1
+cyber,service,1
+cyber,treatment,1
+cyber,water,1
+cyber,authentication,1
+cyber,effective,1
+cyber,past,1
+cyber,principle,1
+cyber,standard,1
+cyber,work,1
+improving,investment,1
+improving,methodology,1
+improving,mission,1
+improving,objective,1
+improving,planning,1
+improving,prep,1
+improving,preparedness,1
+improving,prioritization,1
+improving,success,1
+improving,threat,1
+investment,methodology,1
+investment,mission,1
+investment,objective,1
+investment,planning,1
+investment,prep,1
+investment,preparedness,1
+investment,prioritization,1
+investment,success,1
+investment,threat,1
+methodology,mission,1
+methodology,objective,1
+methodology,planning,1
+methodology,prep,1
+methodology,preparedness,1
+methodology,prioritization,1
+methodology,success,1
+methodology,threat,1
+mission,objective,1
+mission,planning,1
+mission,prep,1
+mission,preparedness,1
+mission,prioritization,1
+mission,success,1
+mission,threat,1
+objective,planning,1
+objective,prep,1
+objective,preparedness,1
+objective,prioritization,1
+objective,success,1
+objective,threat,1
+planning,prep,1
+planning,preparedness,1
+planning,prioritization,1
+planning,success,1
+planning,threat,1
+prep,preparedness,1
+prep,prioritization,1
+prep,success,1
+prep,threat,1
+preparedness,prioritization,1
+preparedness,success,1
+preparedness,threat,1
+prioritization,success,1
+prioritization,threat,1
+success,threat,1
+threat,authorisation,1
+threat,communication,1
+threat,control,1
+threat,crime,1
+threat,critical,1
+threat,denial,1
+threat,detection,1
+threat,distribution,1
+threat,electricity,1
+threat,ethernet,1
+threat,firewall,1
+threat,gas,1
+threat,generation,1
+threat,infrastructure,1
+threat,injection,1
+threat,intrusion,1
+threat,net,1
+threat,neural,1
+threat,oil,1
+threat,production,1
+threat,protocol,1
+threat,sector,1
+threat,service,1
+threat,treatment,1
+threat,water,1
+attack tree,defense system,1
+attack tree,power system control,1
+attack tree,security vulnerability,1
+defense system,power system control,1
+defense system,security vulnerability,1
+power system control,security vulnerability,1
+power system control,control engineering computing,1
+power system control,control system security,1
+power system control,critical infrastructure security,1
+power system control,cyberinfrastructure,1
+power system control,industrial control,1
+power system control,industrial control system,1
+power system control,industrial cyber security,1
+power system control,industrial plant,1
+power system control,intrusion avoidance,1
+power system control,north american electric reliability council,1
+power system control,power plant,1
+power system control,scada,1
+power system control,scada security,1
+power system control,security data,1
+power system control,security threat,1
+incident command,intelligent agent,1
+incident command,linear sensitivity,1
+incident command,reactive power resources,1
+incident command,voltage control,1
+intelligent agent,linear sensitivity,1
+intelligent agent,reactive power resources,1
+intelligent agent,voltage control,1
+linear sensitivity,reactive power resources,1
+linear sensitivity,voltage control,1
+reactive power resources,voltage control,1
+building human capacity,cooperation,1
+building human capacity,coordination,1
+building human capacity,cybersecurity culture,1
+building human capacity,cybersecurity strategy,1
+building human capacity,national cybersecurity action plan,1
+building human capacity,organisational structure,1
+building human capacity,proactive measure,1
+building human capacity,reactive measure,1
+cooperation,coordination,1
+cooperation,cybersecurity culture,1
+cooperation,cybersecurity strategy,1
+cooperation,national cybersecurity action plan,1
+cooperation,organisational structure,1
+cooperation,proactive measure,1
+cooperation,reactive measure,1
+coordination,cybersecurity culture,1
+coordination,cybersecurity strategy,1
+coordination,national cybersecurity action plan,1
+coordination,organisational structure,1
+coordination,proactive measure,1
+coordination,reactive measure,1
+cybersecurity culture,cybersecurity strategy,1
+cybersecurity culture,national cybersecurity action plan,1
+cybersecurity culture,organisational structure,1
+cybersecurity culture,proactive measure,1
+cybersecurity culture,reactive measure,1
+cybersecurity strategy,national cybersecurity action plan,1
+cybersecurity strategy,organisational structure,1
+cybersecurity strategy,proactive measure,1
+cybersecurity strategy,reactive measure,1
+national cybersecurity action plan,organisational structure,1
+national cybersecurity action plan,proactive measure,1
+national cybersecurity action plan,reactive measure,1
+organisational structure,proactive measure,1
+organisational structure,reactive measure,1
+proactive measure,reactive measure,1
+bad data detection,control,1
+bad data detection,critical infrastructure,1
+bad data detection,critical state estimation component,1
+bad data detection,deception attack,1
+bad data detection,electric power,1
+bad data detection,engineering computing,1
+bad data detection,grid,1
+bad data detection,intelligent attacker,1
+bad data detection,linear state estimator,1
+bad data detection,measurement redundancy,1
+bad data detection,nonlinear estimation,1
+bad data detection,nonlinear estimator,1
+bad data detection,random outlier detection,1
+bad data detection,reliability,1
+bad data detection,reliable operation,1
+bad data detection,safe operation,1
+bad data detection,state estimation,1
+bad data detection,supervisory control and data acquisition,1
+control,critical infrastructure,1
+control,critical state estimation component,1
+control,deception attack,1
+control,electric power,1
+control,engineering computing,1
+control,grid,1
+control,intelligent attacker,1
+control,linear state estimator,1
+control,measurement redundancy,1
+control,nonlinear estimation,1
+control,nonlinear estimator,1
+control,random outlier detection,1
+control,reliability,1
+control,reliable operation,1
+control,safe operation,1
+control,state estimation,1
+control,supervisory control and data acquisition,1
+control,authorisation,1
+control,communication,1
+control,crime,1
+control,critical,1
+control,denial,1
+control,detection,1
+control,distribution,1
+control,electricity,1
+control,ethernet,1
+control,firewall,1
+control,gas,1
+control,generation,1
+control,infrastructure,1
+control,injection,1
+control,intrusion,1
+control,net,1
+control,neural,1
+control,oil,1
+control,production,1
+control,protocol,1
+control,sector,1
+control,service,1
+control,treatment,1
+control,water,1
+critical infrastructure,critical state estimation component,1
+critical infrastructure,deception attack,1
+critical infrastructure,electric power,1
+critical infrastructure,engineering computing,1
+critical infrastructure,grid,1
+critical infrastructure,intelligent attacker,1
+critical infrastructure,linear state estimator,1
+critical infrastructure,measurement redundancy,1
+critical infrastructure,nonlinear estimation,1
+critical infrastructure,nonlinear estimator,1
+critical infrastructure,random outlier detection,1
+critical infrastructure,reliability,1
+critical infrastructure,reliable operation,1
+critical infrastructure,safe operation,1
+critical infrastructure,state estimation,1
+critical infrastructure,supervisory control and data acquisition,1
+critical infrastructure,cnii protection,1
+critical infrastructure,communication network,1
+critical infrastructure,component,1
+critical infrastructure,critical national information infrastructure,1
+critical infrastructure,cyber security policy,1
+critical infrastructure,cyber terrorism,1
+critical infrastructure,cyber threat,1
+critical infrastructure,economic strength,1
+critical infrastructure,government capability,1
+critical infrastructure,government data processing,1
+critical infrastructure,government policy,1
+critical infrastructure,information network,1
+critical infrastructure,policy development,1
+critical infrastructure,public health,1
+critical infrastructure,safeguarding malaysia critical national information infrastructure,1
+critical state estimation component,deception attack,1
+critical state estimation component,electric power,1
+critical state estimation component,engineering computing,1
+critical state estimation component,grid,1
+critical state estimation component,intelligent attacker,1
+critical state estimation component,linear state estimator,1
+critical state estimation component,measurement redundancy,1
+critical state estimation component,nonlinear estimation,1
+critical state estimation component,nonlinear estimator,1
+critical state estimation component,random outlier detection,1
+critical state estimation component,reliability,1
+critical state estimation component,reliable operation,1
+critical state estimation component,safe operation,1
+critical state estimation component,state estimation,1
+critical state estimation component,supervisory control and data acquisition,1
+deception attack,electric power,1
+deception attack,engineering computing,1
+deception attack,grid,1
+deception attack,intelligent attacker,1
+deception attack,linear state estimator,1
+deception attack,measurement redundancy,1
+deception attack,nonlinear estimation,1
+deception attack,nonlinear estimator,1
+deception attack,random outlier detection,1
+deception attack,reliability,1
+deception attack,reliable operation,1
+deception attack,safe operation,1
+deception attack,state estimation,1
+deception attack,supervisory control and data acquisition,1
+electric power,engineering computing,1
+electric power,grid,1
+electric power,intelligent attacker,1
+electric power,linear state estimator,1
+electric power,measurement redundancy,1
+electric power,nonlinear estimation,1
+electric power,nonlinear estimator,1
+electric power,random outlier detection,1
+electric power,reliability,1
+electric power,reliable operation,1
+electric power,safe operation,1
+electric power,state estimation,1
+electric power,supervisory control and data acquisition,1
+engineering computing,grid,1
+engineering computing,intelligent attacker,1
+engineering computing,linear state estimator,1
+engineering computing,measurement redundancy,1
+engineering computing,nonlinear estimation,1
+engineering computing,nonlinear estimator,1
+engineering computing,random outlier detection,1
+engineering computing,reliability,1
+engineering computing,reliable operation,1
+engineering computing,safe operation,1
+engineering computing,state estimation,1
+engineering computing,supervisory control and data acquisition,1
+grid,intelligent attacker,1
+grid,linear state estimator,1
+grid,measurement redundancy,1
+grid,nonlinear estimation,1
+grid,nonlinear estimator,1
+grid,random outlier detection,1
+grid,reliability,1
+grid,reliable operation,1
+grid,safe operation,1
+grid,state estimation,1
+grid,supervisory control and data acquisition,1
+grid,algorithm,1
+grid,artificial,1
+grid,assessment,1
+grid,challenge,1
+grid,detection,1
+grid,fault,1
+grid,fuzzy,1
+grid,immune,1
+grid,intrusion,1
+grid,nerc,1
+grid,neural,1
+grid,power,2
+grid,risk,1
+grid,set,1
+grid,smart,1
+grid,authentication,1
+grid,effective,1
+grid,infrastructure,1
+grid,past,1
+grid,principle,1
+grid,protocol,1
+grid,standard,1
+grid,work,1
+intelligent attacker,linear state estimator,1
+intelligent attacker,measurement redundancy,1
+intelligent attacker,nonlinear estimation,1
+intelligent attacker,nonlinear estimator,1
+intelligent attacker,random outlier detection,1
+intelligent attacker,reliability,1
+intelligent attacker,reliable operation,1
+intelligent attacker,safe operation,1
+intelligent attacker,state estimation,1
+intelligent attacker,supervisory control and data acquisition,1
+linear state estimator,measurement redundancy,1
+linear state estimator,nonlinear estimation,1
+linear state estimator,nonlinear estimator,1
+linear state estimator,random outlier detection,1
+linear state estimator,reliability,1
+linear state estimator,reliable operation,1
+linear state estimator,safe operation,1
+linear state estimator,state estimation,1
+linear state estimator,supervisory control and data acquisition,1
+measurement redundancy,nonlinear estimation,1
+measurement redundancy,nonlinear estimator,1
+measurement redundancy,random outlier detection,1
+measurement redundancy,reliability,1
+measurement redundancy,reliable operation,1
+measurement redundancy,safe operation,1
+measurement redundancy,state estimation,1
+measurement redundancy,supervisory control and data acquisition,1
+nonlinear estimation,nonlinear estimator,1
+nonlinear estimation,random outlier detection,1
+nonlinear estimation,reliability,1
+nonlinear estimation,reliable operation,1
+nonlinear estimation,safe operation,1
+nonlinear estimation,state estimation,1
+nonlinear estimation,supervisory control and data acquisition,1
+nonlinear estimator,random outlier detection,1
+nonlinear estimator,reliability,1
+nonlinear estimator,reliable operation,1
+nonlinear estimator,safe operation,1
+nonlinear estimator,state estimation,1
+nonlinear estimator,supervisory control and data acquisition,1
+random outlier detection,reliability,1
+random outlier detection,reliable operation,1
+random outlier detection,safe operation,1
+random outlier detection,state estimation,1
+random outlier detection,supervisory control and data acquisition,1
+reliability,reliable operation,1
+reliability,safe operation,1
+reliability,state estimation,1
+reliability,supervisory control and data acquisition,1
+reliable operation,safe operation,1
+reliable operation,state estimation,1
+reliable operation,supervisory control and data acquisition,1
+safe operation,state estimation,1
+safe operation,supervisory control and data acquisition,1
+state estimation,supervisory control and data acquisition,1
+digital infrastructure,economic incentive,1
+digital infrastructure,internet service provider,1
+digital infrastructure,threat reduction strategy,1
+economic incentive,internet service provider,1
+economic incentive,threat reduction strategy,1
+internet service provider,threat reduction strategy,1
+bayesian network,belief network,1
+bayesian network,business communication,1
+bayesian network,computer network security,1
+bayesian network,enterprise network,1
+bayesian network,intrusion response,1
+bayesian network,parameter perturbation,1
+bayesian network,uncertainty handling,1
+bayesian network,uncertainty modeling,1
+belief network,business communication,1
+belief network,computer network security,1
+belief network,enterprise network,1
+belief network,intrusion response,1
+belief network,parameter perturbation,1
+belief network,uncertainty handling,1
+belief network,uncertainty modeling,1
+business communication,computer network security,1
+business communication,enterprise network,1
+business communication,intrusion response,1
+business communication,parameter perturbation,1
+business communication,uncertainty handling,1
+business communication,uncertainty modeling,1
+computer network security,enterprise network,1
+computer network security,intrusion response,1
+computer network security,parameter perturbation,1
+computer network security,uncertainty handling,1
+computer network security,uncertainty modeling,1
+computer network security,cybersecurity information exchange,1
+computer network security,future network,1
+computer network security,grid computing,1
+computer network security,next generation network,1
+enterprise network,intrusion response,1
+enterprise network,parameter perturbation,1
+enterprise network,uncertainty handling,1
+enterprise network,uncertainty modeling,1
+intrusion response,parameter perturbation,1
+intrusion response,uncertainty handling,1
+intrusion response,uncertainty modeling,1
+parameter perturbation,uncertainty handling,1
+parameter perturbation,uncertainty modeling,1
+uncertainty handling,uncertainty modeling,1
+communication function,embedded system device,1
+communication function,scada cyber security initiative,1
+communication function,scada network,1
+communication function,scada security,1
+communication function,scada system,1
+communication function,secure communication,1
+communication function,security function,1
+communication function,security issue,1
+communication function,security mechanism,1
+communication function,security protocol,1
+embedded system device,scada cyber security initiative,1
+embedded system device,scada network,1
+embedded system device,scada security,1
+embedded system device,scada system,1
+embedded system device,secure communication,1
+embedded system device,security function,1
+embedded system device,security issue,1
+embedded system device,security mechanism,1
+embedded system device,security protocol,1
+scada cyber security initiative,scada network,1
+scada cyber security initiative,scada security,1
+scada cyber security initiative,scada system,1
+scada cyber security initiative,secure communication,1
+scada cyber security initiative,security function,1
+scada cyber security initiative,security issue,1
+scada cyber security initiative,security mechanism,1
+scada cyber security initiative,security protocol,1
+scada network,scada security,1
+scada network,scada system,1
+scada network,secure communication,1
+scada network,security function,1
+scada network,security issue,1
+scada network,security mechanism,1
+scada network,security protocol,1
+scada security,scada system,1
+scada security,secure communication,1
+scada security,security function,1
+scada security,security issue,1
+scada security,security mechanism,1
+scada security,security protocol,1
+scada security,control engineering computing,1
+scada security,control system security,1
+scada security,critical infrastructure security,1
+scada security,cyberinfrastructure,1
+scada security,industrial control,1
+scada security,industrial control system,1
+scada security,industrial cyber security,1
+scada security,industrial plant,1
+scada security,intrusion avoidance,1
+scada security,north american electric reliability council,1
+scada security,power plant,1
+scada security,scada,1
+scada security,security data,1
+scada security,security threat,1
+scada system,secure communication,1
+scada system,security function,1
+scada system,security issue,1
+scada system,security mechanism,1
+scada system,security protocol,1
+secure communication,security function,1
+secure communication,security issue,1
+secure communication,security mechanism,1
+secure communication,security protocol,1
+security function,security issue,1
+security function,security mechanism,1
+security function,security protocol,1
+security issue,security mechanism,1
+security issue,security protocol,1
+security mechanism,security protocol,1
+control system communication,intrusion detection,1
+control system communication,support vector data description,1
+control system communication,support vector machine,1
+intrusion detection,support vector data description,1
+intrusion detection,support vector machine,1
+support vector data description,support vector machine,1
+ambient intelligence,artificial intelligence,1
+ambient intelligence,context,1
+ambient intelligence,context-aware application,1
+ambient intelligence,contextual information,1
+ambient intelligence,cyber-security application,1
+ambient intelligence,defense application,1
+ambient intelligence,high-level fusion architecture,1
+ambient intelligence,ontologies,1
+ambient intelligence,security of data,1
+ambient intelligence,sensor fusion,1
+artificial intelligence,context,1
+artificial intelligence,context-aware application,1
+artificial intelligence,contextual information,1
+artificial intelligence,cyber-security application,1
+artificial intelligence,defense application,1
+artificial intelligence,high-level fusion architecture,1
+artificial intelligence,ontologies,1
+artificial intelligence,security of data,1
+artificial intelligence,sensor fusion,1
+context,context-aware application,1
+context,contextual information,1
+context,cyber-security application,1
+context,defense application,1
+context,high-level fusion architecture,1
+context,ontologies,1
+context,security of data,1
+context,sensor fusion,1
+context-aware application,contextual information,1
+context-aware application,cyber-security application,1
+context-aware application,defense application,1
+context-aware application,high-level fusion architecture,1
+context-aware application,ontologies,1
+context-aware application,security of data,1
+context-aware application,sensor fusion,1
+contextual information,cyber-security application,1
+contextual information,defense application,1
+contextual information,high-level fusion architecture,1
+contextual information,ontologies,1
+contextual information,security of data,1
+contextual information,sensor fusion,1
+cyber-security application,defense application,1
+cyber-security application,high-level fusion architecture,1
+cyber-security application,ontologies,1
+cyber-security application,security of data,1
+cyber-security application,sensor fusion,1
+defense application,high-level fusion architecture,1
+defense application,ontologies,1
+defense application,security of data,1
+defense application,sensor fusion,1
+high-level fusion architecture,ontologies,1
+high-level fusion architecture,security of data,1
+high-level fusion architecture,sensor fusion,1
+ontologies,security of data,1
+ontologies,sensor fusion,1
+security of data,sensor fusion,1
+security of data,architectural design security,1
+security of data,banking,1
+security of data,critical information asset protection,1
+security of data,cyber security attack,1
+security of data,data flow diagram,1
+security of data,e banking application,1
+security of data,electronic commerce,1
+security of data,internet banking,1
+security of data,microsoft secure development lifecycle tool,1
+security of data,security design,1
+security of data,software architecture,1
+security of data,software development lifecycle,1
+security of data,threat modeling,1
+security of data,threat modeling tool,1
+mission assurance,mission effectiveness,1
+mission assurance,carnegie mellon university,1
+mission assurance,computational infrastructure,1
+mission assurance,cyber security econometrics,1
+mission assurance,cyberspace security econometrics,1
+mission assurance,earlier work,1
+mission assurance,field support deficiency,1
+mission assurance,mission assurance protocol,1
+mission assurance,mission success,1
+mission assurance,security breakdown,1
+mission assurance,software engineering institute,1
+mission assurance,stake estimation,1
+mission assurance,systematic comprehensive computational model,1
+mission assurance,continuous mission oriented assessment,1
+mission assurance,distributed processing,1
+mission assurance,enterprise management,1
+mission assurance,esm,1
+mission assurance,fault tolerance,1
+mission assurance,information assurance,1
+mission assurance,information management,1
+mission assurance,interaction pattern,1
+mission assurance,nagios,1
+mission assurance,ossec,1
+mission assurance,platform,1
+mission assurance,quality of service,1
+mission assurance,runtime assessment,1
+mission assurance,snmp,1
+culture,globalization,1
+culture,internationalization,1
+culture,policy,1
+globalization,internationalization,1
+globalization,policy,1
+internationalization,policy,1
+computer security,cybersecurity research,1
+computer security,high performance computing,1
+computer security,information assurance,1
+computer security,research funding,1
+cybersecurity research,high performance computing,1
+cybersecurity research,information assurance,1
+cybersecurity research,research funding,1
+high performance computing,information assurance,1
+high performance computing,research funding,1
+information assurance,research funding,1
+information assurance,continuous mission oriented assessment,1
+information assurance,distributed processing,1
+information assurance,enterprise management,1
+information assurance,esm,1
+information assurance,fault tolerance,1
+information assurance,information management,1
+information assurance,interaction pattern,1
+information assurance,nagios,1
+information assurance,ossec,1
+information assurance,platform,1
+information assurance,quality of service,1
+information assurance,runtime assessment,1
+information assurance,snmp,1
+coding,education,1
+coding,keylogging,1
+coding,rootkit,1
+coding,secure,1
+education,keylogging,1
+education,rootkit,1
+education,secure,1
+keylogging,rootkit,1
+keylogging,secure,1
+rootkit,secure,1
+cybersecurity initiative,private sector,1
+cnii protection,communication network,1
+cnii protection,component,1
+cnii protection,critical national information infrastructure,1
+cnii protection,cyber security policy,1
+cnii protection,cyber terrorism,1
+cnii protection,cyber threat,1
+cnii protection,economic strength,1
+cnii protection,government capability,1
+cnii protection,government data processing,1
+cnii protection,government policy,1
+cnii protection,information network,1
+cnii protection,policy development,1
+cnii protection,public health,1
+cnii protection,safeguarding malaysia critical national information infrastructure,1
+communication network,component,1
+communication network,critical national information infrastructure,1
+communication network,cyber security policy,1
+communication network,cyber terrorism,1
+communication network,cyber threat,1
+communication network,economic strength,1
+communication network,government capability,1
+communication network,government data processing,1
+communication network,government policy,1
+communication network,information network,1
+communication network,policy development,1
+communication network,public health,1
+communication network,safeguarding malaysia critical national information infrastructure,1
+component,critical national information infrastructure,1
+component,cyber security policy,1
+component,cyber terrorism,1
+component,cyber threat,1
+component,economic strength,1
+component,government capability,1
+component,government data processing,1
+component,government policy,1
+component,information network,1
+component,policy development,1
+component,public health,1
+component,safeguarding malaysia critical national information infrastructure,1
+critical national information infrastructure,cyber security policy,1
+critical national information infrastructure,cyber terrorism,1
+critical national information infrastructure,cyber threat,1
+critical national information infrastructure,economic strength,1
+critical national information infrastructure,government capability,1
+critical national information infrastructure,government data processing,1
+critical national information infrastructure,government policy,1
+critical national information infrastructure,information network,1
+critical national information infrastructure,policy development,1
+critical national information infrastructure,public health,1
+critical national information infrastructure,safeguarding malaysia critical national information infrastructure,1
+cyber security policy,cyber terrorism,1
+cyber security policy,cyber threat,1
+cyber security policy,economic strength,1
+cyber security policy,government capability,1
+cyber security policy,government data processing,1
+cyber security policy,government policy,1
+cyber security policy,information network,1
+cyber security policy,policy development,1
+cyber security policy,public health,1
+cyber security policy,safeguarding malaysia critical national information infrastructure,1
+cyber terrorism,cyber threat,1
+cyber terrorism,economic strength,1
+cyber terrorism,government capability,1
+cyber terrorism,government data processing,1
+cyber terrorism,government policy,1
+cyber terrorism,information network,1
+cyber terrorism,policy development,1
+cyber terrorism,public health,1
+cyber terrorism,safeguarding malaysia critical national information infrastructure,1
+cyber threat,economic strength,1
+cyber threat,government capability,1
+cyber threat,government data processing,1
+cyber threat,government policy,1
+cyber threat,information network,1
+cyber threat,policy development,1
+cyber threat,public health,1
+cyber threat,safeguarding malaysia critical national information infrastructure,1
+economic strength,government capability,1
+economic strength,government data processing,1
+economic strength,government policy,1
+economic strength,information network,1
+economic strength,policy development,1
+economic strength,public health,1
+economic strength,safeguarding malaysia critical national information infrastructure,1
+government capability,government data processing,1
+government capability,government policy,1
+government capability,information network,1
+government capability,policy development,1
+government capability,public health,1
+government capability,safeguarding malaysia critical national information infrastructure,1
+government data processing,government policy,1
+government data processing,information network,1
+government data processing,policy development,1
+government data processing,public health,1
+government data processing,safeguarding malaysia critical national information infrastructure,1
+government policy,information network,1
+government policy,policy development,1
+government policy,public health,1
+government policy,safeguarding malaysia critical national information infrastructure,1
+information network,policy development,1
+information network,public health,1
+information network,safeguarding malaysia critical national information infrastructure,1
+policy development,public health,1
+policy development,safeguarding malaysia critical national information infrastructure,1
+public health,safeguarding malaysia critical national information infrastructure,1
+better understanding,challenging problem,1
+better understanding,game theory,1
+better understanding,network defense mechanism design,1
+challenging problem,game theory,1
+challenging problem,network defense mechanism design,1
+game theory,network defense mechanism design,1
+cyber attack outbreak,cyber security domain,1
+cyber attack outbreak,discover coherent relationship,1
+cyber attack outbreak,domain specific open source,1
+cyber attack outbreak,key domain term,1
+cyber attack outbreak,numerous open source intelligence,1
+cyber attack outbreak,open source intelligence,1
+cyber attack outbreak,term extraction pattern,1
+cyber attack outbreak,unstructured open source information,1
+cyber attack outbreak,unstructured text,1
+cyber attack outbreak,unstructured text document,1
+cyber attack outbreak,various public web source,1
+cyber security domain,discover coherent relationship,1
+cyber security domain,domain specific open source,1
+cyber security domain,key domain term,1
+cyber security domain,numerous open source intelligence,1
+cyber security domain,open source intelligence,1
+cyber security domain,term extraction pattern,1
+cyber security domain,unstructured open source information,1
+cyber security domain,unstructured text,1
+cyber security domain,unstructured text document,1
+cyber security domain,various public web source,1
+discover coherent relationship,domain specific open source,1
+discover coherent relationship,key domain term,1
+discover coherent relationship,numerous open source intelligence,1
+discover coherent relationship,open source intelligence,1
+discover coherent relationship,term extraction pattern,1
+discover coherent relationship,unstructured open source information,1
+discover coherent relationship,unstructured text,1
+discover coherent relationship,unstructured text document,1
+discover coherent relationship,various public web source,1
+domain specific open source,key domain term,1
+domain specific open source,numerous open source intelligence,1
+domain specific open source,open source intelligence,1
+domain specific open source,term extraction pattern,1
+domain specific open source,unstructured open source information,1
+domain specific open source,unstructured text,1
+domain specific open source,unstructured text document,1
+domain specific open source,various public web source,1
+key domain term,numerous open source intelligence,1
+key domain term,open source intelligence,1
+key domain term,term extraction pattern,1
+key domain term,unstructured open source information,1
+key domain term,unstructured text,1
+key domain term,unstructured text document,1
+key domain term,various public web source,1
+numerous open source intelligence,open source intelligence,1
+numerous open source intelligence,term extraction pattern,1
+numerous open source intelligence,unstructured open source information,1
+numerous open source intelligence,unstructured text,1
+numerous open source intelligence,unstructured text document,1
+numerous open source intelligence,various public web source,1
+open source intelligence,term extraction pattern,1
+open source intelligence,unstructured open source information,1
+open source intelligence,unstructured text,1
+open source intelligence,unstructured text document,1
+open source intelligence,various public web source,1
+term extraction pattern,unstructured open source information,1
+term extraction pattern,unstructured text,1
+term extraction pattern,unstructured text document,1
+term extraction pattern,various public web source,1
+unstructured open source information,unstructured text,1
+unstructured open source information,unstructured text document,1
+unstructured open source information,various public web source,1
+unstructured text,unstructured text document,1
+unstructured text,various public web source,1
+unstructured text document,various public web source,1
+algorithm,artificial,1
+algorithm,assessment,1
+algorithm,challenge,1
+algorithm,detection,1
+algorithm,fault,1
+algorithm,fuzzy,1
+algorithm,immune,1
+algorithm,intrusion,1
+algorithm,nerc,1
+algorithm,neural,1
+algorithm,power,1
+algorithm,risk,1
+algorithm,set,1
+algorithm,smart,1
+artificial,assessment,1
+artificial,challenge,1
+artificial,detection,1
+artificial,fault,1
+artificial,fuzzy,1
+artificial,immune,1
+artificial,intrusion,1
+artificial,nerc,1
+artificial,neural,1
+artificial,power,1
+artificial,risk,1
+artificial,set,1
+artificial,smart,1
+assessment,challenge,1
+assessment,detection,1
+assessment,fault,1
+assessment,fuzzy,1
+assessment,immune,1
+assessment,intrusion,1
+assessment,nerc,1
+assessment,neural,1
+assessment,power,1
+assessment,risk,1
+assessment,set,1
+assessment,smart,1
+challenge,detection,1
+challenge,fault,1
+challenge,fuzzy,1
+challenge,immune,1
+challenge,intrusion,1
+challenge,nerc,1
+challenge,neural,1
+challenge,power,1
+challenge,risk,1
+challenge,set,1
+challenge,smart,1
+detection,fault,1
+detection,fuzzy,1
+detection,immune,1
+detection,intrusion,2
+detection,nerc,1
+detection,neural,2
+detection,power,1
+detection,risk,1
+detection,set,1
+detection,smart,1
+detection,authorisation,1
+detection,communication,1
+detection,crime,1
+detection,critical,1
+detection,denial,1
+detection,distribution,1
+detection,electricity,1
+detection,ethernet,1
+detection,firewall,1
+detection,gas,1
+detection,generation,1
+detection,infrastructure,1
+detection,injection,1
+detection,net,1
+detection,oil,1
+detection,production,1
+detection,protocol,1
+detection,sector,1
+detection,service,1
+detection,treatment,1
+detection,water,1
+fault,fuzzy,1
+fault,immune,1
+fault,intrusion,1
+fault,nerc,1
+fault,neural,1
+fault,power,1
+fault,risk,1
+fault,set,1
+fault,smart,1
+fuzzy,immune,1
+fuzzy,intrusion,1
+fuzzy,nerc,1
+fuzzy,neural,1
+fuzzy,power,1
+fuzzy,risk,1
+fuzzy,set,1
+fuzzy,smart,1
+immune,intrusion,1
+immune,nerc,1
+immune,neural,1
+immune,power,1
+immune,risk,1
+immune,set,1
+immune,smart,1
+intrusion,nerc,1
+intrusion,neural,2
+intrusion,power,1
+intrusion,risk,1
+intrusion,set,1
+intrusion,smart,1
+intrusion,authorisation,1
+intrusion,communication,1
+intrusion,crime,1
+intrusion,critical,1
+intrusion,denial,1
+intrusion,distribution,1
+intrusion,electricity,1
+intrusion,ethernet,1
+intrusion,firewall,1
+intrusion,gas,1
+intrusion,generation,1
+intrusion,infrastructure,1
+intrusion,injection,1
+intrusion,net,1
+intrusion,oil,1
+intrusion,production,1
+intrusion,protocol,1
+intrusion,sector,1
+intrusion,service,1
+intrusion,treatment,1
+intrusion,water,1
+nerc,neural,1
+nerc,power,1
+nerc,risk,1
+nerc,set,1
+nerc,smart,1
+neural,power,1
+neural,risk,1
+neural,set,1
+neural,smart,1
+neural,authorisation,1
+neural,communication,1
+neural,crime,1
+neural,critical,1
+neural,denial,1
+neural,distribution,1
+neural,electricity,1
+neural,ethernet,1
+neural,firewall,1
+neural,gas,1
+neural,generation,1
+neural,infrastructure,1
+neural,injection,1
+neural,net,1
+neural,oil,1
+neural,production,1
+neural,protocol,1
+neural,sector,1
+neural,service,1
+neural,treatment,1
+neural,water,1
+power,risk,1
+power,set,1
+power,smart,1
+power,authentication,1
+power,effective,1
+power,infrastructure,1
+power,past,1
+power,principle,1
+power,protocol,1
+power,standard,1
+power,work,1
+risk,set,1
+risk,smart,1
+set,smart,1
+carnegie mellon university,computational infrastructure,1
+carnegie mellon university,cyber security econometrics,1
+carnegie mellon university,cyberspace security econometrics,1
+carnegie mellon university,earlier work,1
+carnegie mellon university,field support deficiency,1
+carnegie mellon university,mission assurance protocol,1
+carnegie mellon university,mission success,1
+carnegie mellon university,security breakdown,1
+carnegie mellon university,software engineering institute,1
+carnegie mellon university,stake estimation,1
+carnegie mellon university,systematic comprehensive computational model,1
+computational infrastructure,cyber security econometrics,1
+computational infrastructure,cyberspace security econometrics,1
+computational infrastructure,earlier work,1
+computational infrastructure,field support deficiency,1
+computational infrastructure,mission assurance protocol,1
+computational infrastructure,mission success,1
+computational infrastructure,security breakdown,1
+computational infrastructure,software engineering institute,1
+computational infrastructure,stake estimation,1
+computational infrastructure,systematic comprehensive computational model,1
+cyber security econometrics,cyberspace security econometrics,1
+cyber security econometrics,earlier work,1
+cyber security econometrics,field support deficiency,1
+cyber security econometrics,mission assurance protocol,1
+cyber security econometrics,mission success,1
+cyber security econometrics,security breakdown,1
+cyber security econometrics,software engineering institute,1
+cyber security econometrics,stake estimation,1
+cyber security econometrics,systematic comprehensive computational model,1
+cyberspace security econometrics,earlier work,1
+cyberspace security econometrics,field support deficiency,1
+cyberspace security econometrics,mission assurance protocol,1
+cyberspace security econometrics,mission success,1
+cyberspace security econometrics,security breakdown,1
+cyberspace security econometrics,software engineering institute,1
+cyberspace security econometrics,stake estimation,1
+cyberspace security econometrics,systematic comprehensive computational model,1
+earlier work,field support deficiency,1
+earlier work,mission assurance protocol,1
+earlier work,mission success,1
+earlier work,security breakdown,1
+earlier work,software engineering institute,1
+earlier work,stake estimation,1
+earlier work,systematic comprehensive computational model,1
+field support deficiency,mission assurance protocol,1
+field support deficiency,mission success,1
+field support deficiency,security breakdown,1
+field support deficiency,software engineering institute,1
+field support deficiency,stake estimation,1
+field support deficiency,systematic comprehensive computational model,1
+mission assurance protocol,mission success,1
+mission assurance protocol,security breakdown,1
+mission assurance protocol,software engineering institute,1
+mission assurance protocol,stake estimation,1
+mission assurance protocol,systematic comprehensive computational model,1
+mission success,security breakdown,1
+mission success,software engineering institute,1
+mission success,stake estimation,1
+mission success,systematic comprehensive computational model,1
+security breakdown,software engineering institute,1
+security breakdown,stake estimation,1
+security breakdown,systematic comprehensive computational model,1
+software engineering institute,stake estimation,1
+software engineering institute,systematic comprehensive computational model,1
+stake estimation,systematic comprehensive computational model,1
+broadband,local culture,1
+broadband,local economy,1
+local culture,local economy,1
+continuous mission oriented assessment,distributed processing,1
+continuous mission oriented assessment,enterprise management,1
+continuous mission oriented assessment,esm,1
+continuous mission oriented assessment,fault tolerance,1
+continuous mission oriented assessment,information management,1
+continuous mission oriented assessment,interaction pattern,1
+continuous mission oriented assessment,nagios,1
+continuous mission oriented assessment,ossec,1
+continuous mission oriented assessment,platform,1
+continuous mission oriented assessment,quality of service,1
+continuous mission oriented assessment,runtime assessment,1
+continuous mission oriented assessment,snmp,1
+distributed processing,enterprise management,1
+distributed processing,esm,1
+distributed processing,fault tolerance,1
+distributed processing,information management,1
+distributed processing,interaction pattern,1
+distributed processing,nagios,1
+distributed processing,ossec,1
+distributed processing,platform,1
+distributed processing,quality of service,1
+distributed processing,runtime assessment,1
+distributed processing,snmp,1
+enterprise management,esm,1
+enterprise management,fault tolerance,1
+enterprise management,information management,1
+enterprise management,interaction pattern,1
+enterprise management,nagios,1
+enterprise management,ossec,1
+enterprise management,platform,1
+enterprise management,quality of service,1
+enterprise management,runtime assessment,1
+enterprise management,snmp,1
+esm,fault tolerance,1
+esm,information management,1
+esm,interaction pattern,1
+esm,nagios,1
+esm,ossec,1
+esm,platform,1
+esm,quality of service,1
+esm,runtime assessment,1
+esm,snmp,1
+fault tolerance,information management,1
+fault tolerance,interaction pattern,1
+fault tolerance,nagios,1
+fault tolerance,ossec,1
+fault tolerance,platform,1
+fault tolerance,quality of service,1
+fault tolerance,runtime assessment,1
+fault tolerance,snmp,1
+information management,interaction pattern,1
+information management,nagios,1
+information management,ossec,1
+information management,platform,1
+information management,quality of service,1
+information management,runtime assessment,1
+information management,snmp,1
+interaction pattern,nagios,1
+interaction pattern,ossec,1
+interaction pattern,platform,1
+interaction pattern,quality of service,1
+interaction pattern,runtime assessment,1
+interaction pattern,snmp,1
+nagios,ossec,1
+nagios,platform,1
+nagios,quality of service,1
+nagios,runtime assessment,1
+nagios,snmp,1
+ossec,platform,1
+ossec,quality of service,1
+ossec,runtime assessment,1
+ossec,snmp,1
+platform,quality of service,1
+platform,runtime assessment,1
+platform,snmp,1
+quality of service,runtime assessment,1
+quality of service,snmp,1
+runtime assessment,snmp,1
+authorisation,communication,1
+authorisation,crime,1
+authorisation,critical,1
+authorisation,denial,1
+authorisation,distribution,1
+authorisation,electricity,1
+authorisation,ethernet,1
+authorisation,firewall,1
+authorisation,gas,1
+authorisation,generation,1
+authorisation,infrastructure,1
+authorisation,injection,1
+authorisation,net,1
+authorisation,oil,1
+authorisation,production,1
+authorisation,protocol,1
+authorisation,sector,1
+authorisation,service,1
+authorisation,treatment,1
+authorisation,water,1
+authorisation,community cyber security,1
+authorisation,demarcated geographical boundary,1
+authorisation,discretionary access control,1
+authorisation,infrastructure assurance,1
+authorisation,mandatory access control,1
+authorisation,role access control,1
+authorisation,secure information sharing model,1
+communication,crime,1
+communication,critical,1
+communication,denial,1
+communication,distribution,1
+communication,electricity,1
+communication,ethernet,1
+communication,firewall,1
+communication,gas,1
+communication,generation,1
+communication,infrastructure,1
+communication,injection,1
+communication,net,1
+communication,oil,1
+communication,production,1
+communication,protocol,1
+communication,sector,1
+communication,service,1
+communication,treatment,1
+communication,water,1
+crime,critical,1
+crime,denial,1
+crime,distribution,1
+crime,electricity,1
+crime,ethernet,1
+crime,firewall,1
+crime,gas,1
+crime,generation,1
+crime,infrastructure,1
+crime,injection,1
+crime,net,1
+crime,oil,1
+crime,production,1
+crime,protocol,1
+crime,sector,1
+crime,service,1
+crime,treatment,1
+crime,water,1
+critical,denial,1
+critical,distribution,1
+critical,electricity,1
+critical,ethernet,1
+critical,firewall,1
+critical,gas,1
+critical,generation,1
+critical,infrastructure,1
+critical,injection,1
+critical,net,1
+critical,oil,1
+critical,production,1
+critical,protocol,1
+critical,sector,1
+critical,service,1
+critical,treatment,1
+critical,water,1
+denial,distribution,1
+denial,electricity,1
+denial,ethernet,1
+denial,firewall,1
+denial,gas,1
+denial,generation,1
+denial,infrastructure,1
+denial,injection,1
+denial,net,1
+denial,oil,1
+denial,production,1
+denial,protocol,1
+denial,sector,1
+denial,service,1
+denial,treatment,1
+denial,water,1
+distribution,electricity,1
+distribution,ethernet,1
+distribution,firewall,1
+distribution,gas,1
+distribution,generation,1
+distribution,infrastructure,1
+distribution,injection,1
+distribution,net,1
+distribution,oil,1
+distribution,production,1
+distribution,protocol,1
+distribution,sector,1
+distribution,service,1
+distribution,treatment,1
+distribution,water,1
+electricity,ethernet,1
+electricity,firewall,1
+electricity,gas,1
+electricity,generation,1
+electricity,infrastructure,1
+electricity,injection,1
+electricity,net,1
+electricity,oil,1
+electricity,production,1
+electricity,protocol,1
+electricity,sector,1
+electricity,service,1
+electricity,treatment,1
+electricity,water,1
+ethernet,firewall,1
+ethernet,gas,1
+ethernet,generation,1
+ethernet,infrastructure,1
+ethernet,injection,1
+ethernet,net,1
+ethernet,oil,1
+ethernet,production,1
+ethernet,protocol,1
+ethernet,sector,1
+ethernet,service,1
+ethernet,treatment,1
+ethernet,water,1
+firewall,gas,1
+firewall,generation,1
+firewall,infrastructure,1
+firewall,injection,1
+firewall,net,1
+firewall,oil,1
+firewall,production,1
+firewall,protocol,1
+firewall,sector,1
+firewall,service,1
+firewall,treatment,1
+firewall,water,1
+gas,generation,1
+gas,infrastructure,1
+gas,injection,1
+gas,net,1
+gas,oil,1
+gas,production,1
+gas,protocol,1
+gas,sector,1
+gas,service,1
+gas,treatment,1
+gas,water,1
+generation,infrastructure,1
+generation,injection,1
+generation,net,1
+generation,oil,1
+generation,production,1
+generation,protocol,1
+generation,sector,1
+generation,service,1
+generation,treatment,1
+generation,water,1
+infrastructure,injection,1
+infrastructure,net,1
+infrastructure,oil,1
+infrastructure,production,1
+infrastructure,protocol,2
+infrastructure,sector,1
+infrastructure,service,1
+infrastructure,treatment,1
+infrastructure,water,1
+infrastructure,authentication,1
+infrastructure,effective,1
+infrastructure,past,1
+infrastructure,principle,1
+infrastructure,standard,1
+infrastructure,work,1
+injection,net,1
+injection,oil,1
+injection,production,1
+injection,protocol,1
+injection,sector,1
+injection,service,1
+injection,treatment,1
+injection,water,1
+net,oil,1
+net,production,1
+net,protocol,1
+net,sector,1
+net,service,1
+net,treatment,1
+net,water,1
+oil,production,1
+oil,protocol,1
+oil,sector,1
+oil,service,1
+oil,treatment,1
+oil,water,1
+production,protocol,1
+production,sector,1
+production,service,1
+production,treatment,1
+production,water,1
+protocol,sector,1
+protocol,service,1
+protocol,treatment,1
+protocol,water,1
+protocol,authentication,1
+protocol,effective,1
+protocol,past,1
+protocol,principle,1
+protocol,standard,1
+protocol,work,1
+sector,service,1
+sector,treatment,1
+sector,water,1
+service,treatment,1
+service,water,1
+treatment,water,1
+cognitive task,cyber security visualization,1
+cognitive task,security analyst feedback,1
+cognitive task,task flow diagram,1
+cyber security visualization,security analyst feedback,1
+cyber security visualization,task flow diagram,1
+security analyst feedback,task flow diagram,1
+community cyber security,demarcated geographical boundary,1
+community cyber security,discretionary access control,1
+community cyber security,infrastructure assurance,1
+community cyber security,mandatory access control,1
+community cyber security,role access control,1
+community cyber security,secure information sharing model,1
+demarcated geographical boundary,discretionary access control,1
+demarcated geographical boundary,infrastructure assurance,1
+demarcated geographical boundary,mandatory access control,1
+demarcated geographical boundary,role access control,1
+demarcated geographical boundary,secure information sharing model,1
+discretionary access control,infrastructure assurance,1
+discretionary access control,mandatory access control,1
+discretionary access control,role access control,1
+discretionary access control,secure information sharing model,1
+infrastructure assurance,mandatory access control,1
+infrastructure assurance,role access control,1
+infrastructure assurance,secure information sharing model,1
+mandatory access control,role access control,1
+mandatory access control,secure information sharing model,1
+role access control,secure information sharing model,1
+control engineering computing,control system security,1
+control engineering computing,critical infrastructure security,1
+control engineering computing,cyberinfrastructure,1
+control engineering computing,industrial control,1
+control engineering computing,industrial control system,1
+control engineering computing,industrial cyber security,1
+control engineering computing,industrial plant,1
+control engineering computing,intrusion avoidance,1
+control engineering computing,north american electric reliability council,1
+control engineering computing,power plant,1
+control engineering computing,scada,1
+control engineering computing,security data,1
+control engineering computing,security threat,1
+control system security,critical infrastructure security,1
+control system security,cyberinfrastructure,1
+control system security,industrial control,1
+control system security,industrial control system,1
+control system security,industrial cyber security,1
+control system security,industrial plant,1
+control system security,intrusion avoidance,1
+control system security,north american electric reliability council,1
+control system security,power plant,1
+control system security,scada,1
+control system security,security data,1
+control system security,security threat,1
+critical infrastructure security,cyberinfrastructure,1
+critical infrastructure security,industrial control,1
+critical infrastructure security,industrial control system,1
+critical infrastructure security,industrial cyber security,1
+critical infrastructure security,industrial plant,1
+critical infrastructure security,intrusion avoidance,1
+critical infrastructure security,north american electric reliability council,1
+critical infrastructure security,power plant,1
+critical infrastructure security,scada,1
+critical infrastructure security,security data,1
+critical infrastructure security,security threat,1
+cyberinfrastructure,industrial control,1
+cyberinfrastructure,industrial control system,1
+cyberinfrastructure,industrial cyber security,1
+cyberinfrastructure,industrial plant,1
+cyberinfrastructure,intrusion avoidance,1
+cyberinfrastructure,north american electric reliability council,1
+cyberinfrastructure,power plant,1
+cyberinfrastructure,scada,1
+cyberinfrastructure,security data,1
+cyberinfrastructure,security threat,1
+industrial control,industrial control system,1
+industrial control,industrial cyber security,1
+industrial control,industrial plant,1
+industrial control,intrusion avoidance,1
+industrial control,north american electric reliability council,1
+industrial control,power plant,1
+industrial control,scada,1
+industrial control,security data,1
+industrial control,security threat,1
+industrial control system,industrial cyber security,1
+industrial control system,industrial plant,1
+industrial control system,intrusion avoidance,1
+industrial control system,north american electric reliability council,1
+industrial control system,power plant,1
+industrial control system,scada,1
+industrial control system,security data,1
+industrial control system,security threat,1
+industrial cyber security,industrial plant,1
+industrial cyber security,intrusion avoidance,1
+industrial cyber security,north american electric reliability council,1
+industrial cyber security,power plant,1
+industrial cyber security,scada,1
+industrial cyber security,security data,1
+industrial cyber security,security threat,1
+industrial plant,intrusion avoidance,1
+industrial plant,north american electric reliability council,1
+industrial plant,power plant,1
+industrial plant,scada,1
+industrial plant,security data,1
+industrial plant,security threat,1
+intrusion avoidance,north american electric reliability council,1
+intrusion avoidance,power plant,1
+intrusion avoidance,scada,1
+intrusion avoidance,security data,1
+intrusion avoidance,security threat,1
+north american electric reliability council,power plant,1
+north american electric reliability council,scada,1
+north american electric reliability council,security data,1
+north american electric reliability council,security threat,1
+power plant,scada,1
+power plant,security data,1
+power plant,security threat,1
+scada,security data,1
+scada,security threat,1
+security data,security threat,1
+architectural design security,banking,1
+architectural design security,critical information asset protection,1
+architectural design security,cyber security attack,1
+architectural design security,data flow diagram,1
+architectural design security,e banking application,1
+architectural design security,electronic commerce,1
+architectural design security,internet banking,1
+architectural design security,microsoft secure development lifecycle tool,1
+architectural design security,security design,1
+architectural design security,software architecture,1
+architectural design security,software development lifecycle,1
+architectural design security,threat modeling,1
+architectural design security,threat modeling tool,1
+banking,critical information asset protection,1
+banking,cyber security attack,1
+banking,data flow diagram,1
+banking,e banking application,1
+banking,electronic commerce,1
+banking,internet banking,1
+banking,microsoft secure development lifecycle tool,1
+banking,security design,1
+banking,software architecture,1
+banking,software development lifecycle,1
+banking,threat modeling,1
+banking,threat modeling tool,1
+critical information asset protection,cyber security attack,1
+critical information asset protection,data flow diagram,1
+critical information asset protection,e banking application,1
+critical information asset protection,electronic commerce,1
+critical information asset protection,internet banking,1
+critical information asset protection,microsoft secure development lifecycle tool,1
+critical information asset protection,security design,1
+critical information asset protection,software architecture,1
+critical information asset protection,software development lifecycle,1
+critical information asset protection,threat modeling,1
+critical information asset protection,threat modeling tool,1
+cyber security attack,data flow diagram,1
+cyber security attack,e banking application,1
+cyber security attack,electronic commerce,1
+cyber security attack,internet banking,1
+cyber security attack,microsoft secure development lifecycle tool,1
+cyber security attack,security design,1
+cyber security attack,software architecture,1
+cyber security attack,software development lifecycle,1
+cyber security attack,threat modeling,1
+cyber security attack,threat modeling tool,1
+data flow diagram,e banking application,1
+data flow diagram,electronic commerce,1
+data flow diagram,internet banking,1
+data flow diagram,microsoft secure development lifecycle tool,1
+data flow diagram,security design,1
+data flow diagram,software architecture,1
+data flow diagram,software development lifecycle,1
+data flow diagram,threat modeling,1
+data flow diagram,threat modeling tool,1
+e banking application,electronic commerce,1
+e banking application,internet banking,1
+e banking application,microsoft secure development lifecycle tool,1
+e banking application,security design,1
+e banking application,software architecture,1
+e banking application,software development lifecycle,1
+e banking application,threat modeling,1
+e banking application,threat modeling tool,1
+electronic commerce,internet banking,1
+electronic commerce,microsoft secure development lifecycle tool,1
+electronic commerce,security design,1
+electronic commerce,software architecture,1
+electronic commerce,software development lifecycle,1
+electronic commerce,threat modeling,1
+electronic commerce,threat modeling tool,1
+internet banking,microsoft secure development lifecycle tool,1
+internet banking,security design,1
+internet banking,software architecture,1
+internet banking,software development lifecycle,1
+internet banking,threat modeling,1
+internet banking,threat modeling tool,1
+microsoft secure development lifecycle tool,security design,1
+microsoft secure development lifecycle tool,software architecture,1
+microsoft secure development lifecycle tool,software development lifecycle,1
+microsoft secure development lifecycle tool,threat modeling,1
+microsoft secure development lifecycle tool,threat modeling tool,1
+security design,software architecture,1
+security design,software development lifecycle,1
+security design,threat modeling,1
+security design,threat modeling tool,1
+software architecture,software development lifecycle,1
+software architecture,threat modeling,1
+software architecture,threat modeling tool,1
+software development lifecycle,threat modeling,1
+software development lifecycle,threat modeling tool,1
+threat modeling,threat modeling tool,1
+cybersecurity information exchange,future network,1
+cybersecurity information exchange,grid computing,1
+cybersecurity information exchange,next generation network,1
+future network,grid computing,1
+future network,next generation network,1
+grid computing,next generation network,1
+energy efficiency,governmental fiscal stimuli,1
+energy efficiency,intelligence,1
+energy efficiency,metering,1
+energy efficiency,smart grid technology,1
+energy efficiency,smart metering,1
+energy efficiency,smart power grid,1
+energy efficiency,uk,1
+governmental fiscal stimuli,intelligence,1
+governmental fiscal stimuli,metering,1
+governmental fiscal stimuli,smart grid technology,1
+governmental fiscal stimuli,smart metering,1
+governmental fiscal stimuli,smart power grid,1
+governmental fiscal stimuli,uk,1
+intelligence,metering,1
+intelligence,smart grid technology,1
+intelligence,smart metering,1
+intelligence,smart power grid,1
+intelligence,uk,1
+metering,smart grid technology,1
+metering,smart metering,1
+metering,smart power grid,1
+metering,uk,1
+smart grid technology,smart metering,1
+smart grid technology,smart power grid,1
+smart grid technology,uk,1
+smart metering,smart power grid,1
+smart metering,uk,1
+smart power grid,uk,1
+authentication,effective,1
+authentication,past,1
+authentication,principle,1
+authentication,standard,1
+authentication,work,1
+effective,past,1
+effective,principle,1
+effective,standard,1
+effective,work,1
+past,principle,1
+past,standard,1
+past,work,1
+principle,standard,1
+principle,work,1
+standard,work,1
+cyber crime,insider threat,1

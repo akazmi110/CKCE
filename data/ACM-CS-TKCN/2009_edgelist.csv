@@ -1,0 +1,1045 @@
+source,target,weight
+cognitive task,cyber analytics,1
+cognitive task,cyber security,1
+cognitive task,large highresolution displays,1
+cognitive task,usability,1
+cognitive task,visualization,1
+cyber analytics,cyber security,1
+cyber analytics,large highresolution displays,1
+cyber analytics,usability,1
+cyber analytics,visualization,1
+cyber security,large highresolution displays,1
+cyber security,usability,1
+cyber security,visualization,1
+cyber security,atypic record,1
+cyber security,atypical behaviour,1
+cyber security,atypical behaviour mining,1
+cyber security,clustering algorithm,1
+cyber security,credit card,1
+cyber security,critical system,1
+cyber security,data stream,1
+cyber security,good level,1
+cyber security,isolation level,1
+cyber security,multi resolution,1
+cyber security,possible,1
+cyber security,data loss prevention,1
+cyber security,data privacy,1
+cyber security,data protection,1
+cyber security,global privacy regulatory requirement,1
+cyber security,intelligent strategy,1
+cyber security,internet,1
+cyber security,metadata,1
+cyber security,security,2
+cyber security,system engineering,1
+cyber security,system integration,1
+cyber security,virtual private network,1
+cyber security,decision fusion,1
+cyber security,event correlation,1
+cyber security,random matrix theory,1
+cyber security,automatic threat recognition,1
+cyber security,intrusion detection,1
+cyber security,countermeasure,1
+cyber security,critical infrastructure,1
+cyber security,reputation system,1
+cyber security,scada control,1
+cyber security,remote sensor management,1
+cyber security,secure file transfer,1
+cyber security,collaborative attack,1
+cyber security,collaborative defense,1
+cyber security,cyber attack,1
+cyber security,cambodia,1
+cyber security,camcert,1
+cyber security,computer emergency response team,1
+cyber security,computer security incident response team,1
+large highresolution displays,usability,1
+large highresolution displays,visualization,1
+usability,visualization,1
+visualization,correlation,1
+visualization,cyber,1
+visualization,event,1
+visualization,information,1
+visualization,matrix,1
+visualization,random,1
+visualization,security,1
+visualization,theory,1
+visualization,visual,1
+body area network,cyber physical security,1
+body area network,energy footprint,1
+body area network,green,1
+body area network,green solutions,1
+body area network,health care,1
+body area network,healthcare,1
+body area network,longevity,1
+body area network,patient monitoring,1
+body area network,physiological signal key agreement,1
+body area network,physiological signals,1
+body area network,secure communication,1
+body area network,sustainability,1
+body area network,sustainable,1
+body area network,wireless sensor,1
+body area network,wireless sensor network,1
+body area network,cyber physical security solution,1
+body area network,design goal,1
+body area network,field programmable gate array platform,1
+body area network,field programmable gate array prototyping,1
+body area network,individual sensor node,1
+body area network,key agreement,1
+body area network,physical environment,1
+body area network,sensor node,1
+body area network,software implementation,1
+cyber physical security,energy footprint,1
+cyber physical security,green,1
+cyber physical security,green solutions,1
+cyber physical security,health care,1
+cyber physical security,healthcare,1
+cyber physical security,longevity,1
+cyber physical security,patient monitoring,1
+cyber physical security,physiological signal key agreement,1
+cyber physical security,physiological signals,1
+cyber physical security,secure communication,1
+cyber physical security,sustainability,1
+cyber physical security,sustainable,1
+cyber physical security,wireless sensor,1
+cyber physical security,wireless sensor network,1
+energy footprint,green,1
+energy footprint,green solutions,1
+energy footprint,health care,1
+energy footprint,healthcare,1
+energy footprint,longevity,1
+energy footprint,patient monitoring,1
+energy footprint,physiological signal key agreement,1
+energy footprint,physiological signals,1
+energy footprint,secure communication,1
+energy footprint,sustainability,1
+energy footprint,sustainable,1
+energy footprint,wireless sensor,1
+energy footprint,wireless sensor network,1
+green,green solutions,1
+green,health care,1
+green,healthcare,1
+green,longevity,1
+green,patient monitoring,1
+green,physiological signal key agreement,1
+green,physiological signals,1
+green,secure communication,1
+green,sustainability,1
+green,sustainable,1
+green,wireless sensor,1
+green,wireless sensor network,1
+green solutions,health care,1
+green solutions,healthcare,1
+green solutions,longevity,1
+green solutions,patient monitoring,1
+green solutions,physiological signal key agreement,1
+green solutions,physiological signals,1
+green solutions,secure communication,1
+green solutions,sustainability,1
+green solutions,sustainable,1
+green solutions,wireless sensor,1
+green solutions,wireless sensor network,1
+health care,healthcare,1
+health care,longevity,1
+health care,patient monitoring,1
+health care,physiological signal key agreement,1
+health care,physiological signals,1
+health care,secure communication,1
+health care,sustainability,1
+health care,sustainable,1
+health care,wireless sensor,1
+health care,wireless sensor network,1
+healthcare,longevity,1
+healthcare,patient monitoring,1
+healthcare,physiological signal key agreement,1
+healthcare,physiological signals,1
+healthcare,secure communication,1
+healthcare,sustainability,1
+healthcare,sustainable,1
+healthcare,wireless sensor,1
+healthcare,wireless sensor network,1
+longevity,patient monitoring,1
+longevity,physiological signal key agreement,1
+longevity,physiological signals,1
+longevity,secure communication,1
+longevity,sustainability,1
+longevity,sustainable,1
+longevity,wireless sensor,1
+longevity,wireless sensor network,1
+patient monitoring,physiological signal key agreement,1
+patient monitoring,physiological signals,1
+patient monitoring,secure communication,1
+patient monitoring,sustainability,1
+patient monitoring,sustainable,1
+patient monitoring,wireless sensor,1
+patient monitoring,wireless sensor network,1
+physiological signal key agreement,physiological signals,1
+physiological signal key agreement,secure communication,1
+physiological signal key agreement,sustainability,1
+physiological signal key agreement,sustainable,1
+physiological signal key agreement,wireless sensor,1
+physiological signal key agreement,wireless sensor network,1
+physiological signals,secure communication,1
+physiological signals,sustainability,1
+physiological signals,sustainable,1
+physiological signals,wireless sensor,1
+physiological signals,wireless sensor network,1
+secure communication,sustainability,1
+secure communication,sustainable,1
+secure communication,wireless sensor,1
+secure communication,wireless sensor network,1
+sustainability,sustainable,1
+sustainability,wireless sensor,1
+sustainability,wireless sensor network,1
+sustainable,wireless sensor,1
+sustainable,wireless sensor network,1
+wireless sensor,wireless sensor network,1
+atypic record,atypical behaviour,1
+atypic record,atypical behaviour mining,1
+atypic record,clustering algorithm,1
+atypic record,credit card,1
+atypic record,critical system,1
+atypic record,data stream,1
+atypic record,good level,1
+atypic record,isolation level,1
+atypic record,multi resolution,1
+atypic record,possible,1
+atypical behaviour,atypical behaviour mining,1
+atypical behaviour,clustering algorithm,1
+atypical behaviour,credit card,1
+atypical behaviour,critical system,1
+atypical behaviour,data stream,1
+atypical behaviour,good level,1
+atypical behaviour,isolation level,1
+atypical behaviour,multi resolution,1
+atypical behaviour,possible,1
+atypical behaviour mining,clustering algorithm,1
+atypical behaviour mining,credit card,1
+atypical behaviour mining,critical system,1
+atypical behaviour mining,data stream,1
+atypical behaviour mining,good level,1
+atypical behaviour mining,isolation level,1
+atypical behaviour mining,multi resolution,1
+atypical behaviour mining,possible,1
+clustering algorithm,credit card,1
+clustering algorithm,critical system,1
+clustering algorithm,data stream,1
+clustering algorithm,good level,1
+clustering algorithm,isolation level,1
+clustering algorithm,multi resolution,1
+clustering algorithm,possible,1
+credit card,critical system,1
+credit card,data stream,1
+credit card,good level,1
+credit card,isolation level,1
+credit card,multi resolution,1
+credit card,possible,1
+critical system,data stream,1
+critical system,good level,1
+critical system,isolation level,1
+critical system,multi resolution,1
+critical system,possible,1
+data stream,good level,1
+data stream,isolation level,1
+data stream,multi resolution,1
+data stream,possible,1
+good level,isolation level,1
+good level,multi resolution,1
+good level,possible,1
+isolation level,multi resolution,1
+isolation level,possible,1
+multi resolution,possible,1
+assessment,corporation,1
+assessment,critical,1
+assessment,cyber,1
+assessment,electric,1
+assessment,infrastructure,1
+assessment,methodology,1
+assessment,northern,1
+assessment,plan,1
+assessment,protection,1
+assessment,reliability,1
+assessment,risk,1
+assessment,security,1
+corporation,critical,1
+corporation,cyber,1
+corporation,electric,1
+corporation,infrastructure,1
+corporation,methodology,1
+corporation,northern,1
+corporation,plan,1
+corporation,protection,1
+corporation,reliability,1
+corporation,risk,1
+corporation,security,1
+critical,cyber,1
+critical,electric,1
+critical,infrastructure,1
+critical,methodology,1
+critical,northern,1
+critical,plan,1
+critical,protection,1
+critical,reliability,1
+critical,risk,1
+critical,security,1
+cyber,electric,1
+cyber,infrastructure,1
+cyber,methodology,1
+cyber,northern,1
+cyber,plan,1
+cyber,protection,1
+cyber,reliability,1
+cyber,risk,1
+cyber,security,4
+cyber,business,1
+cyber,capability,1
+cyber,collaboration,1
+cyber,content,1
+cyber,data,1
+cyber,global,1
+cyber,identity,1
+cyber,information,2
+cyber,management,1
+cyber,part,1
+cyber,partner,1
+cyber,secure,1
+cyber,vital,1
+cyber,correlation,1
+cyber,event,1
+cyber,matrix,1
+cyber,random,1
+cyber,theory,1
+cyber,visual,1
+cyber,administration,1
+cyber,benefit,1
+cyber,education,1
+cyber,environment,1
+cyber,lab,1
+cyber,network,1
+cyber,platform,1
+cyber,technology,1
+cyber,training,1
+cyber,virtualization,1
+electric,infrastructure,1
+electric,methodology,1
+electric,northern,1
+electric,plan,1
+electric,protection,1
+electric,reliability,1
+electric,risk,1
+electric,security,1
+infrastructure,methodology,1
+infrastructure,northern,1
+infrastructure,plan,1
+infrastructure,protection,1
+infrastructure,reliability,1
+infrastructure,risk,1
+infrastructure,security,1
+methodology,northern,1
+methodology,plan,1
+methodology,protection,1
+methodology,reliability,1
+methodology,risk,1
+methodology,security,1
+northern,plan,1
+northern,protection,1
+northern,reliability,1
+northern,risk,1
+northern,security,1
+plan,protection,1
+plan,reliability,1
+plan,risk,1
+plan,security,1
+protection,reliability,1
+protection,risk,1
+protection,security,1
+reliability,risk,1
+reliability,security,1
+risk,security,1
+security,data loss prevention,1
+security,data privacy,1
+security,data protection,1
+security,global privacy regulatory requirement,1
+security,intelligent strategy,1
+security,internet,1
+security,metadata,1
+security,system engineering,1
+security,system integration,1
+security,virtual private network,1
+security,business,1
+security,capability,1
+security,collaboration,1
+security,content,1
+security,data,1
+security,global,1
+security,identity,1
+security,information,2
+security,management,1
+security,part,1
+security,partner,1
+security,secure,1
+security,vital,1
+security,correlation,1
+security,event,1
+security,matrix,1
+security,random,1
+security,theory,1
+security,visual,1
+security,countermeasure,1
+security,critical infrastructure,1
+security,reputation system,1
+security,scada control,1
+security,administration,1
+security,benefit,1
+security,education,1
+security,environment,1
+security,lab,1
+security,network,1
+security,platform,1
+security,technology,1
+security,training,1
+security,virtualization,1
+data loss prevention,data privacy,1
+data loss prevention,data protection,1
+data loss prevention,global privacy regulatory requirement,1
+data loss prevention,intelligent strategy,1
+data loss prevention,internet,1
+data loss prevention,metadata,1
+data loss prevention,system engineering,1
+data loss prevention,system integration,1
+data loss prevention,virtual private network,1
+data privacy,data protection,1
+data privacy,global privacy regulatory requirement,1
+data privacy,intelligent strategy,1
+data privacy,internet,1
+data privacy,metadata,1
+data privacy,system engineering,1
+data privacy,system integration,1
+data privacy,virtual private network,1
+data protection,global privacy regulatory requirement,1
+data protection,intelligent strategy,1
+data protection,internet,1
+data protection,metadata,1
+data protection,system engineering,1
+data protection,system integration,1
+data protection,virtual private network,1
+global privacy regulatory requirement,intelligent strategy,1
+global privacy regulatory requirement,internet,1
+global privacy regulatory requirement,metadata,1
+global privacy regulatory requirement,system engineering,1
+global privacy regulatory requirement,system integration,1
+global privacy regulatory requirement,virtual private network,1
+intelligent strategy,internet,1
+intelligent strategy,metadata,1
+intelligent strategy,system engineering,1
+intelligent strategy,system integration,1
+intelligent strategy,virtual private network,1
+internet,metadata,1
+internet,system engineering,1
+internet,system integration,1
+internet,virtual private network,1
+metadata,system engineering,1
+metadata,system integration,1
+metadata,virtual private network,1
+system engineering,system integration,1
+system engineering,virtual private network,1
+system integration,virtual private network,1
+business,capability,1
+business,collaboration,1
+business,content,1
+business,data,1
+business,global,1
+business,identity,1
+business,information,1
+business,management,1
+business,part,1
+business,partner,1
+business,secure,1
+business,vital,1
+capability,collaboration,1
+capability,content,1
+capability,data,1
+capability,global,1
+capability,identity,1
+capability,information,1
+capability,management,1
+capability,part,1
+capability,partner,1
+capability,secure,1
+capability,vital,1
+collaboration,content,1
+collaboration,data,1
+collaboration,global,1
+collaboration,identity,1
+collaboration,information,1
+collaboration,management,1
+collaboration,part,1
+collaboration,partner,1
+collaboration,secure,1
+collaboration,vital,1
+content,data,1
+content,global,1
+content,identity,1
+content,information,1
+content,management,1
+content,part,1
+content,partner,1
+content,secure,1
+content,vital,1
+data,global,1
+data,identity,1
+data,information,1
+data,management,1
+data,part,1
+data,partner,1
+data,secure,1
+data,vital,1
+global,identity,1
+global,information,1
+global,management,1
+global,part,1
+global,partner,1
+global,secure,1
+global,vital,1
+identity,information,1
+identity,management,1
+identity,part,1
+identity,partner,1
+identity,secure,1
+identity,vital,1
+information,management,1
+information,part,1
+information,partner,1
+information,secure,1
+information,vital,1
+information,correlation,1
+information,event,1
+information,matrix,1
+information,random,1
+information,theory,1
+information,visual,1
+management,part,1
+management,partner,1
+management,secure,1
+management,vital,1
+management,collective paradigm,1
+management,computer security,1
+management,consulting,1
+management,cybersecurity,1
+management,digital forensics,1
+management,e-voting,1
+management,forensics,1
+management,information security,1
+management,kuhn,1
+management,multi-paradigm composition,1
+management,new security paradigm workshop,1
+management,paradigm,1
+management,reality tunnel,1
+management,statistical,1
+management,voting,1
+part,partner,1
+part,secure,1
+part,vital,1
+partner,secure,1
+partner,vital,1
+secure,vital,1
+complex information technology security process,cyberspace security,1
+complex information technology security process,econometrics,1
+complex information technology security process,enterprise cyber architectural context,1
+complex information technology security process,financial data processing,1
+complex information technology security process,investment,1
+complex information technology security process,mitigation investment,1
+complex information technology security process,risk management,1
+complex information technology security process,security of data,1
+cyberspace security,econometrics,1
+cyberspace security,enterprise cyber architectural context,1
+cyberspace security,financial data processing,1
+cyberspace security,investment,1
+cyberspace security,mitigation investment,1
+cyberspace security,risk management,1
+cyberspace security,security of data,1
+econometrics,enterprise cyber architectural context,1
+econometrics,financial data processing,1
+econometrics,investment,1
+econometrics,mitigation investment,1
+econometrics,risk management,1
+econometrics,security of data,1
+enterprise cyber architectural context,financial data processing,1
+enterprise cyber architectural context,investment,1
+enterprise cyber architectural context,mitigation investment,1
+enterprise cyber architectural context,risk management,1
+enterprise cyber architectural context,security of data,1
+financial data processing,investment,1
+financial data processing,mitigation investment,1
+financial data processing,risk management,1
+financial data processing,security of data,1
+investment,mitigation investment,1
+investment,risk management,2
+investment,security of data,2
+investment,architectural model,1
+investment,bayes method,1
+investment,bayesian defense graph,1
+investment,bayesian statistics extended influence diagram,1
+investment,cyber security investment,1
+investment,cyber security risk assessment management,1
+investment,decision maker,1
+investment,decision making,1
+investment,graph theory,1
+investment,probability,1
+mitigation investment,risk management,1
+mitigation investment,security of data,1
+risk management,security of data,2
+risk management,architectural model,1
+risk management,bayes method,1
+risk management,bayesian defense graph,1
+risk management,bayesian statistics extended influence diagram,1
+risk management,cyber security investment,1
+risk management,cyber security risk assessment management,1
+risk management,decision maker,1
+risk management,decision making,1
+risk management,graph theory,1
+risk management,probability,1
+security of data,architectural model,1
+security of data,bayes method,1
+security of data,bayesian defense graph,1
+security of data,bayesian statistics extended influence diagram,1
+security of data,cyber security investment,1
+security of data,cyber security risk assessment management,1
+security of data,decision maker,1
+security of data,decision making,1
+security of data,graph theory,1
+security of data,probability,1
+community cyber security incident response capability,computer crime,1
+community cyber security incident response capability,cyber attack,1
+computer crime,cyber attack,1
+cyber attack,collaborative attack,1
+cyber attack,collaborative defense,1
+decision fusion,event correlation,1
+decision fusion,random matrix theory,1
+event correlation,random matrix theory,1
+critical cyber infrastructure,critical relationship,1
+critical cyber infrastructure,cyberinfrastructure security,1
+critical cyber infrastructure,digital forensic engineering,1
+critical cyber infrastructure,digital forensics,1
+critical cyber infrastructure,information security,1
+critical cyber infrastructure,intertwine relationship,1
+critical cyber infrastructure,legal framework,1
+critical cyber infrastructure,social,1
+critical cyber infrastructure,state actor,1
+critical cyber infrastructure,systematic,1
+critical cyber infrastructure,technical structure,1
+critical relationship,cyberinfrastructure security,1
+critical relationship,digital forensic engineering,1
+critical relationship,digital forensics,1
+critical relationship,information security,1
+critical relationship,intertwine relationship,1
+critical relationship,legal framework,1
+critical relationship,social,1
+critical relationship,state actor,1
+critical relationship,systematic,1
+critical relationship,technical structure,1
+cyberinfrastructure security,digital forensic engineering,1
+cyberinfrastructure security,digital forensics,1
+cyberinfrastructure security,information security,1
+cyberinfrastructure security,intertwine relationship,1
+cyberinfrastructure security,legal framework,1
+cyberinfrastructure security,social,1
+cyberinfrastructure security,state actor,1
+cyberinfrastructure security,systematic,1
+cyberinfrastructure security,technical structure,1
+digital forensic engineering,digital forensics,1
+digital forensic engineering,information security,1
+digital forensic engineering,intertwine relationship,1
+digital forensic engineering,legal framework,1
+digital forensic engineering,social,1
+digital forensic engineering,state actor,1
+digital forensic engineering,systematic,1
+digital forensic engineering,technical structure,1
+digital forensics,information security,2
+digital forensics,intertwine relationship,1
+digital forensics,legal framework,1
+digital forensics,social,1
+digital forensics,state actor,1
+digital forensics,systematic,1
+digital forensics,technical structure,1
+digital forensics,collective paradigm,1
+digital forensics,computer security,1
+digital forensics,consulting,1
+digital forensics,cybersecurity,1
+digital forensics,e-voting,1
+digital forensics,forensics,1
+digital forensics,kuhn,1
+digital forensics,multi-paradigm composition,1
+digital forensics,new security paradigm workshop,1
+digital forensics,paradigm,1
+digital forensics,reality tunnel,1
+digital forensics,statistical,1
+digital forensics,voting,1
+information security,intertwine relationship,1
+information security,legal framework,1
+information security,social,1
+information security,state actor,1
+information security,systematic,1
+information security,technical structure,1
+information security,collective paradigm,1
+information security,computer security,1
+information security,consulting,1
+information security,cybersecurity,1
+information security,e-voting,1
+information security,forensics,1
+information security,kuhn,1
+information security,multi-paradigm composition,1
+information security,new security paradigm workshop,1
+information security,paradigm,1
+information security,reality tunnel,1
+information security,statistical,1
+information security,voting,1
+information security,awareness,1
+information security,cybercrime,1
+information security,cybersecurity education,1
+information security,inclusive information society,1
+information security,information security culture,1
+information security,informational risk,1
+information security,interdisciplinary,1
+information security,national information security policy,1
+information security,private public partnership,1
+intertwine relationship,legal framework,1
+intertwine relationship,social,1
+intertwine relationship,state actor,1
+intertwine relationship,systematic,1
+intertwine relationship,technical structure,1
+legal framework,social,1
+legal framework,state actor,1
+legal framework,systematic,1
+legal framework,technical structure,1
+social,state actor,1
+social,systematic,1
+social,technical structure,1
+state actor,systematic,1
+state actor,technical structure,1
+systematic,technical structure,1
+correlation,event,1
+correlation,matrix,1
+correlation,random,1
+correlation,theory,1
+correlation,visual,1
+event,matrix,1
+event,random,1
+event,theory,1
+event,visual,1
+matrix,random,1
+matrix,theory,1
+matrix,visual,1
+random,theory,1
+random,visual,1
+theory,visual,1
+architectural model,bayes method,1
+architectural model,bayesian defense graph,1
+architectural model,bayesian statistics extended influence diagram,1
+architectural model,cyber security investment,1
+architectural model,cyber security risk assessment management,1
+architectural model,decision maker,1
+architectural model,decision making,1
+architectural model,graph theory,1
+architectural model,probability,1
+bayes method,bayesian defense graph,1
+bayes method,bayesian statistics extended influence diagram,1
+bayes method,cyber security investment,1
+bayes method,cyber security risk assessment management,1
+bayes method,decision maker,1
+bayes method,decision making,1
+bayes method,graph theory,1
+bayes method,probability,1
+bayesian defense graph,bayesian statistics extended influence diagram,1
+bayesian defense graph,cyber security investment,1
+bayesian defense graph,cyber security risk assessment management,1
+bayesian defense graph,decision maker,1
+bayesian defense graph,decision making,1
+bayesian defense graph,graph theory,1
+bayesian defense graph,probability,1
+bayesian statistics extended influence diagram,cyber security investment,1
+bayesian statistics extended influence diagram,cyber security risk assessment management,1
+bayesian statistics extended influence diagram,decision maker,1
+bayesian statistics extended influence diagram,decision making,1
+bayesian statistics extended influence diagram,graph theory,1
+bayesian statistics extended influence diagram,probability,1
+cyber security investment,cyber security risk assessment management,1
+cyber security investment,decision maker,1
+cyber security investment,decision making,1
+cyber security investment,graph theory,1
+cyber security investment,probability,1
+cyber security risk assessment management,decision maker,1
+cyber security risk assessment management,decision making,1
+cyber security risk assessment management,graph theory,1
+cyber security risk assessment management,probability,1
+decision maker,decision making,1
+decision maker,graph theory,1
+decision maker,probability,1
+decision making,graph theory,1
+decision making,probability,1
+graph theory,probability,1
+cognitive task analysis,cyber security visualization,1
+cognitive task analysis,security analyst feedback,1
+cognitive task analysis,task flow diagram,1
+cyber security visualization,security analyst feedback,1
+cyber security visualization,task flow diagram,1
+security analyst feedback,task flow diagram,1
+automatic threat recognition,intrusion detection,1
+alpha encryption module,challenge competition,1
+alpha encryption module,current rtl design,1
+alpha encryption module,cyber security awareness week,1
+alpha encryption module,digilent basys spartan 3 field programmable gate array,1
+alpha encryption module,hardware trojan,1
+alpha encryption module,hardware trojan attack,1
+alpha encryption module,hardware trojan design,1
+alpha encryption module,integrated circuit,1
+alpha encryption module,new york university,1
+challenge competition,current rtl design,1
+challenge competition,cyber security awareness week,1
+challenge competition,digilent basys spartan 3 field programmable gate array,1
+challenge competition,hardware trojan,1
+challenge competition,hardware trojan attack,1
+challenge competition,hardware trojan design,1
+challenge competition,integrated circuit,1
+challenge competition,new york university,1
+current rtl design,cyber security awareness week,1
+current rtl design,digilent basys spartan 3 field programmable gate array,1
+current rtl design,hardware trojan,1
+current rtl design,hardware trojan attack,1
+current rtl design,hardware trojan design,1
+current rtl design,integrated circuit,1
+current rtl design,new york university,1
+cyber security awareness week,digilent basys spartan 3 field programmable gate array,1
+cyber security awareness week,hardware trojan,1
+cyber security awareness week,hardware trojan attack,1
+cyber security awareness week,hardware trojan design,1
+cyber security awareness week,integrated circuit,1
+cyber security awareness week,new york university,1
+digilent basys spartan 3 field programmable gate array,hardware trojan,1
+digilent basys spartan 3 field programmable gate array,hardware trojan attack,1
+digilent basys spartan 3 field programmable gate array,hardware trojan design,1
+digilent basys spartan 3 field programmable gate array,integrated circuit,1
+digilent basys spartan 3 field programmable gate array,new york university,1
+hardware trojan,hardware trojan attack,1
+hardware trojan,hardware trojan design,1
+hardware trojan,integrated circuit,1
+hardware trojan,new york university,1
+hardware trojan attack,hardware trojan design,1
+hardware trojan attack,integrated circuit,1
+hardware trojan attack,new york university,1
+hardware trojan design,integrated circuit,1
+hardware trojan design,new york university,1
+integrated circuit,new york university,1
+countermeasure,critical infrastructure,1
+countermeasure,reputation system,1
+countermeasure,scada control,1
+critical infrastructure,reputation system,1
+critical infrastructure,scada control,1
+reputation system,scada control,1
+administration,benefit,1
+administration,education,1
+administration,environment,1
+administration,lab,1
+administration,network,1
+administration,platform,1
+administration,technology,1
+administration,training,1
+administration,virtualization,1
+benefit,education,1
+benefit,environment,1
+benefit,lab,1
+benefit,network,1
+benefit,platform,1
+benefit,technology,1
+benefit,training,1
+benefit,virtualization,1
+education,environment,1
+education,lab,1
+education,network,1
+education,platform,1
+education,technology,1
+education,training,1
+education,virtualization,1
+environment,lab,1
+environment,network,1
+environment,platform,1
+environment,technology,1
+environment,training,1
+environment,virtualization,1
+lab,network,1
+lab,platform,1
+lab,technology,1
+lab,training,1
+lab,virtualization,1
+network,platform,1
+network,technology,1
+network,training,1
+network,virtualization,1
+platform,technology,1
+platform,training,1
+platform,virtualization,1
+technology,training,1
+technology,virtualization,1
+training,virtualization,1
+authentication,cyber physical security solution,1
+authentication,pervasive computing,1
+cyber physical security solution,pervasive computing,1
+cyber physical security solution,design goal,1
+cyber physical security solution,field programmable gate array platform,1
+cyber physical security solution,field programmable gate array prototyping,1
+cyber physical security solution,individual sensor node,1
+cyber physical security solution,key agreement,1
+cyber physical security solution,physical environment,1
+cyber physical security solution,sensor node,1
+cyber physical security solution,software implementation,1
+remote sensor management,secure file transfer,1
+collective paradigm,computer security,1
+collective paradigm,consulting,1
+collective paradigm,cybersecurity,1
+collective paradigm,e-voting,1
+collective paradigm,forensics,1
+collective paradigm,kuhn,1
+collective paradigm,multi-paradigm composition,1
+collective paradigm,new security paradigm workshop,1
+collective paradigm,paradigm,1
+collective paradigm,reality tunnel,1
+collective paradigm,statistical,1
+collective paradigm,voting,1
+computer security,consulting,1
+computer security,cybersecurity,1
+computer security,e-voting,1
+computer security,forensics,1
+computer security,kuhn,1
+computer security,multi-paradigm composition,1
+computer security,new security paradigm workshop,1
+computer security,paradigm,1
+computer security,reality tunnel,1
+computer security,statistical,1
+computer security,voting,1
+consulting,cybersecurity,1
+consulting,e-voting,1
+consulting,forensics,1
+consulting,kuhn,1
+consulting,multi-paradigm composition,1
+consulting,new security paradigm workshop,1
+consulting,paradigm,1
+consulting,reality tunnel,1
+consulting,statistical,1
+consulting,voting,1
+cybersecurity,e-voting,1
+cybersecurity,forensics,1
+cybersecurity,kuhn,1
+cybersecurity,multi-paradigm composition,1
+cybersecurity,new security paradigm workshop,1
+cybersecurity,paradigm,1
+cybersecurity,reality tunnel,1
+cybersecurity,statistical,1
+cybersecurity,voting,1
+cybersecurity,botnet,1
+cybersecurity,detection,1
+e-voting,forensics,1
+e-voting,kuhn,1
+e-voting,multi-paradigm composition,1
+e-voting,new security paradigm workshop,1
+e-voting,paradigm,1
+e-voting,reality tunnel,1
+e-voting,statistical,1
+e-voting,voting,1
+forensics,kuhn,1
+forensics,multi-paradigm composition,1
+forensics,new security paradigm workshop,1
+forensics,paradigm,1
+forensics,reality tunnel,1
+forensics,statistical,1
+forensics,voting,1
+kuhn,multi-paradigm composition,1
+kuhn,new security paradigm workshop,1
+kuhn,paradigm,1
+kuhn,reality tunnel,1
+kuhn,statistical,1
+kuhn,voting,1
+multi-paradigm composition,new security paradigm workshop,1
+multi-paradigm composition,paradigm,1
+multi-paradigm composition,reality tunnel,1
+multi-paradigm composition,statistical,1
+multi-paradigm composition,voting,1
+new security paradigm workshop,paradigm,1
+new security paradigm workshop,reality tunnel,1
+new security paradigm workshop,statistical,1
+new security paradigm workshop,voting,1
+paradigm,reality tunnel,1
+paradigm,statistical,1
+paradigm,voting,1
+reality tunnel,statistical,1
+reality tunnel,voting,1
+statistical,voting,1
+design goal,field programmable gate array platform,1
+design goal,field programmable gate array prototyping,1
+design goal,individual sensor node,1
+design goal,key agreement,1
+design goal,physical environment,1
+design goal,sensor node,1
+design goal,software implementation,1
+field programmable gate array platform,field programmable gate array prototyping,1
+field programmable gate array platform,individual sensor node,1
+field programmable gate array platform,key agreement,1
+field programmable gate array platform,physical environment,1
+field programmable gate array platform,sensor node,1
+field programmable gate array platform,software implementation,1
+field programmable gate array prototyping,individual sensor node,1
+field programmable gate array prototyping,key agreement,1
+field programmable gate array prototyping,physical environment,1
+field programmable gate array prototyping,sensor node,1
+field programmable gate array prototyping,software implementation,1
+individual sensor node,key agreement,1
+individual sensor node,physical environment,1
+individual sensor node,sensor node,1
+individual sensor node,software implementation,1
+key agreement,physical environment,1
+key agreement,sensor node,1
+key agreement,software implementation,1
+physical environment,sensor node,1
+physical environment,software implementation,1
+sensor node,software implementation,1
+collaborative attack,collaborative defense,1
+cambodia,camcert,1
+cambodia,computer emergency response team,1
+cambodia,computer security incident response team,1
+camcert,computer emergency response team,1
+camcert,computer security incident response team,1
+computer emergency response team,computer security incident response team,1
+awareness,cybercrime,1
+awareness,cybersecurity education,1
+awareness,inclusive information society,1
+awareness,information security culture,1
+awareness,informational risk,1
+awareness,interdisciplinary,1
+awareness,national information security policy,1
+awareness,private public partnership,1
+cybercrime,cybersecurity education,1
+cybercrime,inclusive information society,1
+cybercrime,information security culture,1
+cybercrime,informational risk,1
+cybercrime,interdisciplinary,1
+cybercrime,national information security policy,1
+cybercrime,private public partnership,1
+cybersecurity education,inclusive information society,1
+cybersecurity education,information security culture,1
+cybersecurity education,informational risk,1
+cybersecurity education,interdisciplinary,1
+cybersecurity education,national information security policy,1
+cybersecurity education,private public partnership,1
+inclusive information society,information security culture,1
+inclusive information society,informational risk,1
+inclusive information society,interdisciplinary,1
+inclusive information society,national information security policy,1
+inclusive information society,private public partnership,1
+information security culture,informational risk,1
+information security culture,interdisciplinary,1
+information security culture,national information security policy,1
+information security culture,private public partnership,1
+informational risk,interdisciplinary,1
+informational risk,national information security policy,1
+informational risk,private public partnership,1
+interdisciplinary,national information security policy,1
+interdisciplinary,private public partnership,1
+national information security policy,private public partnership,1
+botnet,detection,1

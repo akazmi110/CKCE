@@ -1,0 +1,16 @@
+source,target,weight
+compliance,cybersecurity,1
+compliance,information security,1
+compliance,information security policy,1
+compliance,meta,1
+compliance,relative weight,1
+cybersecurity,information security,1
+cybersecurity,information security policy,1
+cybersecurity,meta,1
+cybersecurity,relative weight,1
+information security,information security policy,1
+information security,meta,1
+information security,relative weight,1
+information security policy,meta,1
+information security policy,relative weight,1
+meta,relative weight,1

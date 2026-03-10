@@ -1,0 +1,1246 @@
+source,target,weight
+business process,conceptual,1
+business process,cyber security implementation,1
+business process,cyber security provision,1
+business process,government agency,1
+business process,government cyber security planning,1
+business process,investment decision,1
+business process,organizational context,1
+business process,organizational impact,1
+business process,performance impact,1
+business process,sociotechnical,1
+business process,understanding information security,1
+conceptual,cyber security implementation,1
+conceptual,cyber security provision,1
+conceptual,government agency,1
+conceptual,government cyber security planning,1
+conceptual,investment decision,1
+conceptual,organizational context,1
+conceptual,organizational impact,1
+conceptual,performance impact,1
+conceptual,sociotechnical,1
+conceptual,understanding information security,1
+cyber security implementation,cyber security provision,1
+cyber security implementation,government agency,1
+cyber security implementation,government cyber security planning,1
+cyber security implementation,investment decision,1
+cyber security implementation,organizational context,1
+cyber security implementation,organizational impact,1
+cyber security implementation,performance impact,1
+cyber security implementation,sociotechnical,1
+cyber security implementation,understanding information security,1
+cyber security provision,government agency,1
+cyber security provision,government cyber security planning,1
+cyber security provision,investment decision,1
+cyber security provision,organizational context,1
+cyber security provision,organizational impact,1
+cyber security provision,performance impact,1
+cyber security provision,sociotechnical,1
+cyber security provision,understanding information security,1
+government agency,government cyber security planning,1
+government agency,investment decision,1
+government agency,organizational context,1
+government agency,organizational impact,1
+government agency,performance impact,1
+government agency,sociotechnical,1
+government agency,understanding information security,1
+government cyber security planning,investment decision,1
+government cyber security planning,organizational context,1
+government cyber security planning,organizational impact,1
+government cyber security planning,performance impact,1
+government cyber security planning,sociotechnical,1
+government cyber security planning,understanding information security,1
+investment decision,organizational context,1
+investment decision,organizational impact,1
+investment decision,performance impact,1
+investment decision,sociotechnical,1
+investment decision,understanding information security,1
+organizational context,organizational impact,1
+organizational context,performance impact,1
+organizational context,sociotechnical,1
+organizational context,understanding information security,1
+organizational impact,performance impact,1
+organizational impact,sociotechnical,1
+organizational impact,understanding information security,1
+performance impact,sociotechnical,1
+performance impact,understanding information security,1
+sociotechnical,understanding information security,1
+collaboration activity,computer science education,1
+collaboration activity,courseware,1
+collaboration activity,cyber security,1
+collaboration activity,data,1
+collaboration activity,groupware,1
+collaboration activity,information assurance education,1
+collaboration activity,information security,1
+collaboration activity,interactive simulation software package,1
+collaboration activity,interactive system,1
+collaboration activity,security,1
+computer science education,courseware,1
+computer science education,cyber security,1
+computer science education,data,1
+computer science education,groupware,1
+computer science education,information assurance education,1
+computer science education,information security,1
+computer science education,interactive simulation software package,1
+computer science education,interactive system,1
+computer science education,security,1
+courseware,cyber security,1
+courseware,data,1
+courseware,groupware,1
+courseware,information assurance education,1
+courseware,information security,1
+courseware,interactive simulation software package,1
+courseware,interactive system,1
+courseware,security,1
+cyber security,data,1
+cyber security,groupware,1
+cyber security,information assurance education,1
+cyber security,information security,1
+cyber security,interactive simulation software package,1
+cyber security,interactive system,1
+cyber security,security,1
+cyber security,blog,1
+cyber security,cyber crime,1
+cyber security,cyber terrorism,1
+cyber security,data mining,2
+cyber security,probabilistic latent semantic,1
+cyber security,weblog,1
+cyber security,cipher key distribution,1
+cyber security,dense wavelength division multiplexing,1
+cyber security,enterprise network layer,1
+cyber security,optical communications security,1
+cyber security,optical fibre network,1
+cyber security,optical network security,1
+cyber security,physical link signature,1
+cyber security,quantum cryptography,1
+cyber security,source authentication,1
+cyber security,telecommunication security,1
+cyber security,wavelength division multiplexing,1
+cyber security,cognitive issue,1
+cyber security,data mining practice,1
+cyber security,fuzzy logic,1
+cyber security,integrate fuzzy logic,1
+cyber security,large database,1
+cyber security,real world,1
+cyber security,significant pattern,1
+cyber security,data acquisition,1
+cyber security,electric power,1
+cyber security,kepco scada network,1
+cyber security,key policy,1
+cyber security,proper key distribution,1
+cyber security,representative,1
+cyber security,scada,1
+cyber security,scada network,2
+cyber security,scada network communication,1
+cyber security,supervisory control,1
+cyber security,symmetric encryption,1
+cyber security,symmetric encryption application,1
+cyber security,computer network,1
+cyber security,cyber attack,1
+cyber security,information fusion,1
+cyber security,intrusion detection,1
+cyber security,modeling,1
+cyber security,network security,1
+cyber security,simulation,1
+cyber security,additional load,1
+cyber security,communication network,1
+cyber security,increased cyber attack,1
+cyber security,information technology network,1
+cyber security,key distribution period,1
+cyber security,network performance,1
+cyber security,network traffic,1
+cyber security,power system,1
+cyber security,qos function,1
+cyber security,contextual reasoning,1
+cyber security,prediction,1
+data,groupware,1
+data,information assurance education,1
+data,information security,1
+data,interactive simulation software package,1
+data,interactive system,1
+data,security,2
+data,automation,1
+data,control architecture,1
+data,control engineering computing,1
+data,cybersecurity,1
+data,electric power control,1
+data,nerc cip 1200,1
+data,power engineering computing,1
+data,power system control,1
+data,power system security,1
+data,reliability,1
+data,standards,1
+data,vulnerability assessment,1
+groupware,information assurance education,1
+groupware,information security,1
+groupware,interactive simulation software package,1
+groupware,interactive system,1
+groupware,security,1
+information assurance education,information security,1
+information assurance education,interactive simulation software package,1
+information assurance education,interactive system,1
+information assurance education,security,1
+information security,interactive simulation software package,1
+information security,interactive system,1
+information security,security,1
+information security,computer security,1
+information security,cybersecurity,1
+information security,information system,1
+information security,information technology,1
+information security,intelligent transportation,1
+information security,mobile communication,1
+information security,national security,1
+information security,productivity,1
+information security,terrorism,1
+information security,transportation,1
+information security,travel industry,1
+information security,bill neugent,1
+information security,chief engineer,1
+information security,cross-boundary information sharing,1
+information security,cybersecurity expert,1
+information security,debut novel,1
+information security,extensive work,1
+information security,information assurance,1
+information security,information integration,1
+information security,intelligence community,1
+interactive simulation software package,interactive system,1
+interactive simulation software package,security,1
+interactive system,security,1
+security,cognition,1
+security,cognitive,1
+security,cognitive agent,1
+security,cognitive architecture,1
+security,cybersecurity,2
+security,data mining,1
+security,information storage,1
+security,intelligent agent,1
+security,intelligent security agent,1
+security,intrusion detection,1
+security,large database,1
+security,multi-agent,1
+security,network administrator,1
+security,pace university,1
+security,statistical data mining,1
+security,vmsoar project,1
+security,alert,1
+security,assessment,1
+security,correlation,1
+security,cyber,5
+security,fusion,1
+security,information,2
+security,situation,1
+security,threat,1
+security,afford,1
+security,current,1
+security,electric,1
+security,exchange,1
+security,functionality,1
+security,infrastructure,2
+security,issue,2
+security,new,1
+security,opportunity,1
+security,power,2
+security,sensitivity,1
+security,system,1
+security,timely,1
+security,vulnerability,1
+security,activity,1
+security,application,1
+security,aspect,1
+security,characteristic,1
+security,complex,1
+security,defense,1
+security,design,1
+security,expert,1
+security,large,1
+security,model,1
+security,network,1
+security,overall,1
+security,tool,1
+security,automation,1
+security,control architecture,1
+security,control engineering computing,1
+security,electric power control,1
+security,nerc cip 1200,1
+security,power engineering computing,1
+security,power system control,1
+security,power system security,1
+security,reliability,1
+security,standards,1
+security,vulnerability assessment,1
+security,architecture,1
+security,best,1
+security,concern,1
+security,control,1
+security,critical,1
+security,electrical,1
+security,gas,1
+security,generation,1
+security,nature,1
+security,oil,1
+security,population,1
+security,practice,1
+security,retrofit,1
+security,risk,1
+security,sector,1
+security,segmentation,1
+security,transmission,1
+blog,cyber crime,1
+blog,cyber terrorism,1
+blog,data mining,1
+blog,probabilistic latent semantic,1
+blog,weblog,1
+cyber crime,cyber terrorism,1
+cyber crime,data mining,1
+cyber crime,probabilistic latent semantic,1
+cyber crime,weblog,1
+cyber terrorism,data mining,1
+cyber terrorism,probabilistic latent semantic,1
+cyber terrorism,weblog,1
+data mining,probabilistic latent semantic,1
+data mining,weblog,1
+data mining,cognition,1
+data mining,cognitive,1
+data mining,cognitive agent,1
+data mining,cognitive architecture,1
+data mining,cybersecurity,1
+data mining,information storage,1
+data mining,intelligent agent,1
+data mining,intelligent security agent,1
+data mining,intrusion detection,1
+data mining,large database,2
+data mining,multi-agent,1
+data mining,network administrator,1
+data mining,pace university,1
+data mining,statistical data mining,1
+data mining,vmsoar project,1
+data mining,cognitive issue,1
+data mining,data mining practice,1
+data mining,fuzzy logic,1
+data mining,integrate fuzzy logic,1
+data mining,real world,1
+data mining,significant pattern,1
+probabilistic latent semantic,weblog,1
+computer security,cybersecurity,1
+computer security,information system,1
+computer security,information technology,1
+computer security,intelligent transportation,1
+computer security,mobile communication,1
+computer security,national security,1
+computer security,productivity,1
+computer security,terrorism,1
+computer security,transportation,1
+computer security,travel industry,1
+cybersecurity,information system,1
+cybersecurity,information technology,1
+cybersecurity,intelligent transportation,1
+cybersecurity,mobile communication,1
+cybersecurity,national security,1
+cybersecurity,productivity,1
+cybersecurity,terrorism,1
+cybersecurity,transportation,1
+cybersecurity,travel industry,1
+cybersecurity,cognition,1
+cybersecurity,cognitive,1
+cybersecurity,cognitive agent,1
+cybersecurity,cognitive architecture,1
+cybersecurity,information storage,1
+cybersecurity,intelligent agent,1
+cybersecurity,intelligent security agent,1
+cybersecurity,intrusion detection,1
+cybersecurity,large database,1
+cybersecurity,multi-agent,1
+cybersecurity,network administrator,1
+cybersecurity,pace university,1
+cybersecurity,statistical data mining,1
+cybersecurity,vmsoar project,1
+cybersecurity,automation,1
+cybersecurity,control architecture,1
+cybersecurity,control engineering computing,1
+cybersecurity,electric power control,1
+cybersecurity,nerc cip 1200,1
+cybersecurity,power engineering computing,1
+cybersecurity,power system control,1
+cybersecurity,power system security,1
+cybersecurity,reliability,1
+cybersecurity,standards,1
+cybersecurity,vulnerability assessment,1
+information system,information technology,1
+information system,intelligent transportation,1
+information system,mobile communication,1
+information system,national security,1
+information system,productivity,1
+information system,terrorism,1
+information system,transportation,1
+information system,travel industry,1
+information technology,intelligent transportation,1
+information technology,mobile communication,1
+information technology,national security,1
+information technology,productivity,1
+information technology,terrorism,1
+information technology,transportation,1
+information technology,travel industry,1
+intelligent transportation,mobile communication,1
+intelligent transportation,national security,1
+intelligent transportation,productivity,1
+intelligent transportation,terrorism,1
+intelligent transportation,transportation,1
+intelligent transportation,travel industry,1
+mobile communication,national security,1
+mobile communication,productivity,1
+mobile communication,terrorism,1
+mobile communication,transportation,1
+mobile communication,travel industry,1
+national security,productivity,1
+national security,terrorism,1
+national security,transportation,1
+national security,travel industry,1
+productivity,terrorism,1
+productivity,transportation,1
+productivity,travel industry,1
+terrorism,transportation,1
+terrorism,travel industry,1
+transportation,travel industry,1
+cognition,cognitive,1
+cognition,cognitive agent,1
+cognition,cognitive architecture,1
+cognition,information storage,1
+cognition,intelligent agent,1
+cognition,intelligent security agent,1
+cognition,intrusion detection,1
+cognition,large database,1
+cognition,multi-agent,1
+cognition,network administrator,1
+cognition,pace university,1
+cognition,statistical data mining,1
+cognition,vmsoar project,1
+cognitive,cognitive agent,1
+cognitive,cognitive architecture,1
+cognitive,information storage,1
+cognitive,intelligent agent,1
+cognitive,intelligent security agent,1
+cognitive,intrusion detection,1
+cognitive,large database,1
+cognitive,multi-agent,1
+cognitive,network administrator,1
+cognitive,pace university,1
+cognitive,statistical data mining,1
+cognitive,vmsoar project,1
+cognitive agent,cognitive architecture,1
+cognitive agent,information storage,1
+cognitive agent,intelligent agent,1
+cognitive agent,intelligent security agent,1
+cognitive agent,intrusion detection,1
+cognitive agent,large database,1
+cognitive agent,multi-agent,1
+cognitive agent,network administrator,1
+cognitive agent,pace university,1
+cognitive agent,statistical data mining,1
+cognitive agent,vmsoar project,1
+cognitive architecture,information storage,1
+cognitive architecture,intelligent agent,1
+cognitive architecture,intelligent security agent,1
+cognitive architecture,intrusion detection,1
+cognitive architecture,large database,1
+cognitive architecture,multi-agent,1
+cognitive architecture,network administrator,1
+cognitive architecture,pace university,1
+cognitive architecture,statistical data mining,1
+cognitive architecture,vmsoar project,1
+information storage,intelligent agent,1
+information storage,intelligent security agent,1
+information storage,intrusion detection,1
+information storage,large database,1
+information storage,multi-agent,1
+information storage,network administrator,1
+information storage,pace university,1
+information storage,statistical data mining,1
+information storage,vmsoar project,1
+intelligent agent,intelligent security agent,1
+intelligent agent,intrusion detection,1
+intelligent agent,large database,1
+intelligent agent,multi-agent,1
+intelligent agent,network administrator,1
+intelligent agent,pace university,1
+intelligent agent,statistical data mining,1
+intelligent agent,vmsoar project,1
+intelligent security agent,intrusion detection,1
+intelligent security agent,large database,1
+intelligent security agent,multi-agent,1
+intelligent security agent,network administrator,1
+intelligent security agent,pace university,1
+intelligent security agent,statistical data mining,1
+intelligent security agent,vmsoar project,1
+intrusion detection,large database,1
+intrusion detection,multi-agent,1
+intrusion detection,network administrator,1
+intrusion detection,pace university,1
+intrusion detection,statistical data mining,1
+intrusion detection,vmsoar project,1
+intrusion detection,computer network,1
+intrusion detection,cyber attack,1
+intrusion detection,information fusion,1
+intrusion detection,modeling,1
+intrusion detection,network security,1
+intrusion detection,simulation,1
+large database,multi-agent,1
+large database,network administrator,1
+large database,pace university,1
+large database,statistical data mining,1
+large database,vmsoar project,1
+large database,cognitive issue,1
+large database,data mining practice,1
+large database,fuzzy logic,1
+large database,integrate fuzzy logic,1
+large database,real world,1
+large database,significant pattern,1
+multi-agent,network administrator,1
+multi-agent,pace university,1
+multi-agent,statistical data mining,1
+multi-agent,vmsoar project,1
+network administrator,pace university,1
+network administrator,statistical data mining,1
+network administrator,vmsoar project,1
+pace university,statistical data mining,1
+pace university,vmsoar project,1
+statistical data mining,vmsoar project,1
+cipher key distribution,dense wavelength division multiplexing,1
+cipher key distribution,enterprise network layer,1
+cipher key distribution,optical communications security,1
+cipher key distribution,optical fibre network,1
+cipher key distribution,optical network security,1
+cipher key distribution,physical link signature,1
+cipher key distribution,quantum cryptography,1
+cipher key distribution,source authentication,1
+cipher key distribution,telecommunication security,1
+cipher key distribution,wavelength division multiplexing,1
+dense wavelength division multiplexing,enterprise network layer,1
+dense wavelength division multiplexing,optical communications security,1
+dense wavelength division multiplexing,optical fibre network,1
+dense wavelength division multiplexing,optical network security,1
+dense wavelength division multiplexing,physical link signature,1
+dense wavelength division multiplexing,quantum cryptography,1
+dense wavelength division multiplexing,source authentication,1
+dense wavelength division multiplexing,telecommunication security,1
+dense wavelength division multiplexing,wavelength division multiplexing,1
+enterprise network layer,optical communications security,1
+enterprise network layer,optical fibre network,1
+enterprise network layer,optical network security,1
+enterprise network layer,physical link signature,1
+enterprise network layer,quantum cryptography,1
+enterprise network layer,source authentication,1
+enterprise network layer,telecommunication security,1
+enterprise network layer,wavelength division multiplexing,1
+optical communications security,optical fibre network,1
+optical communications security,optical network security,1
+optical communications security,physical link signature,1
+optical communications security,quantum cryptography,1
+optical communications security,source authentication,1
+optical communications security,telecommunication security,1
+optical communications security,wavelength division multiplexing,1
+optical fibre network,optical network security,1
+optical fibre network,physical link signature,1
+optical fibre network,quantum cryptography,1
+optical fibre network,source authentication,1
+optical fibre network,telecommunication security,1
+optical fibre network,wavelength division multiplexing,1
+optical network security,physical link signature,1
+optical network security,quantum cryptography,1
+optical network security,source authentication,1
+optical network security,telecommunication security,1
+optical network security,wavelength division multiplexing,1
+physical link signature,quantum cryptography,1
+physical link signature,source authentication,1
+physical link signature,telecommunication security,1
+physical link signature,wavelength division multiplexing,1
+quantum cryptography,source authentication,1
+quantum cryptography,telecommunication security,1
+quantum cryptography,wavelength division multiplexing,1
+source authentication,telecommunication security,1
+source authentication,wavelength division multiplexing,1
+telecommunication security,wavelength division multiplexing,1
+cognitive issue,data mining practice,1
+cognitive issue,fuzzy logic,1
+cognitive issue,integrate fuzzy logic,1
+cognitive issue,real world,1
+cognitive issue,significant pattern,1
+data mining practice,fuzzy logic,1
+data mining practice,integrate fuzzy logic,1
+data mining practice,real world,1
+data mining practice,significant pattern,1
+fuzzy logic,integrate fuzzy logic,1
+fuzzy logic,real world,1
+fuzzy logic,significant pattern,1
+integrate fuzzy logic,real world,1
+integrate fuzzy logic,significant pattern,1
+real world,significant pattern,1
+bill neugent,chief engineer,1
+bill neugent,cross-boundary information sharing,1
+bill neugent,cybersecurity expert,1
+bill neugent,debut novel,1
+bill neugent,extensive work,1
+bill neugent,information assurance,1
+bill neugent,information integration,1
+bill neugent,intelligence community,1
+chief engineer,cross-boundary information sharing,1
+chief engineer,cybersecurity expert,1
+chief engineer,debut novel,1
+chief engineer,extensive work,1
+chief engineer,information assurance,1
+chief engineer,information integration,1
+chief engineer,intelligence community,1
+cross-boundary information sharing,cybersecurity expert,1
+cross-boundary information sharing,debut novel,1
+cross-boundary information sharing,extensive work,1
+cross-boundary information sharing,information assurance,1
+cross-boundary information sharing,information integration,1
+cross-boundary information sharing,intelligence community,1
+cybersecurity expert,debut novel,1
+cybersecurity expert,extensive work,1
+cybersecurity expert,information assurance,1
+cybersecurity expert,information integration,1
+cybersecurity expert,intelligence community,1
+debut novel,extensive work,1
+debut novel,information assurance,1
+debut novel,information integration,1
+debut novel,intelligence community,1
+extensive work,information assurance,1
+extensive work,information integration,1
+extensive work,intelligence community,1
+information assurance,information integration,1
+information assurance,intelligence community,1
+information integration,intelligence community,1
+alert,assessment,1
+alert,correlation,1
+alert,cyber,1
+alert,fusion,1
+alert,information,1
+alert,situation,1
+alert,threat,1
+assessment,correlation,1
+assessment,cyber,1
+assessment,fusion,1
+assessment,information,1
+assessment,situation,1
+assessment,threat,1
+correlation,cyber,1
+correlation,fusion,1
+correlation,information,1
+correlation,situation,1
+correlation,threat,1
+cyber,fusion,1
+cyber,information,2
+cyber,situation,1
+cyber,threat,1
+cyber,afford,1
+cyber,current,1
+cyber,electric,1
+cyber,exchange,1
+cyber,functionality,1
+cyber,infrastructure,2
+cyber,issue,2
+cyber,new,1
+cyber,opportunity,1
+cyber,power,2
+cyber,sensitivity,1
+cyber,system,1
+cyber,timely,1
+cyber,vulnerability,1
+cyber,activity,1
+cyber,application,1
+cyber,aspect,1
+cyber,characteristic,1
+cyber,complex,1
+cyber,defense,1
+cyber,design,1
+cyber,expert,1
+cyber,large,1
+cyber,model,1
+cyber,network,1
+cyber,overall,1
+cyber,tool,1
+cyber,architecture,1
+cyber,best,1
+cyber,concern,1
+cyber,control,1
+cyber,critical,1
+cyber,electrical,1
+cyber,gas,1
+cyber,generation,1
+cyber,nature,1
+cyber,oil,1
+cyber,population,1
+cyber,practice,1
+cyber,retrofit,1
+cyber,risk,1
+cyber,sector,1
+cyber,segmentation,1
+cyber,transmission,1
+fusion,information,1
+fusion,situation,1
+fusion,threat,1
+information,situation,1
+information,threat,1
+information,afford,1
+information,current,1
+information,electric,1
+information,exchange,1
+information,functionality,1
+information,infrastructure,1
+information,issue,1
+information,new,1
+information,opportunity,1
+information,power,1
+information,sensitivity,1
+information,system,1
+information,timely,1
+information,vulnerability,1
+situation,threat,1
+data acquisition,electric power,1
+data acquisition,kepco scada network,1
+data acquisition,key policy,1
+data acquisition,proper key distribution,1
+data acquisition,representative,1
+data acquisition,scada,1
+data acquisition,scada network,1
+data acquisition,scada network communication,1
+data acquisition,supervisory control,1
+data acquisition,symmetric encryption,1
+data acquisition,symmetric encryption application,1
+electric power,kepco scada network,1
+electric power,key policy,1
+electric power,proper key distribution,1
+electric power,representative,1
+electric power,scada,1
+electric power,scada network,1
+electric power,scada network communication,1
+electric power,supervisory control,1
+electric power,symmetric encryption,1
+electric power,symmetric encryption application,1
+kepco scada network,key policy,1
+kepco scada network,proper key distribution,1
+kepco scada network,representative,1
+kepco scada network,scada,1
+kepco scada network,scada network,1
+kepco scada network,scada network communication,1
+kepco scada network,supervisory control,1
+kepco scada network,symmetric encryption,1
+kepco scada network,symmetric encryption application,1
+key policy,proper key distribution,1
+key policy,representative,1
+key policy,scada,1
+key policy,scada network,1
+key policy,scada network communication,1
+key policy,supervisory control,1
+key policy,symmetric encryption,1
+key policy,symmetric encryption application,1
+proper key distribution,representative,1
+proper key distribution,scada,1
+proper key distribution,scada network,1
+proper key distribution,scada network communication,1
+proper key distribution,supervisory control,1
+proper key distribution,symmetric encryption,1
+proper key distribution,symmetric encryption application,1
+representative,scada,1
+representative,scada network,1
+representative,scada network communication,1
+representative,supervisory control,1
+representative,symmetric encryption,1
+representative,symmetric encryption application,1
+scada,scada network,1
+scada,scada network communication,1
+scada,supervisory control,1
+scada,symmetric encryption,1
+scada,symmetric encryption application,1
+scada network,scada network communication,1
+scada network,supervisory control,1
+scada network,symmetric encryption,1
+scada network,symmetric encryption application,1
+scada network,additional load,1
+scada network,communication network,1
+scada network,increased cyber attack,1
+scada network,information technology network,1
+scada network,key distribution period,1
+scada network,network performance,1
+scada network,network traffic,1
+scada network,power system,1
+scada network,qos function,1
+scada network communication,supervisory control,1
+scada network communication,symmetric encryption,1
+scada network communication,symmetric encryption application,1
+supervisory control,symmetric encryption,1
+supervisory control,symmetric encryption application,1
+symmetric encryption,symmetric encryption application,1
+afford,current,1
+afford,electric,1
+afford,exchange,1
+afford,functionality,1
+afford,infrastructure,1
+afford,issue,1
+afford,new,1
+afford,opportunity,1
+afford,power,1
+afford,sensitivity,1
+afford,system,1
+afford,timely,1
+afford,vulnerability,1
+current,electric,1
+current,exchange,1
+current,functionality,1
+current,infrastructure,1
+current,issue,1
+current,new,1
+current,opportunity,1
+current,power,1
+current,sensitivity,1
+current,system,1
+current,timely,1
+current,vulnerability,1
+electric,exchange,1
+electric,functionality,1
+electric,infrastructure,1
+electric,issue,1
+electric,new,1
+electric,opportunity,1
+electric,power,1
+electric,sensitivity,1
+electric,system,1
+electric,timely,1
+electric,vulnerability,1
+exchange,functionality,1
+exchange,infrastructure,1
+exchange,issue,1
+exchange,new,1
+exchange,opportunity,1
+exchange,power,1
+exchange,sensitivity,1
+exchange,system,1
+exchange,timely,1
+exchange,vulnerability,1
+functionality,infrastructure,1
+functionality,issue,1
+functionality,new,1
+functionality,opportunity,1
+functionality,power,1
+functionality,sensitivity,1
+functionality,system,1
+functionality,timely,1
+functionality,vulnerability,1
+infrastructure,issue,2
+infrastructure,new,1
+infrastructure,opportunity,1
+infrastructure,power,2
+infrastructure,sensitivity,1
+infrastructure,system,1
+infrastructure,timely,1
+infrastructure,vulnerability,1
+infrastructure,architecture,1
+infrastructure,best,1
+infrastructure,concern,1
+infrastructure,control,1
+infrastructure,critical,1
+infrastructure,electrical,1
+infrastructure,gas,1
+infrastructure,generation,1
+infrastructure,nature,1
+infrastructure,oil,1
+infrastructure,population,1
+infrastructure,practice,1
+infrastructure,retrofit,1
+infrastructure,risk,1
+infrastructure,sector,1
+infrastructure,segmentation,1
+infrastructure,transmission,1
+issue,new,1
+issue,opportunity,1
+issue,power,2
+issue,sensitivity,1
+issue,system,1
+issue,timely,1
+issue,vulnerability,1
+issue,architecture,1
+issue,best,1
+issue,concern,1
+issue,control,1
+issue,critical,1
+issue,electrical,1
+issue,gas,1
+issue,generation,1
+issue,nature,1
+issue,oil,1
+issue,population,1
+issue,practice,1
+issue,retrofit,1
+issue,risk,1
+issue,sector,1
+issue,segmentation,1
+issue,transmission,1
+new,opportunity,1
+new,power,1
+new,sensitivity,1
+new,system,1
+new,timely,1
+new,vulnerability,1
+opportunity,power,1
+opportunity,sensitivity,1
+opportunity,system,1
+opportunity,timely,1
+opportunity,vulnerability,1
+power,sensitivity,1
+power,system,1
+power,timely,1
+power,vulnerability,1
+power,architecture,1
+power,best,1
+power,concern,1
+power,control,1
+power,critical,1
+power,electrical,1
+power,gas,1
+power,generation,1
+power,nature,1
+power,oil,1
+power,population,1
+power,practice,1
+power,retrofit,1
+power,risk,1
+power,sector,1
+power,segmentation,1
+power,transmission,1
+sensitivity,system,1
+sensitivity,timely,1
+sensitivity,vulnerability,1
+system,timely,1
+system,vulnerability,1
+timely,vulnerability,1
+computer network,cyber attack,1
+computer network,information fusion,1
+computer network,modeling,1
+computer network,network security,1
+computer network,simulation,1
+cyber attack,information fusion,1
+cyber attack,modeling,1
+cyber attack,network security,1
+cyber attack,simulation,1
+information fusion,modeling,1
+information fusion,network security,1
+information fusion,simulation,1
+modeling,network security,1
+modeling,simulation,1
+network security,simulation,1
+activity,application,1
+activity,aspect,1
+activity,characteristic,1
+activity,complex,1
+activity,defense,1
+activity,design,1
+activity,expert,1
+activity,large,1
+activity,model,1
+activity,network,1
+activity,overall,1
+activity,tool,1
+application,aspect,1
+application,characteristic,1
+application,complex,1
+application,defense,1
+application,design,1
+application,expert,1
+application,large,1
+application,model,1
+application,network,1
+application,overall,1
+application,tool,1
+aspect,characteristic,1
+aspect,complex,1
+aspect,defense,1
+aspect,design,1
+aspect,expert,1
+aspect,large,1
+aspect,model,1
+aspect,network,1
+aspect,overall,1
+aspect,tool,1
+characteristic,complex,1
+characteristic,defense,1
+characteristic,design,1
+characteristic,expert,1
+characteristic,large,1
+characteristic,model,1
+characteristic,network,1
+characteristic,overall,1
+characteristic,tool,1
+complex,defense,1
+complex,design,1
+complex,expert,1
+complex,large,1
+complex,model,1
+complex,network,1
+complex,overall,1
+complex,tool,1
+defense,design,1
+defense,expert,1
+defense,large,1
+defense,model,1
+defense,network,1
+defense,overall,1
+defense,tool,1
+design,expert,1
+design,large,1
+design,model,1
+design,network,1
+design,overall,1
+design,tool,1
+expert,large,1
+expert,model,1
+expert,network,1
+expert,overall,1
+expert,tool,1
+large,model,1
+large,network,1
+large,overall,1
+large,tool,1
+model,network,1
+model,overall,1
+model,tool,1
+network,overall,1
+network,tool,1
+overall,tool,1
+automation,control architecture,1
+automation,control engineering computing,1
+automation,electric power control,1
+automation,nerc cip 1200,1
+automation,power engineering computing,1
+automation,power system control,1
+automation,power system security,1
+automation,reliability,1
+automation,standards,1
+automation,vulnerability assessment,1
+control architecture,control engineering computing,1
+control architecture,electric power control,1
+control architecture,nerc cip 1200,1
+control architecture,power engineering computing,1
+control architecture,power system control,1
+control architecture,power system security,1
+control architecture,reliability,1
+control architecture,standards,1
+control architecture,vulnerability assessment,1
+control engineering computing,electric power control,1
+control engineering computing,nerc cip 1200,1
+control engineering computing,power engineering computing,1
+control engineering computing,power system control,1
+control engineering computing,power system security,1
+control engineering computing,reliability,1
+control engineering computing,standards,1
+control engineering computing,vulnerability assessment,1
+electric power control,nerc cip 1200,1
+electric power control,power engineering computing,1
+electric power control,power system control,1
+electric power control,power system security,1
+electric power control,reliability,1
+electric power control,standards,1
+electric power control,vulnerability assessment,1
+nerc cip 1200,power engineering computing,1
+nerc cip 1200,power system control,1
+nerc cip 1200,power system security,1
+nerc cip 1200,reliability,1
+nerc cip 1200,standards,1
+nerc cip 1200,vulnerability assessment,1
+power engineering computing,power system control,1
+power engineering computing,power system security,1
+power engineering computing,reliability,1
+power engineering computing,standards,1
+power engineering computing,vulnerability assessment,1
+power system control,power system security,1
+power system control,reliability,1
+power system control,standards,1
+power system control,vulnerability assessment,1
+power system security,reliability,1
+power system security,standards,1
+power system security,vulnerability assessment,1
+reliability,standards,1
+reliability,vulnerability assessment,1
+standards,vulnerability assessment,1
+additional load,communication network,1
+additional load,increased cyber attack,1
+additional load,information technology network,1
+additional load,key distribution period,1
+additional load,network performance,1
+additional load,network traffic,1
+additional load,power system,1
+additional load,qos function,1
+communication network,increased cyber attack,1
+communication network,information technology network,1
+communication network,key distribution period,1
+communication network,network performance,1
+communication network,network traffic,1
+communication network,power system,1
+communication network,qos function,1
+increased cyber attack,information technology network,1
+increased cyber attack,key distribution period,1
+increased cyber attack,network performance,1
+increased cyber attack,network traffic,1
+increased cyber attack,power system,1
+increased cyber attack,qos function,1
+information technology network,key distribution period,1
+information technology network,network performance,1
+information technology network,network traffic,1
+information technology network,power system,1
+information technology network,qos function,1
+key distribution period,network performance,1
+key distribution period,network traffic,1
+key distribution period,power system,1
+key distribution period,qos function,1
+network performance,network traffic,1
+network performance,power system,1
+network performance,qos function,1
+network traffic,power system,1
+network traffic,qos function,1
+power system,qos function,1
+cognitive principle,computer training,1
+cognitive principle,cyber security education,1
+cognitive principle,serious game,1
+cognitive principle,training effectiveness,1
+computer training,cyber security education,1
+computer training,serious game,1
+computer training,training effectiveness,1
+cyber security education,serious game,1
+cyber security education,training effectiveness,1
+serious game,training effectiveness,1
+contextual reasoning,prediction,1
+architecture,best,1
+architecture,concern,1
+architecture,control,1
+architecture,critical,1
+architecture,electrical,1
+architecture,gas,1
+architecture,generation,1
+architecture,nature,1
+architecture,oil,1
+architecture,population,1
+architecture,practice,1
+architecture,retrofit,1
+architecture,risk,1
+architecture,sector,1
+architecture,segmentation,1
+architecture,transmission,1
+best,concern,1
+best,control,1
+best,critical,1
+best,electrical,1
+best,gas,1
+best,generation,1
+best,nature,1
+best,oil,1
+best,population,1
+best,practice,1
+best,retrofit,1
+best,risk,1
+best,sector,1
+best,segmentation,1
+best,transmission,1
+concern,control,1
+concern,critical,1
+concern,electrical,1
+concern,gas,1
+concern,generation,1
+concern,nature,1
+concern,oil,1
+concern,population,1
+concern,practice,1
+concern,retrofit,1
+concern,risk,1
+concern,sector,1
+concern,segmentation,1
+concern,transmission,1
+control,critical,1
+control,electrical,1
+control,gas,1
+control,generation,1
+control,nature,1
+control,oil,1
+control,population,1
+control,practice,1
+control,retrofit,1
+control,risk,1
+control,sector,1
+control,segmentation,1
+control,transmission,1
+critical,electrical,1
+critical,gas,1
+critical,generation,1
+critical,nature,1
+critical,oil,1
+critical,population,1
+critical,practice,1
+critical,retrofit,1
+critical,risk,1
+critical,sector,1
+critical,segmentation,1
+critical,transmission,1
+electrical,gas,1
+electrical,generation,1
+electrical,nature,1
+electrical,oil,1
+electrical,population,1
+electrical,practice,1
+electrical,retrofit,1
+electrical,risk,1
+electrical,sector,1
+electrical,segmentation,1
+electrical,transmission,1
+gas,generation,1
+gas,nature,1
+gas,oil,1
+gas,population,1
+gas,practice,1
+gas,retrofit,1
+gas,risk,1
+gas,sector,1
+gas,segmentation,1
+gas,transmission,1
+generation,nature,1
+generation,oil,1
+generation,population,1
+generation,practice,1
+generation,retrofit,1
+generation,risk,1
+generation,sector,1
+generation,segmentation,1
+generation,transmission,1
+nature,oil,1
+nature,population,1
+nature,practice,1
+nature,retrofit,1
+nature,risk,1
+nature,sector,1
+nature,segmentation,1
+nature,transmission,1
+oil,population,1
+oil,practice,1
+oil,retrofit,1
+oil,risk,1
+oil,sector,1
+oil,segmentation,1
+oil,transmission,1
+population,practice,1
+population,retrofit,1
+population,risk,1
+population,sector,1
+population,segmentation,1
+population,transmission,1
+practice,retrofit,1
+practice,risk,1
+practice,sector,1
+practice,segmentation,1
+practice,transmission,1
+retrofit,risk,1
+retrofit,sector,1
+retrofit,segmentation,1
+retrofit,transmission,1
+risk,sector,1
+risk,segmentation,1
+risk,transmission,1
+sector,segmentation,1
+sector,transmission,1
+segmentation,transmission,1

@@ -1,0 +1,2821 @@
+source,target,weight
+artificial intelligence,challenge,2
+artificial intelligence,cyber physical,1
+artificial intelligence,learning,1
+artificial intelligence,security,2
+artificial intelligence,adversarial learning,1
+artificial intelligence,classifier,1
+artificial intelligence,cyber security,2
+artificial intelligence,resilience,1
+artificial intelligence,cybersecurity,7
+artificial intelligence,security assurance,1
+artificial intelligence,systematic literature review,1
+artificial intelligence,authentication,1
+artificial intelligence,data privacy,1
+artificial intelligence,cnn lstm,1
+artificial intelligence,deep learning,1
+artificial intelligence,intrusion detection,1
+artificial intelligence,nsl kdd dataset,1
+artificial intelligence,recursive feature elimination,1
+artificial intelligence,code generation,1
+artificial intelligence,common weakness enumeration,1
+artificial intelligence,artificial intelligence act,1
+artificial intelligence,certification,1
+artificial intelligence,cyber resilience act,1
+artificial intelligence,cybersecurity act,1
+artificial intelligence,cybersecurity law,1
+artificial intelligence,foundation model,1
+artificial intelligence,future of cybersecurity,1
+artificial intelligence,nis,1
+artificial intelligence,standardisation,1
+artificial intelligence,access,1
+artificial intelligence,breach,1
+artificial intelligence,control,1
+artificial intelligence,cyber,1
+artificial intelligence,data,1
+artificial intelligence,incident,1
+artificial intelligence,modelling,1
+artificial intelligence,policy,1
+artificial intelligence,privacy,1
+artificial intelligence,threat,1
+artificial intelligence,drone,1
+artificial intelligence,drone security,1
+artificial intelligence,internet of things,1
+artificial intelligence,blockchain,1
+artificial intelligence,machine learning,1
+artificial intelligence,phishing,1
+artificial intelligence,social engineering attack,1
+artificial intelligence,attack,1
+artificial intelligence,digital,1
+artificial intelligence,health,1
+artificial intelligence,healthcare,1
+artificial intelligence,proactive,1
+artificial intelligence,ransomware,1
+challenge,cyber physical,1
+challenge,learning,1
+challenge,security,2
+challenge,authentication,1
+challenge,cybersecurity,1
+challenge,data privacy,1
+cyber physical,learning,1
+cyber physical,security,1
+learning,security,2
+learning,behavior,1
+learning,cybersecurity,5
+learning,explanatory,1
+learning,machine,4
+learning,modeling,1
+learning,motivation,1
+learning,predictive,1
+learning,protection,1
+learning,smartphone,1
+learning,theory,1
+learning,classification,1
+learning,computer,1
+learning,deep,1
+learning,lstm,1
+learning,mnasnet,1
+learning,monitoring,1
+learning,network,1
+learning,traffic,1
+learning,adversarial,1
+learning,attack,3
+learning,coding,1
+learning,evasion,2
+learning,secure,1
+learning,cyberattack,1
+learning,detection,1
+learning,dynamic,1
+learning,dynamics,1
+learning,estimation,1
+learning,extended,1
+learning,filter,1
+learning,kalman,1
+learning,least,1
+learning,mathematical,1
+learning,measurement,1
+learning,mitigation,1
+learning,model,1
+learning,phasor,1
+learning,power,1
+learning,square,1
+learning,stability,1
+learning,state,1
+learning,substation,1
+learning,system,1
+learning,unit,1
+learning,vector,1
+learning,weight,1
+learning,weighted,1
+learning,threat,1
+security,behavior,2
+security,cybersecurity,13
+security,explanatory,1
+security,machine,2
+security,modeling,1
+security,motivation,1
+security,predictive,1
+security,protection,1
+security,smartphone,1
+security,theory,1
+security,blockchain,1
+security,cyberphysical,3
+security,location,1
+security,management,2
+security,proof,1
+security,service,1
+security,system,1
+security,communication,2
+security,computer architecture,1
+security,encryption,1
+security,frequency control,1
+security,multiapplication enabled communication,1
+security,network slicing,1
+security,network virtualization,1
+security,physical layer,1
+security,quantum communication,1
+security,quantum key distribution,1
+security,resource allocation,1
+security,resource management,1
+security,smart grid,1
+security,virtualization,1
+security,bard,1
+security,chatgpt,1
+security,ethics,1
+security,generative artificial intelligence,1
+security,privacy,3
+security,authentication,2
+security,data privacy,1
+security,anomaly,1
+security,cyber,3
+security,detection,2
+security,insider,1
+security,log,1
+security,threat,3
+security,user,1
+security,analytical,1
+security,bibliometric,1
+security,collaboration,1
+security,computer,1
+security,crime,1
+security,malware,2
+security,market,1
+security,model,2
+security,monitoring,2
+security,research,1
+security,accuracy,1
+security,android malware detection,1
+security,feature extraction,1
+security,internet,2
+security,machine learning,1
+security,machine learning algorithm,1
+security,mobile security,1
+security,operating system,1
+security,permission exploitation,1
+security,support vector machine,1
+security,training,1
+security,awareness,1
+security,email,1
+security,extraction,1
+security,feature,1
+security,language,1
+security,malicious,1
+security,natural,1
+security,processing,1
+security,spam,1
+security,compliance,1
+security,edge,2
+security,internet of things,1
+security,policy,1
+security,regulatory,1
+security,decentralized,1
+security,distributed,1
+security,energy,1
+security,multiagent,1
+security,power,1
+security,preservation,1
+security,resource,1
+security,assessment,1
+security,data,1
+security,dynamic,1
+security,integration,1
+security,medical,1
+security,of,1
+security,risk,2
+security,simulation,1
+security,things,1
+security,virtual reality,1
+security,attack,2
+security,robotics,1
+security,graph,1
+security,infrastructure,1
+security,investment,1
+security,6g,1
+security,intelligence,2
+security,missioncritical,1
+security,network,1
+security,public,1
+security,safety,1
+security,solution,1
+security,tactical,1
+security,access,1
+security,architecture,1
+security,artificial,1
+security,identity,1
+security,trust,1
+security,zero,1
+security,adversarial,1
+security,classification,1
+security,learn,1
+agent training environment,cyber range,1
+agent training environment,cybersecurity,1
+agent training environment,penetration testing,1
+agent training environment,realistic environment,1
+agent training environment,reinforcement learning,1
+cyber range,cybersecurity,2
+cyber range,penetration testing,1
+cyber range,realistic environment,1
+cyber range,reinforcement learning,1
+cyber range,evaluation formula,1
+cyber range,reference architecture,1
+cyber range,standardization,1
+cyber range,cyber security,1
+cyber range,federated platform,1
+cyber range,gamification,1
+cyber range,scoring,1
+cyber range,training,1
+cybersecurity,penetration testing,1
+cybersecurity,realistic environment,1
+cybersecurity,reinforcement learning,2
+cybersecurity,behavior,2
+cybersecurity,explanatory,1
+cybersecurity,machine,4
+cybersecurity,modeling,1
+cybersecurity,motivation,1
+cybersecurity,predictive,1
+cybersecurity,protection,1
+cybersecurity,smartphone,1
+cybersecurity,theory,1
+cybersecurity,agriculture,1
+cybersecurity,framework,1
+cybersecurity,literature review,1
+cybersecurity,model,3
+cybersecurity,smart agriculture,1
+cybersecurity,threat,5
+cybersecurity,age,1
+cybersecurity,arab,1
+cybersecurity,bias,1
+cybersecurity,gender,1
+cybersecurity,risk perception,1
+cybersecurity,risk-taking,1
+cybersecurity,social engineering,2
+cybersecurity,uk,1
+cybersecurity,industry,1
+cybersecurity,process,1
+cybersecurity,self-efficacy,1
+cybersecurity,technology,1
+cybersecurity,transformation,1
+cybersecurity,access control,1
+cybersecurity,biometric,1
+cybersecurity,blockchain,4
+cybersecurity,deep learning,6
+cybersecurity,speech recognition,1
+cybersecurity,attack graph,1
+cybersecurity,risk assessment,2
+cybersecurity,communication,2
+cybersecurity,computer architecture,1
+cybersecurity,encryption,2
+cybersecurity,frequency control,1
+cybersecurity,multiapplication enabled communication,1
+cybersecurity,network slicing,1
+cybersecurity,network virtualization,1
+cybersecurity,physical layer,1
+cybersecurity,quantum communication,1
+cybersecurity,quantum key distribution,1
+cybersecurity,resource allocation,1
+cybersecurity,resource management,1
+cybersecurity,smart grid,3
+cybersecurity,virtualization,1
+cybersecurity,internet of medical things,1
+cybersecurity,internet of things,4
+cybersecurity,machine learning,8
+cybersecurity,support vector machine,2
+cybersecurity,cyber incident,1
+cybersecurity,incident reporting,1
+cybersecurity,nis,1
+cybersecurity,policy learning,1
+cybersecurity,realist synthesis,1
+cybersecurity,cyberattack,4
+cybersecurity,cyberphysical infrastructure,1
+cybersecurity,optimization,1
+cybersecurity,co simulation,1
+cybersecurity,intrusion detection,5
+cybersecurity,bard,1
+cybersecurity,chatgpt,1
+cybersecurity,ethics,2
+cybersecurity,generative artificial intelligence,1
+cybersecurity,privacy,4
+cybersecurity,classification,1
+cybersecurity,computer,2
+cybersecurity,deep,1
+cybersecurity,lstm,1
+cybersecurity,mnasnet,1
+cybersecurity,monitoring,3
+cybersecurity,network,2
+cybersecurity,traffic,1
+cybersecurity,approximation,1
+cybersecurity,autoregressive,1
+cybersecurity,central,1
+cybersecurity,estimation,2
+cybersecurity,exponential,1
+cybersecurity,independent,1
+cybersecurity,limit,1
+cybersecurity,lindebergfeller,1
+cybersecurity,nonparametric,1
+cybersecurity,periodogram,1
+cybersecurity,saddlepoint,1
+cybersecurity,sidechannel,1
+cybersecurity,smoothed,1
+cybersecurity,spectral,1
+cybersecurity,spectrum,1
+cybersecurity,sum,1
+cybersecurity,theorem,1
+cybersecurity,security assurance,1
+cybersecurity,systematic literature review,1
+cybersecurity,authentication,2
+cybersecurity,data privacy,2
+cybersecurity,active learning,1
+cybersecurity,cnn lstm,1
+cybersecurity,nsl kdd dataset,1
+cybersecurity,recursive feature elimination,1
+cybersecurity,code generation,1
+cybersecurity,common weakness enumeration,1
+cybersecurity,awareness,3
+cybersecurity,community,1
+cybersecurity,quishing,1
+cybersecurity,critical infrastructure,1
+cybersecurity,data fusion,1
+cybersecurity,keystroke dynamics,1
+cybersecurity,siamese neural network,2
+cybersecurity,user authentication,1
+cybersecurity,artificial intelligence of things,1
+cybersecurity,controller area network,1
+cybersecurity,adversarial machine learning,1
+cybersecurity,causative attack,1
+cybersecurity,corrupted training set,1
+cybersecurity,data poisoning,1
+cybersecurity,federated learning,1
+cybersecurity,analytical,1
+cybersecurity,bibliometric,1
+cybersecurity,collaboration,1
+cybersecurity,crime,1
+cybersecurity,malware,2
+cybersecurity,market,1
+cybersecurity,research,1
+cybersecurity,anomaly detection,3
+cybersecurity,neural network,1
+cybersecurity,quantum computing,1
+cybersecurity,quantum machine learning,1
+cybersecurity,lawfulness,1
+cybersecurity,legal obligation,1
+cybersecurity,legitimate interest,1
+cybersecurity,nis 2 directive,1
+cybersecurity,right to data protection,1
+cybersecurity,ai enabled device,1
+cybersecurity,cyber attack,2
+cybersecurity,field,1
+cybersecurity,home,1
+cybersecurity,human centred,1
+cybersecurity,indicator,1
+cybersecurity,remediation,1
+cybersecurity,smart device,1
+cybersecurity,smart heating,1
+cybersecurity,accuracy,1
+cybersecurity,android malware detection,1
+cybersecurity,feature extraction,1
+cybersecurity,internet,1
+cybersecurity,machine learning algorithm,1
+cybersecurity,mobile security,1
+cybersecurity,operating system,1
+cybersecurity,permission exploitation,1
+cybersecurity,training,2
+cybersecurity,banking industry,1
+cybersecurity,technology adoption,1
+cybersecurity,hyperparameter tuning,1
+cybersecurity,internet of things security,1
+cybersecurity,network security,1
+cybersecurity,smart home security,1
+cybersecurity,unsupervised learning,1
+cybersecurity,biological neural network,1
+cybersecurity,brain inspired computing,1
+cybersecurity,computational efficiency,1
+cybersecurity,computational modeling,1
+cybersecurity,design automation,1
+cybersecurity,hyperdimensional computing,1
+cybersecurity,integrated circuit,1
+cybersecurity,q learning,1
+cybersecurity,maritime domain,1
+cybersecurity,mitre attack,2
+cybersecurity,satellite communication,1
+cybersecurity,adversarial,1
+cybersecurity,attack,5
+cybersecurity,coding,1
+cybersecurity,evasion,2
+cybersecurity,secure,1
+cybersecurity,detection,4
+cybersecurity,email,2
+cybersecurity,extraction,1
+cybersecurity,feature,1
+cybersecurity,language,1
+cybersecurity,malicious,1
+cybersecurity,natural,1
+cybersecurity,processing,1
+cybersecurity,spam,2
+cybersecurity,evaluation formula,1
+cybersecurity,reference architecture,1
+cybersecurity,standardization,1
+cybersecurity,adversarial attacks,1
+cybersecurity,industrial internet of things,1
+cybersecurity,latent space,1
+cybersecurity,manifold attacks,1
+cybersecurity,model robustness,1
+cybersecurity,network intrusion detection,2
+cybersecurity,agent,1
+cybersecurity,cyber defense,1
+cybersecurity,large language model,3
+cybersecurity,compliance,1
+cybersecurity,edge,2
+cybersecurity,policy,2
+cybersecurity,regulatory,1
+cybersecurity,markov decision process,1
+cybersecurity,vulnerability,2
+cybersecurity,black box adversarial attack,1
+cybersecurity,cybersecure artificial intelligence,1
+cybersecurity,deep neural network,1
+cybersecurity,evolutionary computing,1
+cybersecurity,object detection,1
+cybersecurity,phishing,2
+cybersecurity,5g network,1
+cybersecurity,bill of materials,1
+cybersecurity,supply chain,1
+cybersecurity,vendor risk management,1
+cybersecurity,access,2
+cybersecurity,breach,1
+cybersecurity,control,1
+cybersecurity,cyber,1
+cybersecurity,data,1
+cybersecurity,incident,1
+cybersecurity,modelling,1
+cybersecurity,robotics,2
+cybersecurity,threat detection,1
+cybersecurity,unauthorized access,1
+cybersecurity,activity,1
+cybersecurity,application,1
+cybersecurity,log,1
+cybersecurity,risk,3
+cybersecurity,child,1
+cybersecurity,nation,1
+cybersecurity,state,2
+cybersecurity,countermeasure,1
+cybersecurity,experimentation,1
+cybersecurity,proposal,1
+cybersecurity,taxonomy,1
+cybersecurity,treatment,1
+cybersecurity,validation,1
+cybersecurity,computational design science,1
+cybersecurity,threat hunting,1
+cybersecurity,decision making,1
+cybersecurity,information security awareness,1
+cybersecurity,phishing email,1
+cybersecurity,phishing susceptibility,1
+cybersecurity,generative adversarial network,1
+cybersecurity,image representation,1
+cybersecurity,malware classification,1
+cybersecurity,transfer learning,1
+cybersecurity,virtual reality,1
+cybersecurity,attack model,1
+cybersecurity,natural language processing,1
+cybersecurity,cyberphysical,1
+cybersecurity,feature selection,2
+cybersecurity,hybrid intrusion detection,1
+cybersecurity,internet of thing,1
+cybersecurity,metaheuristic algorithm,1
+cybersecurity,multilayer perceptron,1
+cybersecurity,salp swarm algorithm,1
+cybersecurity,industrial control,1
+cybersecurity,industrial equipment,1
+cybersecurity,industrial network,1
+cybersecurity,power substation,1
+cybersecurity,social engineering attack,1
+cybersecurity,engineering,1
+cybersecurity,persuasion,1
+cybersecurity,social,1
+cybersecurity,permutation importance,1
+cybersecurity,random forest,1
+cybersecurity,signature,1
+cybersecurity,critical infrastructure protection,1
+cybersecurity,cyber resilience,1
+cybersecurity,socio-technical system,1
+cybersecurity,dns,1
+cybersecurity,dns measurement,1
+cybersecurity,dns over https,1
+cybersecurity,ensemble algorithm,1
+cybersecurity,fault detection,1
+cybersecurity,unmanned aerial vehicle,1
+cybersecurity,graph,1
+cybersecurity,infrastructure,1
+cybersecurity,investment,1
+cybersecurity,communication network,1
+cybersecurity,full life cycle,1
+cybersecurity,payload security,1
+cybersecurity,sensor security,1
+cybersecurity,unmanned aerial system,1
+cybersecurity,6g,1
+cybersecurity,intelligence,2
+cybersecurity,missioncritical,1
+cybersecurity,public,1
+cybersecurity,safety,1
+cybersecurity,solution,1
+cybersecurity,tactical,1
+cybersecurity,behaviour change,1
+cybersecurity,end user,1
+cybersecurity,meta analysis,1
+cybersecurity,digital,1
+cybersecurity,health,1
+cybersecurity,healthcare,1
+cybersecurity,proactive,1
+cybersecurity,ransomware,1
+cybersecurity,attack path generation,1
+cybersecurity,automated report,1
+cybersecurity,graph alignment,1
+cybersecurity,weak supervision,1
+cybersecurity,bangladesh,1
+cybersecurity,citizen,1
+cybersecurity,engagement,1
+cybersecurity,psychological,1
+cybersecurity,dynamic,1
+cybersecurity,dynamics,1
+cybersecurity,extended,1
+cybersecurity,filter,1
+cybersecurity,kalman,1
+cybersecurity,least,1
+cybersecurity,mathematical,1
+cybersecurity,measurement,1
+cybersecurity,mitigation,1
+cybersecurity,phasor,1
+cybersecurity,power,1
+cybersecurity,square,1
+cybersecurity,stability,1
+cybersecurity,substation,1
+cybersecurity,system,1
+cybersecurity,unit,1
+cybersecurity,vector,1
+cybersecurity,weight,1
+cybersecurity,weighted,1
+cybersecurity,autonomy,1
+cybersecurity,behavioral,1
+cybersecurity,beneficence,1
+cybersecurity,change,1
+cybersecurity,intervention,1
+cybersecurity,justice,1
+cybersecurity,nonmaleficence,1
+cybersecurity,transparency,1
+cybersecurity,acoustic propagation,1
+cybersecurity,contextual copresence detection,1
+cybersecurity,dynamic acoustic fingerprint,1
+cybersecurity,two-factor authentication,1
+cybersecurity,ada boost,1
+cybersecurity,distributed internet of things attack,1
+cybersecurity,gradient boost,1
+cybersecurity,voting,1
+cybersecurity,architecture,1
+cybersecurity,artificial,1
+cybersecurity,identity,1
+cybersecurity,management,1
+cybersecurity,trust,1
+cybersecurity,zero,1
+cybersecurity,macroprogramming,1
+cybersecurity,sensor data processing,1
+cybersecurity,bert,1
+cybersecurity,fine-tuning,1
+penetration testing,realistic environment,1
+penetration testing,reinforcement learning,1
+realistic environment,reinforcement learning,1
+reinforcement learning,biological neural network,1
+reinforcement learning,brain inspired computing,1
+reinforcement learning,computational efficiency,1
+reinforcement learning,computational modeling,1
+reinforcement learning,design automation,1
+reinforcement learning,hyperdimensional computing,1
+reinforcement learning,integrated circuit,1
+reinforcement learning,intrusion detection,2
+reinforcement learning,q learning,1
+reinforcement learning,convolutional neural network,1
+reinforcement learning,cyber security,1
+reinforcement learning,deep learning,1
+reinforcement learning,energy management,1
+reinforcement learning,fuzzy,1
+reinforcement learning,healthcare technology,1
+reinforcement learning,internet of things security,1
+reinforcement learning,long short term memory,1
+reinforcement learning,machine learning,1
+reinforcement learning,microgrid,1
+reinforcement learning,neural network,1
+reinforcement learning,power quality,1
+reinforcement learning,smart grid,1
+behavior,explanatory,1
+behavior,machine,1
+behavior,modeling,1
+behavior,motivation,1
+behavior,predictive,1
+behavior,protection,1
+behavior,smartphone,1
+behavior,theory,1
+behavior,anomaly,1
+behavior,cyber,1
+behavior,detection,1
+behavior,insider,1
+behavior,log,1
+behavior,threat,1
+behavior,user,1
+behavior,autonomy,1
+behavior,behavioral,1
+behavior,beneficence,1
+behavior,change,1
+behavior,ethics,1
+behavior,intervention,1
+behavior,justice,1
+behavior,nonmaleficence,1
+behavior,privacy,1
+behavior,transparency,1
+explanatory,machine,1
+explanatory,modeling,1
+explanatory,motivation,1
+explanatory,predictive,1
+explanatory,protection,1
+explanatory,smartphone,1
+explanatory,theory,1
+machine,modeling,1
+machine,motivation,1
+machine,predictive,1
+machine,protection,1
+machine,smartphone,1
+machine,theory,1
+machine,adversarial,2
+machine,attack,4
+machine,coding,1
+machine,evasion,2
+machine,secure,1
+machine,cyberattack,1
+machine,detection,1
+machine,dynamic,1
+machine,dynamics,1
+machine,estimation,1
+machine,extended,1
+machine,filter,1
+machine,kalman,1
+machine,least,1
+machine,mathematical,1
+machine,measurement,1
+machine,mitigation,1
+machine,model,1
+machine,phasor,1
+machine,power,1
+machine,square,1
+machine,stability,1
+machine,state,1
+machine,substation,1
+machine,system,1
+machine,unit,1
+machine,vector,1
+machine,weight,1
+machine,weighted,1
+machine,threat,1
+machine,classification,1
+machine,cyber,1
+machine,learn,1
+modeling,motivation,1
+modeling,predictive,1
+modeling,protection,1
+modeling,smartphone,1
+modeling,theory,1
+motivation,predictive,1
+motivation,protection,1
+motivation,smartphone,1
+motivation,theory,1
+predictive,protection,1
+predictive,smartphone,1
+predictive,theory,1
+protection,smartphone,1
+protection,theory,1
+smartphone,theory,1
+agriculture,framework,1
+agriculture,literature review,1
+agriculture,model,1
+agriculture,smart agriculture,1
+agriculture,threat,1
+framework,literature review,1
+framework,model,1
+framework,smart agriculture,1
+framework,threat,1
+literature review,model,1
+literature review,smart agriculture,1
+literature review,threat,1
+model,smart agriculture,1
+model,threat,2
+model,analytical,1
+model,bibliometric,1
+model,collaboration,1
+model,computer,1
+model,crime,1
+model,malware,1
+model,market,1
+model,monitoring,1
+model,research,1
+model,assessment,1
+model,cyber,1
+model,data,1
+model,dynamic,2
+model,integration,1
+model,internet,1
+model,medical,1
+model,of,1
+model,risk,1
+model,simulation,1
+model,things,1
+model,attack,1
+model,cyberattack,1
+model,detection,1
+model,dynamics,1
+model,estimation,1
+model,extended,1
+model,filter,1
+model,kalman,1
+model,least,1
+model,mathematical,1
+model,measurement,1
+model,mitigation,1
+model,phasor,1
+model,power,1
+model,square,1
+model,stability,1
+model,state,1
+model,substation,1
+model,system,1
+model,unit,1
+model,vector,1
+model,weight,1
+model,weighted,1
+smart agriculture,threat,1
+threat,artificial intelligence of things,1
+threat,controller area network,1
+threat,intrusion detection,1
+threat,anomaly,1
+threat,cyber,3
+threat,detection,1
+threat,insider,1
+threat,log,1
+threat,user,1
+threat,automated vehicles,1
+threat,automotive cybersecurity,1
+threat,connected,1
+threat,intelligence transport,1
+threat,risk,3
+threat,security architecture,1
+threat,security design,1
+threat,access,1
+threat,breach,1
+threat,control,1
+threat,data,2
+threat,incident,1
+threat,modelling,1
+threat,policy,1
+threat,privacy,1
+threat,assessment,1
+threat,dynamic,1
+threat,integration,1
+threat,internet,1
+threat,medical,1
+threat,of,1
+threat,simulation,1
+threat,things,1
+threat,6g,1
+threat,communication,1
+threat,edge,1
+threat,intelligence,1
+threat,missioncritical,1
+threat,network,1
+threat,public,1
+threat,safety,1
+threat,solution,1
+threat,tactical,1
+threat,attack,1
+threat,evasion,1
+age,arab,1
+age,bias,1
+age,gender,1
+age,risk perception,1
+age,risk-taking,1
+age,social engineering,1
+age,uk,1
+arab,bias,1
+arab,gender,1
+arab,risk perception,1
+arab,risk-taking,1
+arab,social engineering,1
+arab,uk,1
+bias,gender,1
+bias,risk perception,1
+bias,risk-taking,1
+bias,social engineering,1
+bias,uk,1
+gender,risk perception,1
+gender,risk-taking,1
+gender,social engineering,1
+gender,uk,1
+risk perception,risk-taking,1
+risk perception,social engineering,1
+risk perception,uk,1
+risk-taking,social engineering,1
+risk-taking,uk,1
+social engineering,uk,1
+social engineering,awareness,1
+social engineering,community,1
+social engineering,quishing,1
+social engineering,cyber security,1
+social engineering,incident response,1
+social engineering,security automation,1
+social engineering,soar,1
+cyber security readiness,cybersecurity awareness,1
+cyber security readiness,information security awareness,1
+cyber security readiness,perceive threat,1
+cyber security readiness,perceive vulnerability,1
+cybersecurity awareness,information security awareness,1
+cybersecurity awareness,perceive threat,1
+cybersecurity awareness,perceive vulnerability,1
+cybersecurity awareness,children,1
+cybersecurity awareness,co design,1
+cybersecurity awareness,parent child collaboration,1
+cybersecurity awareness,parents,1
+cybersecurity awareness,storytelling,1
+information security awareness,perceive threat,1
+information security awareness,perceive vulnerability,1
+information security awareness,decision making,1
+information security awareness,phishing email,1
+information security awareness,phishing susceptibility,1
+perceive threat,perceive vulnerability,1
+adversarial learning,classifier,1
+adversarial learning,cyber security,1
+adversarial learning,resilience,1
+classifier,cyber security,1
+classifier,resilience,1
+cyber security,resilience,1
+cyber security,code representation,1
+cyber security,deep learning,2
+cyber security,similarity,1
+cyber security,vulnerability detection,1
+cyber security,false data injection attack,1
+cyber security,state space modeling,1
+cyber security,unknown input observer,1
+cyber security,vehicle platooning,1
+cyber security,vehicle to vehicle communication,1
+cyber security,detection,1
+cyber security,explainable machine learning,1
+cyber security,machine learning,6
+cyber security,obfuscated malware,1
+cyber security,unknown malware,1
+cyber security,adsb,1
+cyber security,anomaly detection,1
+cyber security,avionics security,1
+cyber security,intrusion detection,2
+cyber security,federated platform,1
+cyber security,gamification,1
+cyber security,scoring,1
+cyber security,training,1
+cyber security,attack detection,1
+cyber security,graph neural network,1
+cyber security,grid-tied photovoltaic,1
+cyber security,incident response,1
+cyber security,security automation,1
+cyber security,soar,1
+cyber security,drone,1
+cyber security,drone security,1
+cyber security,internet of things,1
+cyber security,artificial neural network,1
+cyber security,breast cancer,1
+cyber security,digital twin,1
+cyber security,image processing,1
+cyber security,bi level resilient control,1
+cyber security,cyber physical system,1
+cyber security,feeder automation,1
+cyber security,hybrid attack,1
+cyber security,attack graph,1
+cyber security,decision support,1
+cyber security,robust optimization,1
+cyber security,security game,1
+cyber security,stackelberg game,1
+cyber security,uncertainty,1
+cyber security,chaos,1
+cyber security,cryptography,1
+cyber security,s box,1
+cyber security,asynchronous distributed algorithm,1
+cyber security,byzantine consensus,1
+cyber security,multi hop communication,1
+cyber security,bayesian statistic,1
+cyber security,feature selection,1
+cyber security,labelled data,1
+cyber security,ngram,1
+cyber security,convolutional neural network,1
+cyber security,energy management,1
+cyber security,fuzzy,1
+cyber security,healthcare technology,1
+cyber security,internet of things security,1
+cyber security,long short term memory,1
+cyber security,microgrid,1
+cyber security,neural network,1
+cyber security,power quality,1
+cyber security,smart grid,1
+cyber security,nano design digital,1
+cyber security,quantum dot cellular automata,1
+industry,process,1
+industry,self-efficacy,1
+industry,technology,1
+industry,transformation,1
+process,self-efficacy,1
+process,technology,1
+process,transformation,1
+self-efficacy,technology,1
+self-efficacy,transformation,1
+technology,transformation,1
+access control,biometric,1
+access control,blockchain,1
+access control,deep learning,1
+access control,speech recognition,1
+biometric,blockchain,1
+biometric,deep learning,1
+biometric,speech recognition,1
+blockchain,deep learning,1
+blockchain,speech recognition,1
+blockchain,cyberphysical,1
+blockchain,location,1
+blockchain,management,1
+blockchain,proof,1
+blockchain,service,1
+blockchain,system,1
+blockchain,internet of medical things,1
+blockchain,internet of things,1
+blockchain,machine learning,3
+blockchain,support vector machine,1
+blockchain,markov decision process,1
+blockchain,smart grid,1
+blockchain,vulnerability,1
+blockchain,phishing,1
+blockchain,social engineering attack,1
+deep learning,speech recognition,1
+deep learning,cyberattack,1
+deep learning,cyberphysical infrastructure,1
+deep learning,internet of things,1
+deep learning,optimization,1
+deep learning,code representation,1
+deep learning,similarity,1
+deep learning,vulnerability detection,1
+deep learning,cnn lstm,1
+deep learning,intrusion detection,2
+deep learning,nsl kdd dataset,1
+deep learning,recursive feature elimination,1
+deep learning,detection,1
+deep learning,machine learning,2
+deep learning,phishing,1
+deep learning,computational design science,1
+deep learning,threat hunting,1
+deep learning,anomaly detection,1
+deep learning,fault detection,1
+deep learning,unmanned aerial vehicle,1
+deep learning,convolutional neural network,1
+deep learning,energy management,1
+deep learning,fuzzy,1
+deep learning,healthcare technology,1
+deep learning,internet of things security,1
+deep learning,long short term memory,1
+deep learning,microgrid,1
+deep learning,neural network,1
+deep learning,power quality,1
+deep learning,smart grid,1
+attack graph,risk assessment,1
+attack graph,decision support,1
+attack graph,robust optimization,1
+attack graph,security game,1
+attack graph,stackelberg game,1
+attack graph,uncertainty,1
+risk assessment,active learning,1
+risk assessment,machine learning,1
+cyberphysical,location,1
+cyberphysical,management,1
+cyberphysical,proof,1
+cyberphysical,service,1
+cyberphysical,system,1
+cyberphysical,decentralized,1
+cyberphysical,distributed,1
+cyberphysical,energy,1
+cyberphysical,multiagent,1
+cyberphysical,power,1
+cyberphysical,preservation,1
+cyberphysical,privacy,1
+cyberphysical,resource,1
+cyberphysical,attack,1
+cyberphysical,robotics,1
+location,management,1
+location,proof,1
+location,service,1
+location,system,1
+management,proof,1
+management,service,1
+management,system,1
+management,access,1
+management,architecture,1
+management,artificial,1
+management,identity,1
+management,intelligence,1
+management,trust,1
+management,zero,1
+proof,service,1
+proof,system,1
+service,system,1
+system,attack,1
+system,cyberattack,1
+system,detection,1
+system,dynamic,1
+system,dynamics,1
+system,estimation,1
+system,extended,1
+system,filter,1
+system,kalman,1
+system,least,1
+system,mathematical,1
+system,measurement,1
+system,mitigation,1
+system,phasor,1
+system,power,1
+system,square,1
+system,stability,1
+system,state,1
+system,substation,1
+system,unit,1
+system,vector,1
+system,weight,1
+system,weighted,1
+communication,computer architecture,1
+communication,encryption,1
+communication,frequency control,1
+communication,multiapplication enabled communication,1
+communication,network slicing,1
+communication,network virtualization,1
+communication,physical layer,1
+communication,quantum communication,1
+communication,quantum key distribution,1
+communication,resource allocation,1
+communication,resource management,1
+communication,smart grid,1
+communication,virtualization,1
+communication,6g,1
+communication,edge,1
+communication,intelligence,1
+communication,missioncritical,1
+communication,network,1
+communication,public,1
+communication,risk,1
+communication,safety,1
+communication,solution,1
+communication,tactical,1
+computer architecture,encryption,1
+computer architecture,frequency control,1
+computer architecture,multiapplication enabled communication,1
+computer architecture,network slicing,1
+computer architecture,network virtualization,1
+computer architecture,physical layer,1
+computer architecture,quantum communication,1
+computer architecture,quantum key distribution,1
+computer architecture,resource allocation,1
+computer architecture,resource management,1
+computer architecture,smart grid,1
+computer architecture,virtualization,1
+encryption,frequency control,1
+encryption,multiapplication enabled communication,1
+encryption,network slicing,1
+encryption,network virtualization,1
+encryption,physical layer,1
+encryption,quantum communication,1
+encryption,quantum key distribution,1
+encryption,resource allocation,1
+encryption,resource management,1
+encryption,smart grid,1
+encryption,virtualization,1
+encryption,robotics,1
+encryption,threat detection,1
+encryption,unauthorized access,1
+encryption,vulnerability,1
+frequency control,multiapplication enabled communication,1
+frequency control,network slicing,1
+frequency control,network virtualization,1
+frequency control,physical layer,1
+frequency control,quantum communication,1
+frequency control,quantum key distribution,1
+frequency control,resource allocation,1
+frequency control,resource management,1
+frequency control,smart grid,1
+frequency control,virtualization,1
+multiapplication enabled communication,network slicing,1
+multiapplication enabled communication,network virtualization,1
+multiapplication enabled communication,physical layer,1
+multiapplication enabled communication,quantum communication,1
+multiapplication enabled communication,quantum key distribution,1
+multiapplication enabled communication,resource allocation,1
+multiapplication enabled communication,resource management,1
+multiapplication enabled communication,smart grid,1
+multiapplication enabled communication,virtualization,1
+network slicing,network virtualization,1
+network slicing,physical layer,1
+network slicing,quantum communication,1
+network slicing,quantum key distribution,1
+network slicing,resource allocation,1
+network slicing,resource management,1
+network slicing,smart grid,1
+network slicing,virtualization,1
+network virtualization,physical layer,1
+network virtualization,quantum communication,1
+network virtualization,quantum key distribution,1
+network virtualization,resource allocation,1
+network virtualization,resource management,1
+network virtualization,smart grid,1
+network virtualization,virtualization,1
+physical layer,quantum communication,1
+physical layer,quantum key distribution,1
+physical layer,resource allocation,1
+physical layer,resource management,1
+physical layer,smart grid,1
+physical layer,virtualization,1
+quantum communication,quantum key distribution,1
+quantum communication,resource allocation,1
+quantum communication,resource management,1
+quantum communication,smart grid,1
+quantum communication,virtualization,1
+quantum key distribution,resource allocation,1
+quantum key distribution,resource management,1
+quantum key distribution,smart grid,1
+quantum key distribution,virtualization,1
+resource allocation,resource management,1
+resource allocation,smart grid,1
+resource allocation,virtualization,1
+resource management,smart grid,1
+resource management,virtualization,1
+smart grid,virtualization,1
+smart grid,co simulation,1
+smart grid,cyberattack,1
+smart grid,intrusion detection,2
+smart grid,machine learning,2
+smart grid,markov decision process,1
+smart grid,vulnerability,1
+smart grid,convolutional neural network,1
+smart grid,energy management,1
+smart grid,fuzzy,1
+smart grid,healthcare technology,1
+smart grid,internet of things security,1
+smart grid,long short term memory,1
+smart grid,microgrid,1
+smart grid,neural network,1
+smart grid,power quality,1
+internet of medical things,internet of things,1
+internet of medical things,machine learning,1
+internet of medical things,support vector machine,1
+internet of things,machine learning,1
+internet of things,support vector machine,1
+internet of things,cyberattack,1
+internet of things,cyberphysical infrastructure,1
+internet of things,optimization,1
+internet of things,cyberphysical security,1
+internet of things,reasoning,1
+internet of things,smart home,1
+internet of things,compliance,1
+internet of things,edge,1
+internet of things,policy,1
+internet of things,regulatory,1
+internet of things,drone,1
+internet of things,drone security,1
+internet of things,large language model,1
+internet of things,macroprogramming,1
+internet of things,sensor data processing,1
+machine learning,support vector machine,2
+machine learning,active learning,1
+machine learning,accuracy,1
+machine learning,android malware detection,1
+machine learning,feature extraction,1
+machine learning,internet,1
+machine learning,machine learning algorithm,1
+machine learning,malware,1
+machine learning,mobile security,1
+machine learning,operating system,1
+machine learning,permission exploitation,1
+machine learning,training,1
+machine learning,anomaly detection,2
+machine learning,hyperparameter tuning,1
+machine learning,internet of things security,2
+machine learning,intrusion detection,3
+machine learning,network security,1
+machine learning,smart home security,1
+machine learning,unsupervised learning,1
+machine learning,adaptive cruise control,1
+machine learning,automated vehicle,1
+machine learning,transportation cybersecurity,1
+machine learning,detection,2
+machine learning,explainable machine learning,1
+machine learning,obfuscated malware,1
+machine learning,unknown malware,1
+machine learning,adsb,1
+machine learning,avionics security,1
+machine learning,markov decision process,1
+machine learning,vulnerability,1
+machine learning,phishing,2
+machine learning,attack detection,1
+machine learning,graph neural network,1
+machine learning,grid-tied photovoltaic,1
+machine learning,social engineering attack,1
+machine learning,big data,1
+machine learning,critical infrastructure protection,1
+machine learning,cybersecurity aware log management,1
+machine learning,security analytics,1
+machine learning,chaos,1
+machine learning,cryptography,1
+machine learning,s box,1
+machine learning,convolutional neural network,1
+machine learning,energy management,1
+machine learning,fuzzy,1
+machine learning,healthcare technology,1
+machine learning,long short term memory,1
+machine learning,microgrid,1
+machine learning,neural network,1
+machine learning,power quality,1
+machine learning,nano design digital,1
+machine learning,quantum dot cellular automata,1
+machine learning,ada boost,1
+machine learning,distributed internet of things attack,1
+machine learning,gradient boost,1
+machine learning,voting,1
+support vector machine,accuracy,1
+support vector machine,android malware detection,1
+support vector machine,feature extraction,1
+support vector machine,internet,1
+support vector machine,machine learning algorithm,1
+support vector machine,malware,1
+support vector machine,mobile security,1
+support vector machine,operating system,1
+support vector machine,permission exploitation,1
+support vector machine,training,1
+cyber incident,incident reporting,1
+cyber incident,nis,1
+cyber incident,policy learning,1
+cyber incident,realist synthesis,1
+incident reporting,nis,1
+incident reporting,policy learning,1
+incident reporting,realist synthesis,1
+nis,policy learning,1
+nis,realist synthesis,1
+nis,artificial intelligence act,1
+nis,certification,1
+nis,cyber resilience act,1
+nis,cybersecurity act,1
+nis,cybersecurity law,1
+nis,foundation model,1
+nis,future of cybersecurity,1
+nis,standardisation,1
+policy learning,realist synthesis,1
+behavioural change,behavioural cybersecurity,1
+behavioural change,cybersecurity training,1
+behavioural change,human factor,1
+behavioural change,measuring cybersecurity,1
+behavioural change,nudging,1
+behavioural change,organisational cybersecurity,1
+behavioural cybersecurity,cybersecurity training,1
+behavioural cybersecurity,human factor,1
+behavioural cybersecurity,measuring cybersecurity,1
+behavioural cybersecurity,nudging,1
+behavioural cybersecurity,organisational cybersecurity,1
+cybersecurity training,human factor,1
+cybersecurity training,measuring cybersecurity,1
+cybersecurity training,nudging,1
+cybersecurity training,organisational cybersecurity,1
+human factor,measuring cybersecurity,1
+human factor,nudging,1
+human factor,organisational cybersecurity,1
+measuring cybersecurity,nudging,1
+measuring cybersecurity,organisational cybersecurity,1
+nudging,organisational cybersecurity,1
+cyberattack,cyberphysical infrastructure,1
+cyberattack,optimization,1
+cyberattack,co simulation,1
+cyberattack,intrusion detection,1
+cyberattack,industrial control,1
+cyberattack,industrial equipment,1
+cyberattack,industrial network,1
+cyberattack,power substation,1
+cyberattack,attack,1
+cyberattack,detection,1
+cyberattack,dynamic,1
+cyberattack,dynamics,1
+cyberattack,estimation,1
+cyberattack,extended,1
+cyberattack,filter,1
+cyberattack,kalman,1
+cyberattack,least,1
+cyberattack,mathematical,1
+cyberattack,measurement,1
+cyberattack,mitigation,1
+cyberattack,phasor,1
+cyberattack,power,1
+cyberattack,square,1
+cyberattack,stability,1
+cyberattack,state,1
+cyberattack,substation,1
+cyberattack,unit,1
+cyberattack,vector,1
+cyberattack,weight,1
+cyberattack,weighted,1
+cyberphysical infrastructure,optimization,1
+co simulation,intrusion detection,1
+intrusion detection,cnn lstm,1
+intrusion detection,nsl kdd dataset,1
+intrusion detection,recursive feature elimination,1
+intrusion detection,artificial intelligence of things,1
+intrusion detection,controller area network,1
+intrusion detection,anomaly detection,2
+intrusion detection,hyperparameter tuning,1
+intrusion detection,internet of things security,2
+intrusion detection,network security,1
+intrusion detection,smart home security,1
+intrusion detection,unsupervised learning,1
+intrusion detection,biological neural network,1
+intrusion detection,brain inspired computing,1
+intrusion detection,computational efficiency,1
+intrusion detection,computational modeling,1
+intrusion detection,design automation,1
+intrusion detection,hyperdimensional computing,1
+intrusion detection,integrated circuit,1
+intrusion detection,q learning,1
+intrusion detection,adsb,1
+intrusion detection,avionics security,1
+intrusion detection,attack prediction,1
+intrusion detection,cyber security analytics,1
+intrusion detection,security data set,1
+intrusion detection,time series,1
+intrusion detection,convolutional neural network,1
+intrusion detection,energy management,1
+intrusion detection,fuzzy,1
+intrusion detection,healthcare technology,1
+intrusion detection,long short term memory,1
+intrusion detection,microgrid,1
+intrusion detection,neural network,1
+intrusion detection,power quality,1
+botnet defense,cybersecurity regulation,1
+botnet defense,data protection law,1
+botnet defense,information sharing,1
+botnet defense,ip address,1
+cybersecurity regulation,data protection law,1
+cybersecurity regulation,information sharing,1
+cybersecurity regulation,ip address,1
+data protection law,information sharing,1
+data protection law,ip address,1
+information sharing,ip address,1
+bard,chatgpt,1
+bard,ethics,1
+bard,generative artificial intelligence,1
+bard,privacy,1
+chatgpt,ethics,1
+chatgpt,generative artificial intelligence,1
+chatgpt,privacy,1
+ethics,generative artificial intelligence,1
+ethics,privacy,2
+ethics,autonomy,1
+ethics,behavioral,1
+ethics,beneficence,1
+ethics,change,1
+ethics,intervention,1
+ethics,justice,1
+ethics,nonmaleficence,1
+ethics,transparency,1
+generative artificial intelligence,privacy,1
+privacy,access,1
+privacy,breach,1
+privacy,control,1
+privacy,cyber,1
+privacy,data,1
+privacy,incident,1
+privacy,modelling,1
+privacy,policy,1
+privacy,decentralized,1
+privacy,distributed,1
+privacy,energy,1
+privacy,multiagent,1
+privacy,power,1
+privacy,preservation,1
+privacy,resource,1
+privacy,authentication,1
+privacy,virtual reality,1
+privacy,autonomy,1
+privacy,behavioral,1
+privacy,beneficence,1
+privacy,change,1
+privacy,intervention,1
+privacy,justice,1
+privacy,nonmaleficence,1
+privacy,transparency,1
+classification,computer,1
+classification,deep,1
+classification,lstm,1
+classification,mnasnet,1
+classification,monitoring,1
+classification,network,1
+classification,traffic,1
+classification,adversarial,1
+classification,attack,1
+classification,cyber,1
+classification,learn,1
+computer,deep,1
+computer,lstm,1
+computer,mnasnet,1
+computer,monitoring,2
+computer,network,1
+computer,traffic,1
+computer,analytical,1
+computer,bibliometric,1
+computer,collaboration,1
+computer,crime,1
+computer,malware,1
+computer,market,1
+computer,research,1
+deep,lstm,1
+deep,mnasnet,1
+deep,monitoring,1
+deep,network,1
+deep,traffic,1
+lstm,mnasnet,1
+lstm,monitoring,1
+lstm,network,1
+lstm,traffic,1
+mnasnet,monitoring,1
+mnasnet,network,1
+mnasnet,traffic,1
+monitoring,network,1
+monitoring,traffic,1
+monitoring,analytical,1
+monitoring,bibliometric,1
+monitoring,collaboration,1
+monitoring,crime,1
+monitoring,malware,1
+monitoring,market,1
+monitoring,research,1
+monitoring,graph,1
+monitoring,infrastructure,1
+monitoring,investment,1
+network,traffic,1
+network,6g,1
+network,edge,1
+network,intelligence,1
+network,missioncritical,1
+network,public,1
+network,risk,1
+network,safety,1
+network,solution,1
+network,tactical,1
+approximation,autoregressive,1
+approximation,central,1
+approximation,estimation,1
+approximation,exponential,1
+approximation,independent,1
+approximation,limit,1
+approximation,lindebergfeller,1
+approximation,nonparametric,1
+approximation,periodogram,1
+approximation,saddlepoint,1
+approximation,sidechannel,1
+approximation,smoothed,1
+approximation,spectral,1
+approximation,spectrum,1
+approximation,sum,1
+approximation,theorem,1
+autoregressive,central,1
+autoregressive,estimation,1
+autoregressive,exponential,1
+autoregressive,independent,1
+autoregressive,limit,1
+autoregressive,lindebergfeller,1
+autoregressive,nonparametric,1
+autoregressive,periodogram,1
+autoregressive,saddlepoint,1
+autoregressive,sidechannel,1
+autoregressive,smoothed,1
+autoregressive,spectral,1
+autoregressive,spectrum,1
+autoregressive,sum,1
+autoregressive,theorem,1
+central,estimation,1
+central,exponential,1
+central,independent,1
+central,limit,1
+central,lindebergfeller,1
+central,nonparametric,1
+central,periodogram,1
+central,saddlepoint,1
+central,sidechannel,1
+central,smoothed,1
+central,spectral,1
+central,spectrum,1
+central,sum,1
+central,theorem,1
+estimation,exponential,1
+estimation,independent,1
+estimation,limit,1
+estimation,lindebergfeller,1
+estimation,nonparametric,1
+estimation,periodogram,1
+estimation,saddlepoint,1
+estimation,sidechannel,1
+estimation,smoothed,1
+estimation,spectral,1
+estimation,spectrum,1
+estimation,sum,1
+estimation,theorem,1
+estimation,attack,1
+estimation,detection,1
+estimation,dynamic,1
+estimation,dynamics,1
+estimation,extended,1
+estimation,filter,1
+estimation,kalman,1
+estimation,least,1
+estimation,mathematical,1
+estimation,measurement,1
+estimation,mitigation,1
+estimation,phasor,1
+estimation,power,1
+estimation,square,1
+estimation,stability,1
+estimation,state,1
+estimation,substation,1
+estimation,unit,1
+estimation,vector,1
+estimation,weight,1
+estimation,weighted,1
+exponential,independent,1
+exponential,limit,1
+exponential,lindebergfeller,1
+exponential,nonparametric,1
+exponential,periodogram,1
+exponential,saddlepoint,1
+exponential,sidechannel,1
+exponential,smoothed,1
+exponential,spectral,1
+exponential,spectrum,1
+exponential,sum,1
+exponential,theorem,1
+independent,limit,1
+independent,lindebergfeller,1
+independent,nonparametric,1
+independent,periodogram,1
+independent,saddlepoint,1
+independent,sidechannel,1
+independent,smoothed,1
+independent,spectral,1
+independent,spectrum,1
+independent,sum,1
+independent,theorem,1
+limit,lindebergfeller,1
+limit,nonparametric,1
+limit,periodogram,1
+limit,saddlepoint,1
+limit,sidechannel,1
+limit,smoothed,1
+limit,spectral,1
+limit,spectrum,1
+limit,sum,1
+limit,theorem,1
+lindebergfeller,nonparametric,1
+lindebergfeller,periodogram,1
+lindebergfeller,saddlepoint,1
+lindebergfeller,sidechannel,1
+lindebergfeller,smoothed,1
+lindebergfeller,spectral,1
+lindebergfeller,spectrum,1
+lindebergfeller,sum,1
+lindebergfeller,theorem,1
+nonparametric,periodogram,1
+nonparametric,saddlepoint,1
+nonparametric,sidechannel,1
+nonparametric,smoothed,1
+nonparametric,spectral,1
+nonparametric,spectrum,1
+nonparametric,sum,1
+nonparametric,theorem,1
+periodogram,saddlepoint,1
+periodogram,sidechannel,1
+periodogram,smoothed,1
+periodogram,spectral,1
+periodogram,spectrum,1
+periodogram,sum,1
+periodogram,theorem,1
+saddlepoint,sidechannel,1
+saddlepoint,smoothed,1
+saddlepoint,spectral,1
+saddlepoint,spectrum,1
+saddlepoint,sum,1
+saddlepoint,theorem,1
+sidechannel,smoothed,1
+sidechannel,spectral,1
+sidechannel,spectrum,1
+sidechannel,sum,1
+sidechannel,theorem,1
+smoothed,spectral,1
+smoothed,spectrum,1
+smoothed,sum,1
+smoothed,theorem,1
+spectral,spectrum,1
+spectral,sum,1
+spectral,theorem,1
+spectrum,sum,1
+spectrum,theorem,1
+sum,theorem,1
+security assurance,systematic literature review,1
+code representation,similarity,1
+code representation,vulnerability detection,1
+similarity,vulnerability detection,1
+authentication,data privacy,1
+authentication,virtual reality,1
+data privacy,banking industry,1
+data privacy,technology adoption,1
+false data injection attack,state space modeling,1
+false data injection attack,unknown input observer,1
+false data injection attack,vehicle platooning,1
+false data injection attack,vehicle to vehicle communication,1
+false data injection attack,asymmetrical vulnerability,1
+false data injection attack,cyber physical security,1
+false data injection attack,heterogeneous multi agent,1
+state space modeling,unknown input observer,1
+state space modeling,vehicle platooning,1
+state space modeling,vehicle to vehicle communication,1
+unknown input observer,vehicle platooning,1
+unknown input observer,vehicle to vehicle communication,1
+vehicle platooning,vehicle to vehicle communication,1
+vehicle to vehicle communication,automotive vehicle,1
+vehicle to vehicle communication,cybersecurity challenge,1
+vehicle to vehicle communication,multivocal literature review,1
+cnn lstm,nsl kdd dataset,1
+cnn lstm,recursive feature elimination,1
+nsl kdd dataset,recursive feature elimination,1
+code generation,common weakness enumeration,1
+awareness,community,1
+awareness,quishing,1
+awareness,detection,1
+awareness,email,1
+awareness,extraction,1
+awareness,feature,1
+awareness,language,1
+awareness,malicious,1
+awareness,natural,1
+awareness,processing,1
+awareness,spam,1
+awareness,child,1
+awareness,nation,1
+awareness,state,1
+community,quishing,1
+critical infrastructure,data fusion,1
+critical infrastructure,keystroke dynamics,1
+critical infrastructure,siamese neural network,1
+critical infrastructure,user authentication,1
+data fusion,keystroke dynamics,1
+data fusion,siamese neural network,1
+data fusion,user authentication,1
+keystroke dynamics,siamese neural network,1
+keystroke dynamics,user authentication,1
+siamese neural network,user authentication,1
+siamese neural network,attack model,1
+siamese neural network,natural language processing,1
+artificial intelligence of things,controller area network,1
+adversarial machine learning,causative attack,1
+adversarial machine learning,corrupted training set,1
+adversarial machine learning,data poisoning,1
+adversarial machine learning,federated learning,1
+causative attack,corrupted training set,1
+causative attack,data poisoning,1
+causative attack,federated learning,1
+corrupted training set,data poisoning,1
+corrupted training set,federated learning,1
+data poisoning,federated learning,1
+anomaly,cyber,1
+anomaly,detection,1
+anomaly,insider,1
+anomaly,log,1
+anomaly,user,1
+cyber,detection,1
+cyber,insider,1
+cyber,log,1
+cyber,user,1
+cyber,access,1
+cyber,breach,1
+cyber,control,1
+cyber,data,2
+cyber,incident,1
+cyber,modelling,1
+cyber,policy,1
+cyber,assessment,1
+cyber,dynamic,1
+cyber,integration,1
+cyber,internet,1
+cyber,medical,1
+cyber,of,1
+cyber,risk,1
+cyber,simulation,1
+cyber,things,1
+cyber,adversarial,1
+cyber,attack,1
+cyber,learn,1
+detection,insider,1
+detection,log,1
+detection,user,1
+detection,explainable machine learning,1
+detection,obfuscated malware,1
+detection,unknown malware,1
+detection,email,2
+detection,extraction,1
+detection,feature,1
+detection,language,1
+detection,malicious,1
+detection,natural,1
+detection,processing,1
+detection,spam,2
+detection,phishing,1
+detection,engineering,1
+detection,persuasion,1
+detection,social,1
+detection,attack,1
+detection,dynamic,1
+detection,dynamics,1
+detection,extended,1
+detection,filter,1
+detection,kalman,1
+detection,least,1
+detection,mathematical,1
+detection,measurement,1
+detection,mitigation,1
+detection,phasor,1
+detection,power,1
+detection,square,1
+detection,stability,1
+detection,state,1
+detection,substation,1
+detection,unit,1
+detection,vector,1
+detection,weight,1
+detection,weighted,1
+insider,log,1
+insider,user,1
+log,user,1
+log,activity,1
+log,application,1
+log,risk,1
+analytical,bibliometric,1
+analytical,collaboration,1
+analytical,crime,1
+analytical,malware,1
+analytical,market,1
+analytical,research,1
+bibliometric,collaboration,1
+bibliometric,crime,1
+bibliometric,malware,1
+bibliometric,market,1
+bibliometric,research,1
+collaboration,crime,1
+collaboration,malware,1
+collaboration,market,1
+collaboration,research,1
+crime,malware,1
+crime,market,1
+crime,research,1
+malware,market,1
+malware,research,1
+malware,accuracy,1
+malware,android malware detection,1
+malware,feature extraction,1
+malware,internet,1
+malware,machine learning algorithm,1
+malware,mobile security,1
+malware,operating system,1
+malware,permission exploitation,1
+malware,training,1
+market,research,1
+attribution theory,cyber security fatigue,1
+attribution theory,information security management,1
+attribution theory,scale development,1
+attribution theory,self defence bias,1
+cyber security fatigue,information security management,1
+cyber security fatigue,scale development,1
+cyber security fatigue,self defence bias,1
+information security management,scale development,1
+information security management,self defence bias,1
+scale development,self defence bias,1
+automated vehicles,automotive cybersecurity,1
+automated vehicles,connected,1
+automated vehicles,intelligence transport,1
+automated vehicles,risk,1
+automated vehicles,security architecture,1
+automated vehicles,security design,1
+automotive cybersecurity,connected,1
+automotive cybersecurity,intelligence transport,1
+automotive cybersecurity,risk,1
+automotive cybersecurity,security architecture,1
+automotive cybersecurity,security design,1
+connected,intelligence transport,1
+connected,risk,1
+connected,security architecture,1
+connected,security design,1
+intelligence transport,risk,1
+intelligence transport,security architecture,1
+intelligence transport,security design,1
+risk,security architecture,1
+risk,security design,1
+risk,activity,1
+risk,application,1
+risk,countermeasure,1
+risk,experimentation,1
+risk,proposal,1
+risk,taxonomy,1
+risk,treatment,1
+risk,validation,1
+risk,assessment,1
+risk,data,1
+risk,dynamic,1
+risk,integration,1
+risk,internet,1
+risk,medical,1
+risk,of,1
+risk,simulation,1
+risk,things,1
+risk,6g,1
+risk,edge,1
+risk,intelligence,1
+risk,missioncritical,1
+risk,public,1
+risk,safety,1
+risk,solution,1
+risk,tactical,1
+security architecture,security design,1
+cyberphysical security,reasoning,1
+cyberphysical security,smart home,1
+reasoning,smart home,1
+anomaly detection,neural network,1
+anomaly detection,quantum computing,1
+anomaly detection,quantum machine learning,1
+anomaly detection,hyperparameter tuning,1
+anomaly detection,internet of things security,1
+anomaly detection,network security,1
+anomaly detection,smart home security,1
+anomaly detection,unsupervised learning,1
+anomaly detection,adsb,1
+anomaly detection,avionics security,1
+anomaly detection,fault detection,1
+anomaly detection,unmanned aerial vehicle,1
+neural network,quantum computing,1
+neural network,quantum machine learning,1
+neural network,convolutional neural network,1
+neural network,energy management,1
+neural network,fuzzy,1
+neural network,healthcare technology,1
+neural network,internet of things security,1
+neural network,long short term memory,1
+neural network,microgrid,1
+neural network,power quality,1
+quantum computing,quantum machine learning,1
+lawfulness,legal obligation,1
+lawfulness,legitimate interest,1
+lawfulness,nis 2 directive,1
+lawfulness,right to data protection,1
+legal obligation,legitimate interest,1
+legal obligation,nis 2 directive,1
+legal obligation,right to data protection,1
+legitimate interest,nis 2 directive,1
+legitimate interest,right to data protection,1
+nis 2 directive,right to data protection,1
+ai enabled device,cyber attack,1
+ai enabled device,field,1
+ai enabled device,home,1
+ai enabled device,human centred,1
+ai enabled device,indicator,1
+ai enabled device,remediation,1
+ai enabled device,smart device,1
+ai enabled device,smart heating,1
+cyber attack,field,1
+cyber attack,home,1
+cyber attack,human centred,1
+cyber attack,indicator,1
+cyber attack,remediation,1
+cyber attack,smart device,1
+cyber attack,smart heating,1
+cyber attack,agent,1
+cyber attack,cyber defense,1
+cyber attack,large language model,1
+cyber attack,cybersecurity insurance,1
+cyber attack,cybersecurity investment,1
+cyber attack,direct attack,1
+cyber attack,indirect risk propagation,1
+cyber attack,supply chain management,1
+field,home,1
+field,human centred,1
+field,indicator,1
+field,remediation,1
+field,smart device,1
+field,smart heating,1
+home,human centred,1
+home,indicator,1
+home,remediation,1
+home,smart device,1
+home,smart heating,1
+human centred,indicator,1
+human centred,remediation,1
+human centred,smart device,1
+human centred,smart heating,1
+indicator,remediation,1
+indicator,smart device,1
+indicator,smart heating,1
+remediation,smart device,1
+remediation,smart heating,1
+smart device,smart heating,1
+accuracy,android malware detection,1
+accuracy,feature extraction,1
+accuracy,internet,1
+accuracy,machine learning algorithm,1
+accuracy,mobile security,1
+accuracy,operating system,1
+accuracy,permission exploitation,1
+accuracy,training,1
+android malware detection,feature extraction,1
+android malware detection,internet,1
+android malware detection,machine learning algorithm,1
+android malware detection,mobile security,1
+android malware detection,operating system,1
+android malware detection,permission exploitation,1
+android malware detection,training,1
+feature extraction,internet,1
+feature extraction,machine learning algorithm,1
+feature extraction,mobile security,1
+feature extraction,operating system,1
+feature extraction,permission exploitation,1
+feature extraction,training,1
+internet,machine learning algorithm,1
+internet,mobile security,1
+internet,operating system,1
+internet,permission exploitation,1
+internet,training,1
+internet,assessment,1
+internet,data,1
+internet,dynamic,1
+internet,integration,1
+internet,medical,1
+internet,of,1
+internet,simulation,1
+internet,things,1
+machine learning algorithm,mobile security,1
+machine learning algorithm,operating system,1
+machine learning algorithm,permission exploitation,1
+machine learning algorithm,training,1
+mobile security,operating system,1
+mobile security,permission exploitation,1
+mobile security,training,1
+operating system,permission exploitation,1
+operating system,training,1
+permission exploitation,training,1
+training,federated platform,1
+training,gamification,1
+training,scoring,1
+training,behaviour change,1
+training,end user,1
+training,meta analysis,1
+banking industry,technology adoption,1
+hyperparameter tuning,internet of things security,1
+hyperparameter tuning,network security,1
+hyperparameter tuning,smart home security,1
+hyperparameter tuning,unsupervised learning,1
+internet of things security,network security,1
+internet of things security,smart home security,1
+internet of things security,unsupervised learning,1
+internet of things security,convolutional neural network,1
+internet of things security,energy management,1
+internet of things security,fuzzy,1
+internet of things security,healthcare technology,1
+internet of things security,long short term memory,1
+internet of things security,microgrid,1
+internet of things security,power quality,1
+network security,smart home security,1
+network security,unsupervised learning,1
+smart home security,unsupervised learning,1
+biological neural network,brain inspired computing,1
+biological neural network,computational efficiency,1
+biological neural network,computational modeling,1
+biological neural network,design automation,1
+biological neural network,hyperdimensional computing,1
+biological neural network,integrated circuit,1
+biological neural network,q learning,1
+brain inspired computing,computational efficiency,1
+brain inspired computing,computational modeling,1
+brain inspired computing,design automation,1
+brain inspired computing,hyperdimensional computing,1
+brain inspired computing,integrated circuit,1
+brain inspired computing,q learning,1
+computational efficiency,computational modeling,1
+computational efficiency,design automation,1
+computational efficiency,hyperdimensional computing,1
+computational efficiency,integrated circuit,1
+computational efficiency,q learning,1
+computational modeling,design automation,1
+computational modeling,hyperdimensional computing,1
+computational modeling,integrated circuit,1
+computational modeling,q learning,1
+design automation,hyperdimensional computing,1
+design automation,integrated circuit,1
+design automation,q learning,1
+hyperdimensional computing,integrated circuit,1
+hyperdimensional computing,q learning,1
+integrated circuit,q learning,1
+maritime domain,mitre attack,1
+maritime domain,satellite communication,1
+mitre attack,satellite communication,1
+mitre attack,attack path generation,1
+mitre attack,automated report,1
+mitre attack,graph alignment,1
+mitre attack,weak supervision,1
+adaptive cruise control,automated vehicle,1
+adaptive cruise control,transportation cybersecurity,1
+automated vehicle,transportation cybersecurity,1
+explainable machine learning,obfuscated malware,1
+explainable machine learning,unknown malware,1
+obfuscated malware,unknown malware,1
+artificial intelligence act,certification,1
+artificial intelligence act,cyber resilience act,1
+artificial intelligence act,cybersecurity act,1
+artificial intelligence act,cybersecurity law,1
+artificial intelligence act,foundation model,1
+artificial intelligence act,future of cybersecurity,1
+artificial intelligence act,standardisation,1
+certification,cyber resilience act,1
+certification,cybersecurity act,1
+certification,cybersecurity law,1
+certification,foundation model,1
+certification,future of cybersecurity,1
+certification,standardisation,1
+cyber resilience act,cybersecurity act,1
+cyber resilience act,cybersecurity law,1
+cyber resilience act,foundation model,1
+cyber resilience act,future of cybersecurity,1
+cyber resilience act,standardisation,1
+cyber resilience act,digital sovereignty,1
+cyber resilience act,eu cybersecurity strategy,1
+cyber resilience act,open source software,1
+cyber resilience act,technology governance,1
+cybersecurity act,cybersecurity law,1
+cybersecurity act,foundation model,1
+cybersecurity act,future of cybersecurity,1
+cybersecurity act,standardisation,1
+cybersecurity law,foundation model,1
+cybersecurity law,future of cybersecurity,1
+cybersecurity law,standardisation,1
+foundation model,future of cybersecurity,1
+foundation model,standardisation,1
+future of cybersecurity,standardisation,1
+adsb,avionics security,1
+adversarial,attack,2
+adversarial,coding,1
+adversarial,evasion,1
+adversarial,secure,1
+adversarial,learn,1
+attack,coding,1
+attack,evasion,2
+attack,secure,1
+attack,robotics,1
+attack,digital,1
+attack,health,1
+attack,healthcare,1
+attack,proactive,1
+attack,ransomware,1
+attack,dynamic,1
+attack,dynamics,1
+attack,extended,1
+attack,filter,1
+attack,kalman,1
+attack,least,1
+attack,mathematical,1
+attack,measurement,1
+attack,mitigation,1
+attack,phasor,1
+attack,power,1
+attack,square,1
+attack,stability,1
+attack,state,1
+attack,substation,1
+attack,unit,1
+attack,vector,1
+attack,weight,1
+attack,weighted,1
+attack,learn,1
+coding,evasion,1
+coding,secure,1
+evasion,secure,1
+email,extraction,1
+email,feature,1
+email,language,1
+email,malicious,1
+email,natural,1
+email,processing,1
+email,spam,2
+email,engineering,1
+email,persuasion,1
+email,social,1
+extraction,feature,1
+extraction,language,1
+extraction,malicious,1
+extraction,natural,1
+extraction,processing,1
+extraction,spam,1
+feature,language,1
+feature,malicious,1
+feature,natural,1
+feature,processing,1
+feature,spam,1
+language,malicious,1
+language,natural,1
+language,processing,1
+language,spam,1
+malicious,natural,1
+malicious,processing,1
+malicious,spam,1
+natural,processing,1
+natural,spam,1
+processing,spam,1
+spam,engineering,1
+spam,persuasion,1
+spam,social,1
+evaluation formula,reference architecture,1
+evaluation formula,standardization,1
+reference architecture,standardization,1
+adversarial attacks,industrial internet of things,1
+adversarial attacks,latent space,1
+adversarial attacks,manifold attacks,1
+adversarial attacks,model robustness,1
+adversarial attacks,network intrusion detection,1
+industrial internet of things,latent space,1
+industrial internet of things,manifold attacks,1
+industrial internet of things,model robustness,1
+industrial internet of things,network intrusion detection,1
+latent space,manifold attacks,1
+latent space,model robustness,1
+latent space,network intrusion detection,1
+manifold attacks,model robustness,1
+manifold attacks,network intrusion detection,1
+model robustness,network intrusion detection,1
+network intrusion detection,feature selection,1
+network intrusion detection,permutation importance,1
+network intrusion detection,random forest,1
+network intrusion detection,signature,1
+agent,cyber defense,1
+agent,large language model,1
+cyber defense,large language model,1
+large language model,macroprogramming,1
+large language model,sensor data processing,1
+large language model,bert,1
+large language model,fine-tuning,1
+compliance,edge,1
+compliance,policy,1
+compliance,regulatory,1
+edge,policy,1
+edge,regulatory,1
+edge,6g,1
+edge,intelligence,1
+edge,missioncritical,1
+edge,public,1
+edge,safety,1
+edge,solution,1
+edge,tactical,1
+policy,regulatory,1
+policy,access,1
+policy,breach,1
+policy,control,1
+policy,data,1
+policy,incident,1
+policy,modelling,1
+amc,competing values,1
+amc,cybersecurity behaviour,1
+amc,cybersecurity culture,1
+amc,evidence synthesis,1
+competing values,cybersecurity behaviour,1
+competing values,cybersecurity culture,1
+competing values,evidence synthesis,1
+cybersecurity behaviour,cybersecurity culture,1
+cybersecurity behaviour,evidence synthesis,1
+cybersecurity culture,evidence synthesis,1
+markov decision process,vulnerability,1
+vulnerability,robotics,1
+vulnerability,threat detection,1
+vulnerability,unauthorized access,1
+black box adversarial attack,cybersecure artificial intelligence,1
+black box adversarial attack,deep neural network,1
+black box adversarial attack,evolutionary computing,1
+black box adversarial attack,object detection,1
+cybersecure artificial intelligence,deep neural network,1
+cybersecure artificial intelligence,evolutionary computing,1
+cybersecure artificial intelligence,object detection,1
+deep neural network,evolutionary computing,1
+deep neural network,object detection,1
+evolutionary computing,object detection,1
+phishing,social engineering attack,1
+federated platform,gamification,1
+federated platform,scoring,1
+gamification,scoring,1
+5g network,bill of materials,1
+5g network,supply chain,1
+5g network,vendor risk management,1
+bill of materials,supply chain,1
+bill of materials,vendor risk management,1
+supply chain,vendor risk management,1
+attack detection,graph neural network,1
+attack detection,grid-tied photovoltaic,1
+graph neural network,grid-tied photovoltaic,1
+cybersecurity provider,digital enabler,1
+cybersecurity provider,health belief model,1
+cybersecurity provider,small and medium enterprise cybersecurity,1
+cybersecurity provider,small business,1
+digital enabler,health belief model,1
+digital enabler,small and medium enterprise cybersecurity,1
+digital enabler,small business,1
+health belief model,small and medium enterprise cybersecurity,1
+health belief model,small business,1
+small and medium enterprise cybersecurity,small business,1
+access,breach,1
+access,control,1
+access,data,1
+access,incident,1
+access,modelling,1
+access,architecture,1
+access,artificial,1
+access,identity,1
+access,intelligence,1
+access,trust,1
+access,zero,1
+breach,control,1
+breach,data,1
+breach,incident,1
+breach,modelling,1
+control,data,1
+control,incident,1
+control,modelling,1
+data,incident,1
+data,modelling,1
+data,assessment,1
+data,dynamic,1
+data,integration,1
+data,medical,1
+data,of,1
+data,simulation,1
+data,things,1
+incident,modelling,1
+robotics,threat detection,1
+robotics,unauthorized access,1
+threat detection,unauthorized access,1
+eu cybersecurity law,regulatory capacity,1
+eu cybersecurity law,securitisation,1
+eu cybersecurity law,security engineering,1
+regulatory capacity,securitisation,1
+regulatory capacity,security engineering,1
+securitisation,security engineering,1
+incident response,security automation,1
+incident response,soar,1
+security automation,soar,1
+drone,drone security,1
+activity,application,1
+child,nation,1
+child,state,1
+nation,state,1
+state,dynamic,1
+state,dynamics,1
+state,extended,1
+state,filter,1
+state,kalman,1
+state,least,1
+state,mathematical,1
+state,measurement,1
+state,mitigation,1
+state,phasor,1
+state,power,1
+state,square,1
+state,stability,1
+state,substation,1
+state,unit,1
+state,vector,1
+state,weight,1
+state,weighted,1
+countermeasure,experimentation,1
+countermeasure,proposal,1
+countermeasure,taxonomy,1
+countermeasure,treatment,1
+countermeasure,validation,1
+experimentation,proposal,1
+experimentation,taxonomy,1
+experimentation,treatment,1
+experimentation,validation,1
+proposal,taxonomy,1
+proposal,treatment,1
+proposal,validation,1
+taxonomy,treatment,1
+taxonomy,validation,1
+treatment,validation,1
+computational design science,threat hunting,1
+decentralized,distributed,1
+decentralized,energy,1
+decentralized,multiagent,1
+decentralized,power,1
+decentralized,preservation,1
+decentralized,resource,1
+distributed,energy,1
+distributed,multiagent,1
+distributed,power,1
+distributed,preservation,1
+distributed,resource,1
+energy,multiagent,1
+energy,power,1
+energy,preservation,1
+energy,resource,1
+multiagent,power,1
+multiagent,preservation,1
+multiagent,resource,1
+power,preservation,1
+power,resource,1
+power,dynamic,1
+power,dynamics,1
+power,extended,1
+power,filter,1
+power,kalman,1
+power,least,1
+power,mathematical,1
+power,measurement,1
+power,mitigation,1
+power,phasor,1
+power,square,1
+power,stability,1
+power,substation,1
+power,unit,1
+power,vector,1
+power,weight,1
+power,weighted,1
+preservation,resource,1
+digital sovereignty,eu cybersecurity strategy,1
+digital sovereignty,open source software,1
+digital sovereignty,technology governance,1
+eu cybersecurity strategy,open source software,1
+eu cybersecurity strategy,technology governance,1
+open source software,technology governance,1
+assessment,dynamic,1
+assessment,integration,1
+assessment,medical,1
+assessment,of,1
+assessment,simulation,1
+assessment,things,1
+dynamic,integration,1
+dynamic,medical,1
+dynamic,of,1
+dynamic,simulation,1
+dynamic,things,1
+dynamic,dynamics,1
+dynamic,extended,1
+dynamic,filter,1
+dynamic,kalman,1
+dynamic,least,1
+dynamic,mathematical,1
+dynamic,measurement,1
+dynamic,mitigation,1
+dynamic,phasor,1
+dynamic,square,1
+dynamic,stability,1
+dynamic,substation,1
+dynamic,unit,1
+dynamic,vector,1
+dynamic,weight,1
+dynamic,weighted,1
+integration,medical,1
+integration,of,1
+integration,simulation,1
+integration,things,1
+medical,of,1
+medical,simulation,1
+medical,things,1
+of,simulation,1
+of,things,1
+simulation,things,1
+decision making,phishing email,1
+decision making,phishing susceptibility,1
+phishing email,phishing susceptibility,1
+generative adversarial network,image representation,1
+generative adversarial network,malware classification,1
+generative adversarial network,transfer learning,1
+image representation,malware classification,1
+image representation,transfer learning,1
+malware classification,transfer learning,1
+artificial neural network,breast cancer,1
+artificial neural network,digital twin,1
+artificial neural network,image processing,1
+breast cancer,digital twin,1
+breast cancer,image processing,1
+digital twin,image processing,1
+bi level resilient control,cyber physical system,1
+bi level resilient control,feeder automation,1
+bi level resilient control,hybrid attack,1
+cyber physical system,feeder automation,1
+cyber physical system,hybrid attack,1
+feeder automation,hybrid attack,1
+attack model,natural language processing,1
+decision support,robust optimization,1
+decision support,security game,1
+decision support,stackelberg game,1
+decision support,uncertainty,1
+robust optimization,security game,1
+robust optimization,stackelberg game,1
+robust optimization,uncertainty,1
+security game,stackelberg game,1
+security game,uncertainty,1
+stackelberg game,uncertainty,1
+feature selection,hybrid intrusion detection,1
+feature selection,internet of thing,1
+feature selection,metaheuristic algorithm,1
+feature selection,multilayer perceptron,1
+feature selection,salp swarm algorithm,1
+feature selection,permutation importance,1
+feature selection,random forest,1
+feature selection,signature,1
+feature selection,bayesian statistic,1
+feature selection,labelled data,1
+feature selection,ngram,1
+hybrid intrusion detection,internet of thing,1
+hybrid intrusion detection,metaheuristic algorithm,1
+hybrid intrusion detection,multilayer perceptron,1
+hybrid intrusion detection,salp swarm algorithm,1
+internet of thing,metaheuristic algorithm,1
+internet of thing,multilayer perceptron,1
+internet of thing,salp swarm algorithm,1
+metaheuristic algorithm,multilayer perceptron,1
+metaheuristic algorithm,salp swarm algorithm,1
+multilayer perceptron,salp swarm algorithm,1
+industrial control,industrial equipment,1
+industrial control,industrial network,1
+industrial control,power substation,1
+industrial equipment,industrial network,1
+industrial equipment,power substation,1
+industrial network,power substation,1
+big data,critical infrastructure protection,1
+big data,cybersecurity aware log management,1
+big data,security analytics,1
+critical infrastructure protection,cybersecurity aware log management,1
+critical infrastructure protection,security analytics,1
+critical infrastructure protection,cyber resilience,1
+critical infrastructure protection,socio-technical system,1
+cybersecurity aware log management,security analytics,1
+engineering,persuasion,1
+engineering,social,1
+persuasion,social,1
+children,co design,1
+children,parent child collaboration,1
+children,parents,1
+children,storytelling,1
+co design,parent child collaboration,1
+co design,parents,1
+co design,storytelling,1
+parent child collaboration,parents,1
+parent child collaboration,storytelling,1
+parents,storytelling,1
+permutation importance,random forest,1
+permutation importance,signature,1
+random forest,signature,1
+consumer behavior,cybersecurity communication,1
+consumer behavior,data breach,1
+consumer behavior,ecommerce,1
+consumer behavior,perceived privacy risk,1
+consumer behavior,spillover effect,1
+cybersecurity communication,data breach,1
+cybersecurity communication,ecommerce,1
+cybersecurity communication,perceived privacy risk,1
+cybersecurity communication,spillover effect,1
+data breach,ecommerce,1
+data breach,perceived privacy risk,1
+data breach,spillover effect,1
+ecommerce,perceived privacy risk,1
+ecommerce,spillover effect,1
+perceived privacy risk,spillover effect,1
+cyber resilience,socio-technical system,1
+attack prediction,cyber security analytics,1
+attack prediction,security data set,1
+attack prediction,time series,1
+cyber security analytics,security data set,1
+cyber security analytics,time series,1
+security data set,time series,1
+asymmetrical vulnerability,cyber physical security,1
+asymmetrical vulnerability,heterogeneous multi agent,1
+cyber physical security,heterogeneous multi agent,1
+dns,dns measurement,1
+dns,dns over https,1
+dns,ensemble algorithm,1
+dns measurement,dns over https,1
+dns measurement,ensemble algorithm,1
+dns over https,ensemble algorithm,1
+chaos,cryptography,1
+chaos,s box,1
+cryptography,s box,1
+fault detection,unmanned aerial vehicle,1
+graph,infrastructure,1
+graph,investment,1
+infrastructure,investment,1
+communication network,full life cycle,1
+communication network,payload security,1
+communication network,sensor security,1
+communication network,unmanned aerial system,1
+full life cycle,payload security,1
+full life cycle,sensor security,1
+full life cycle,unmanned aerial system,1
+payload security,sensor security,1
+payload security,unmanned aerial system,1
+sensor security,unmanned aerial system,1
+6g,intelligence,1
+6g,missioncritical,1
+6g,public,1
+6g,safety,1
+6g,solution,1
+6g,tactical,1
+intelligence,missioncritical,1
+intelligence,public,1
+intelligence,safety,1
+intelligence,solution,1
+intelligence,tactical,1
+intelligence,architecture,1
+intelligence,artificial,1
+intelligence,identity,1
+intelligence,trust,1
+intelligence,zero,1
+missioncritical,public,1
+missioncritical,safety,1
+missioncritical,solution,1
+missioncritical,tactical,1
+public,safety,1
+public,solution,1
+public,tactical,1
+safety,solution,1
+safety,tactical,1
+solution,tactical,1
+asynchronous distributed algorithm,byzantine consensus,1
+asynchronous distributed algorithm,multi hop communication,1
+byzantine consensus,multi hop communication,1
+behaviour change,end user,1
+behaviour change,meta analysis,1
+end user,meta analysis,1
+digital,health,1
+digital,healthcare,1
+digital,proactive,1
+digital,ransomware,1
+health,healthcare,1
+health,proactive,1
+health,ransomware,1
+healthcare,proactive,1
+healthcare,ransomware,1
+proactive,ransomware,1
+bayesian statistic,labelled data,1
+bayesian statistic,ngram,1
+labelled data,ngram,1
+automotive vehicle,cybersecurity challenge,1
+automotive vehicle,multivocal literature review,1
+cybersecurity challenge,multivocal literature review,1
+convolutional neural network,energy management,1
+convolutional neural network,fuzzy,1
+convolutional neural network,healthcare technology,1
+convolutional neural network,long short term memory,1
+convolutional neural network,microgrid,1
+convolutional neural network,power quality,1
+energy management,fuzzy,1
+energy management,healthcare technology,1
+energy management,long short term memory,1
+energy management,microgrid,1
+energy management,power quality,1
+fuzzy,healthcare technology,1
+fuzzy,long short term memory,1
+fuzzy,microgrid,1
+fuzzy,power quality,1
+healthcare technology,long short term memory,1
+healthcare technology,microgrid,1
+healthcare technology,power quality,1
+long short term memory,microgrid,1
+long short term memory,power quality,1
+microgrid,power quality,1
+attack path generation,automated report,1
+attack path generation,graph alignment,1
+attack path generation,weak supervision,1
+automated report,graph alignment,1
+automated report,weak supervision,1
+graph alignment,weak supervision,1
+nano design digital,quantum dot cellular automata,1
+bangladesh,citizen,1
+bangladesh,engagement,1
+bangladesh,psychological,1
+citizen,engagement,1
+citizen,psychological,1
+engagement,psychological,1
+dynamics,extended,1
+dynamics,filter,1
+dynamics,kalman,1
+dynamics,least,1
+dynamics,mathematical,1
+dynamics,measurement,1
+dynamics,mitigation,1
+dynamics,phasor,1
+dynamics,square,1
+dynamics,stability,1
+dynamics,substation,1
+dynamics,unit,1
+dynamics,vector,1
+dynamics,weight,1
+dynamics,weighted,1
+extended,filter,1
+extended,kalman,1
+extended,least,1
+extended,mathematical,1
+extended,measurement,1
+extended,mitigation,1
+extended,phasor,1
+extended,square,1
+extended,stability,1
+extended,substation,1
+extended,unit,1
+extended,vector,1
+extended,weight,1
+extended,weighted,1
+filter,kalman,1
+filter,least,1
+filter,mathematical,1
+filter,measurement,1
+filter,mitigation,1
+filter,phasor,1
+filter,square,1
+filter,stability,1
+filter,substation,1
+filter,unit,1
+filter,vector,1
+filter,weight,1
+filter,weighted,1
+kalman,least,1
+kalman,mathematical,1
+kalman,measurement,1
+kalman,mitigation,1
+kalman,phasor,1
+kalman,square,1
+kalman,stability,1
+kalman,substation,1
+kalman,unit,1
+kalman,vector,1
+kalman,weight,1
+kalman,weighted,1
+least,mathematical,1
+least,measurement,1
+least,mitigation,1
+least,phasor,1
+least,square,1
+least,stability,1
+least,substation,1
+least,unit,1
+least,vector,1
+least,weight,1
+least,weighted,1
+mathematical,measurement,1
+mathematical,mitigation,1
+mathematical,phasor,1
+mathematical,square,1
+mathematical,stability,1
+mathematical,substation,1
+mathematical,unit,1
+mathematical,vector,1
+mathematical,weight,1
+mathematical,weighted,1
+measurement,mitigation,1
+measurement,phasor,1
+measurement,square,1
+measurement,stability,1
+measurement,substation,1
+measurement,unit,1
+measurement,vector,1
+measurement,weight,1
+measurement,weighted,1
+mitigation,phasor,1
+mitigation,square,1
+mitigation,stability,1
+mitigation,substation,1
+mitigation,unit,1
+mitigation,vector,1
+mitigation,weight,1
+mitigation,weighted,1
+phasor,square,1
+phasor,stability,1
+phasor,substation,1
+phasor,unit,1
+phasor,vector,1
+phasor,weight,1
+phasor,weighted,1
+square,stability,1
+square,substation,1
+square,unit,1
+square,vector,1
+square,weight,1
+square,weighted,1
+stability,substation,1
+stability,unit,1
+stability,vector,1
+stability,weight,1
+stability,weighted,1
+substation,unit,1
+substation,vector,1
+substation,weight,1
+substation,weighted,1
+unit,vector,1
+unit,weight,1
+unit,weighted,1
+vector,weight,1
+vector,weighted,1
+weight,weighted,1
+autonomy,behavioral,1
+autonomy,beneficence,1
+autonomy,change,1
+autonomy,intervention,1
+autonomy,justice,1
+autonomy,nonmaleficence,1
+autonomy,transparency,1
+behavioral,beneficence,1
+behavioral,change,1
+behavioral,intervention,1
+behavioral,justice,1
+behavioral,nonmaleficence,1
+behavioral,transparency,1
+beneficence,change,1
+beneficence,intervention,1
+beneficence,justice,1
+beneficence,nonmaleficence,1
+beneficence,transparency,1
+change,intervention,1
+change,justice,1
+change,nonmaleficence,1
+change,transparency,1
+intervention,justice,1
+intervention,nonmaleficence,1
+intervention,transparency,1
+justice,nonmaleficence,1
+justice,transparency,1
+nonmaleficence,transparency,1
+acoustic propagation,contextual copresence detection,1
+acoustic propagation,dynamic acoustic fingerprint,1
+acoustic propagation,two-factor authentication,1
+contextual copresence detection,dynamic acoustic fingerprint,1
+contextual copresence detection,two-factor authentication,1
+dynamic acoustic fingerprint,two-factor authentication,1
+ada boost,distributed internet of things attack,1
+ada boost,gradient boost,1
+ada boost,voting,1
+distributed internet of things attack,gradient boost,1
+distributed internet of things attack,voting,1
+gradient boost,voting,1
+cybersecurity insurance,cybersecurity investment,1
+cybersecurity insurance,direct attack,1
+cybersecurity insurance,indirect risk propagation,1
+cybersecurity insurance,supply chain management,1
+cybersecurity investment,direct attack,1
+cybersecurity investment,indirect risk propagation,1
+cybersecurity investment,supply chain management,1
+direct attack,indirect risk propagation,1
+direct attack,supply chain management,1
+indirect risk propagation,supply chain management,1
+architecture,artificial,1
+architecture,identity,1
+architecture,trust,1
+architecture,zero,1
+artificial,identity,1
+artificial,trust,1
+artificial,zero,1
+identity,trust,1
+identity,zero,1
+trust,zero,1
+clustering,cyber-physical security,1
+clustering,gaussian mixture model,1
+clustering,remote state estimation,1
+clustering,stealthy attack,1
+cyber-physical security,gaussian mixture model,1
+cyber-physical security,remote state estimation,1
+cyber-physical security,stealthy attack,1
+gaussian mixture model,remote state estimation,1
+gaussian mixture model,stealthy attack,1
+remote state estimation,stealthy attack,1
+macroprogramming,sensor data processing,1
+bert,fine-tuning,1

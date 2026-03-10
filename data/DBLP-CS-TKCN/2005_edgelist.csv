@@ -1,0 +1,593 @@
+source,target,weight
+cybersecurity,data mining,1
+cybersecurity,distributed computing,1
+cybersecurity,internet,1
+cybersecurity,large-scale network,1
+cybersecurity,minnesota intrusion detection,1
+cybersecurity,parallel computing,1
+cybersecurity,parallel processing,1
+cybersecurity,security,1
+cybersecurity,sophisticated cyberattack,1
+cybersecurity,artificial intelligence,1
+cybersecurity,bioinformatics,1
+cybersecurity,grid computing,1
+cybersecurity,robotics,1
+cybersecurity,wireless networking,1
+cybersecurity,distributed artificial intelligence,1
+cybersecurity,e-health,1
+cybersecurity,emergence,1
+cybersecurity,emergency response management,1
+cybersecurity,evolution,1
+cybersecurity,information infrastructure,1
+cybersecurity,self-organization,1
+cybersecurity,disclosure,1
+cybersecurity,economics,1
+cybersecurity,instant,1
+cybersecurity,patching,1
+cybersecurity,policy,1
+cybersecurity,quality,1
+cybersecurity,software,1
+cybersecurity,vulnerability,1
+data mining,distributed computing,1
+data mining,internet,1
+data mining,large-scale network,1
+data mining,minnesota intrusion detection,1
+data mining,parallel computing,1
+data mining,parallel processing,1
+data mining,security,1
+data mining,sophisticated cyberattack,1
+distributed computing,internet,1
+distributed computing,large-scale network,1
+distributed computing,minnesota intrusion detection,1
+distributed computing,parallel computing,1
+distributed computing,parallel processing,1
+distributed computing,security,1
+distributed computing,sophisticated cyberattack,1
+internet,large-scale network,1
+internet,minnesota intrusion detection,1
+internet,parallel computing,1
+internet,parallel processing,1
+internet,security,1
+internet,sophisticated cyberattack,1
+large-scale network,minnesota intrusion detection,1
+large-scale network,parallel computing,1
+large-scale network,parallel processing,1
+large-scale network,security,1
+large-scale network,sophisticated cyberattack,1
+minnesota intrusion detection,parallel computing,1
+minnesota intrusion detection,parallel processing,1
+minnesota intrusion detection,security,1
+minnesota intrusion detection,sophisticated cyberattack,1
+parallel computing,parallel processing,1
+parallel computing,security,1
+parallel computing,sophisticated cyberattack,1
+parallel processing,security,1
+parallel processing,sophisticated cyberattack,1
+security,sophisticated cyberattack,1
+security,adaptive agent,1
+security,adaptive risk agent,1
+security,adaptive risk management,1
+security,critical infrastructure,1
+security,emergency response management,1
+security,emergency response management infrastructure,1
+security,holonic cybersecurity,1
+security,holonic risk management,1
+security,holonics,1
+security,information security,1
+security,network security,1
+security,risk management,1
+security,selforganization,1
+security,administrator,1
+security,advantage,1
+security,air,1
+security,average,1
+security,competitive,1
+security,cyber,1
+security,dynamics,1
+security,improvement,1
+security,it,1
+security,management,1
+security,organization,1
+security,process,1
+security,quality,1
+security,reporting,1
+security,rudimentary,1
+security,safety,1
+security,service,1
+security,computer,1
+security,concept,1
+security,condition,1
+security,constant,1
+security,cyberspace,1
+security,essential,1
+security,network,1
+security,prevailing,1
+security,resource,1
+security,situation,1
+security,threat,1
+security,tool,1
+artificial intelligence,bioinformatics,1
+artificial intelligence,grid computing,1
+artificial intelligence,robotics,1
+artificial intelligence,wireless networking,1
+bioinformatics,grid computing,1
+bioinformatics,robotics,1
+bioinformatics,wireless networking,1
+grid computing,robotics,1
+grid computing,wireless networking,1
+robotics,wireless networking,1
+adaptive agent,adaptive risk agent,1
+adaptive agent,adaptive risk management,1
+adaptive agent,critical infrastructure,1
+adaptive agent,emergency response management,1
+adaptive agent,emergency response management infrastructure,1
+adaptive agent,holonic cybersecurity,1
+adaptive agent,holonic risk management,1
+adaptive agent,holonics,1
+adaptive agent,information security,1
+adaptive agent,network security,1
+adaptive agent,risk management,1
+adaptive agent,selforganization,1
+adaptive risk agent,adaptive risk management,1
+adaptive risk agent,critical infrastructure,1
+adaptive risk agent,emergency response management,1
+adaptive risk agent,emergency response management infrastructure,1
+adaptive risk agent,holonic cybersecurity,1
+adaptive risk agent,holonic risk management,1
+adaptive risk agent,holonics,1
+adaptive risk agent,information security,1
+adaptive risk agent,network security,1
+adaptive risk agent,risk management,1
+adaptive risk agent,selforganization,1
+adaptive risk management,critical infrastructure,1
+adaptive risk management,emergency response management,1
+adaptive risk management,emergency response management infrastructure,1
+adaptive risk management,holonic cybersecurity,1
+adaptive risk management,holonic risk management,1
+adaptive risk management,holonics,1
+adaptive risk management,information security,1
+adaptive risk management,network security,1
+adaptive risk management,risk management,1
+adaptive risk management,selforganization,1
+critical infrastructure,emergency response management,1
+critical infrastructure,emergency response management infrastructure,1
+critical infrastructure,holonic cybersecurity,1
+critical infrastructure,holonic risk management,1
+critical infrastructure,holonics,1
+critical infrastructure,information security,1
+critical infrastructure,network security,1
+critical infrastructure,risk management,1
+critical infrastructure,selforganization,1
+emergency response management,emergency response management infrastructure,1
+emergency response management,holonic cybersecurity,1
+emergency response management,holonic risk management,1
+emergency response management,holonics,1
+emergency response management,information security,1
+emergency response management,network security,1
+emergency response management,risk management,1
+emergency response management,selforganization,1
+emergency response management,distributed artificial intelligence,1
+emergency response management,e-health,1
+emergency response management,emergence,1
+emergency response management,evolution,1
+emergency response management,information infrastructure,1
+emergency response management,self-organization,1
+emergency response management infrastructure,holonic cybersecurity,1
+emergency response management infrastructure,holonic risk management,1
+emergency response management infrastructure,holonics,1
+emergency response management infrastructure,information security,1
+emergency response management infrastructure,network security,1
+emergency response management infrastructure,risk management,1
+emergency response management infrastructure,selforganization,1
+holonic cybersecurity,holonic risk management,1
+holonic cybersecurity,holonics,1
+holonic cybersecurity,information security,1
+holonic cybersecurity,network security,1
+holonic cybersecurity,risk management,1
+holonic cybersecurity,selforganization,1
+holonic risk management,holonics,1
+holonic risk management,information security,1
+holonic risk management,network security,1
+holonic risk management,risk management,1
+holonic risk management,selforganization,1
+holonics,information security,1
+holonics,network security,1
+holonics,risk management,1
+holonics,selforganization,1
+information security,network security,1
+information security,risk management,1
+information security,selforganization,1
+network security,risk management,1
+network security,selforganization,1
+risk management,selforganization,1
+distributed artificial intelligence,e-health,1
+distributed artificial intelligence,emergence,1
+distributed artificial intelligence,evolution,1
+distributed artificial intelligence,information infrastructure,1
+distributed artificial intelligence,self-organization,1
+e-health,emergence,1
+e-health,evolution,1
+e-health,information infrastructure,1
+e-health,self-organization,1
+emergence,evolution,1
+emergence,information infrastructure,1
+emergence,self-organization,1
+evolution,information infrastructure,1
+evolution,self-organization,1
+information infrastructure,self-organization,1
+administrator,advantage,1
+administrator,air,1
+administrator,average,1
+administrator,competitive,1
+administrator,cyber,1
+administrator,dynamics,1
+administrator,improvement,1
+administrator,it,1
+administrator,management,1
+administrator,organization,1
+administrator,process,1
+administrator,quality,1
+administrator,reporting,1
+administrator,rudimentary,1
+administrator,safety,1
+administrator,service,1
+advantage,air,1
+advantage,average,1
+advantage,competitive,1
+advantage,cyber,1
+advantage,dynamics,1
+advantage,improvement,1
+advantage,it,1
+advantage,management,1
+advantage,organization,1
+advantage,process,1
+advantage,quality,1
+advantage,reporting,1
+advantage,rudimentary,1
+advantage,safety,1
+advantage,service,1
+air,average,1
+air,competitive,1
+air,cyber,1
+air,dynamics,1
+air,improvement,1
+air,it,1
+air,management,1
+air,organization,1
+air,process,1
+air,quality,1
+air,reporting,1
+air,rudimentary,1
+air,safety,1
+air,service,1
+average,competitive,1
+average,cyber,1
+average,dynamics,1
+average,improvement,1
+average,it,1
+average,management,1
+average,organization,1
+average,process,1
+average,quality,1
+average,reporting,1
+average,rudimentary,1
+average,safety,1
+average,service,1
+competitive,cyber,1
+competitive,dynamics,1
+competitive,improvement,1
+competitive,it,1
+competitive,management,1
+competitive,organization,1
+competitive,process,1
+competitive,quality,1
+competitive,reporting,1
+competitive,rudimentary,1
+competitive,safety,1
+competitive,service,1
+cyber,dynamics,1
+cyber,improvement,1
+cyber,it,1
+cyber,management,1
+cyber,organization,1
+cyber,process,1
+cyber,quality,1
+cyber,reporting,1
+cyber,rudimentary,1
+cyber,safety,1
+cyber,service,1
+dynamics,improvement,1
+dynamics,it,1
+dynamics,management,1
+dynamics,organization,1
+dynamics,process,1
+dynamics,quality,1
+dynamics,reporting,1
+dynamics,rudimentary,1
+dynamics,safety,1
+dynamics,service,1
+improvement,it,1
+improvement,management,1
+improvement,organization,1
+improvement,process,1
+improvement,quality,1
+improvement,reporting,1
+improvement,rudimentary,1
+improvement,safety,1
+improvement,service,1
+it,management,1
+it,organization,1
+it,process,1
+it,quality,1
+it,reporting,1
+it,rudimentary,1
+it,safety,1
+it,service,1
+management,organization,1
+management,process,1
+management,quality,1
+management,reporting,1
+management,rudimentary,1
+management,safety,1
+management,service,1
+organization,process,1
+organization,quality,1
+organization,reporting,1
+organization,rudimentary,1
+organization,safety,1
+organization,service,1
+process,quality,1
+process,reporting,1
+process,rudimentary,1
+process,safety,1
+process,service,1
+quality,reporting,1
+quality,rudimentary,1
+quality,safety,1
+quality,service,1
+quality,disclosure,1
+quality,economics,1
+quality,instant,1
+quality,patching,1
+quality,policy,1
+quality,software,1
+quality,vulnerability,1
+reporting,rudimentary,1
+reporting,safety,1
+reporting,service,1
+rudimentary,safety,1
+rudimentary,service,1
+safety,service,1
+capability,cybersecure,1
+capability,dependable,1
+capability,grid,1
+capability,information,1
+capability,infrastructure,1
+capability,position,1
+capability,power,1
+capability,private,1
+capability,redundant,1
+capability,statement,1
+capability,support,1
+capability,survivable,1
+capability,transmission,1
+cybersecure,dependable,1
+cybersecure,grid,1
+cybersecure,information,1
+cybersecure,infrastructure,1
+cybersecure,position,1
+cybersecure,power,1
+cybersecure,private,1
+cybersecure,redundant,1
+cybersecure,statement,1
+cybersecure,support,1
+cybersecure,survivable,1
+cybersecure,transmission,1
+dependable,grid,1
+dependable,information,1
+dependable,infrastructure,1
+dependable,position,1
+dependable,power,1
+dependable,private,1
+dependable,redundant,1
+dependable,statement,1
+dependable,support,1
+dependable,survivable,1
+dependable,transmission,1
+grid,information,1
+grid,infrastructure,1
+grid,position,1
+grid,power,1
+grid,private,1
+grid,redundant,1
+grid,statement,1
+grid,support,1
+grid,survivable,1
+grid,transmission,1
+information,infrastructure,1
+information,position,1
+information,power,1
+information,private,1
+information,redundant,1
+information,statement,1
+information,support,1
+information,survivable,1
+information,transmission,1
+infrastructure,position,1
+infrastructure,power,1
+infrastructure,private,1
+infrastructure,redundant,1
+infrastructure,statement,1
+infrastructure,support,1
+infrastructure,survivable,1
+infrastructure,transmission,1
+position,power,1
+position,private,1
+position,redundant,1
+position,statement,1
+position,support,1
+position,survivable,1
+position,transmission,1
+power,private,1
+power,redundant,1
+power,statement,1
+power,support,1
+power,survivable,1
+power,transmission,1
+private,redundant,1
+private,statement,1
+private,support,1
+private,survivable,1
+private,transmission,1
+redundant,statement,1
+redundant,support,1
+redundant,survivable,1
+redundant,transmission,1
+statement,support,1
+statement,survivable,1
+statement,transmission,1
+support,survivable,1
+support,transmission,1
+survivable,transmission,1
+airline security,broad umbrella,1
+airline security,critical infrastructure protection,1
+airline security,cyber security,1
+airline security,distinguished history,1
+airline security,homeland security,1
+airline security,operations research,1
+airline security,operations research model,1
+airline security,operations researcher,1
+airline security,port security,1
+airline security,us department,1
+broad umbrella,critical infrastructure protection,1
+broad umbrella,cyber security,1
+broad umbrella,distinguished history,1
+broad umbrella,homeland security,1
+broad umbrella,operations research,1
+broad umbrella,operations research model,1
+broad umbrella,operations researcher,1
+broad umbrella,port security,1
+broad umbrella,us department,1
+critical infrastructure protection,cyber security,1
+critical infrastructure protection,distinguished history,1
+critical infrastructure protection,homeland security,1
+critical infrastructure protection,operations research,1
+critical infrastructure protection,operations research model,1
+critical infrastructure protection,operations researcher,1
+critical infrastructure protection,port security,1
+critical infrastructure protection,us department,1
+cyber security,distinguished history,1
+cyber security,homeland security,1
+cyber security,operations research,1
+cyber security,operations research model,1
+cyber security,operations researcher,1
+cyber security,port security,1
+cyber security,us department,1
+distinguished history,homeland security,1
+distinguished history,operations research,1
+distinguished history,operations research model,1
+distinguished history,operations researcher,1
+distinguished history,port security,1
+distinguished history,us department,1
+homeland security,operations research,1
+homeland security,operations research model,1
+homeland security,operations researcher,1
+homeland security,port security,1
+homeland security,us department,1
+operations research,operations research model,1
+operations research,operations researcher,1
+operations research,port security,1
+operations research,us department,1
+operations research model,operations researcher,1
+operations research model,port security,1
+operations research model,us department,1
+operations researcher,port security,1
+operations researcher,us department,1
+port security,us department,1
+disclosure,economics,1
+disclosure,instant,1
+disclosure,patching,1
+disclosure,policy,1
+disclosure,software,1
+disclosure,vulnerability,1
+economics,instant,1
+economics,patching,1
+economics,policy,1
+economics,software,1
+economics,vulnerability,1
+instant,patching,1
+instant,policy,1
+instant,software,1
+instant,vulnerability,1
+patching,policy,1
+patching,software,1
+patching,vulnerability,1
+policy,software,1
+policy,vulnerability,1
+software,vulnerability,1
+computer,concept,1
+computer,condition,1
+computer,constant,1
+computer,cyberspace,1
+computer,essential,1
+computer,network,1
+computer,prevailing,1
+computer,resource,1
+computer,situation,1
+computer,threat,1
+computer,tool,1
+concept,condition,1
+concept,constant,1
+concept,cyberspace,1
+concept,essential,1
+concept,network,1
+concept,prevailing,1
+concept,resource,1
+concept,situation,1
+concept,threat,1
+concept,tool,1
+condition,constant,1
+condition,cyberspace,1
+condition,essential,1
+condition,network,1
+condition,prevailing,1
+condition,resource,1
+condition,situation,1
+condition,threat,1
+condition,tool,1
+constant,cyberspace,1
+constant,essential,1
+constant,network,1
+constant,prevailing,1
+constant,resource,1
+constant,situation,1
+constant,threat,1
+constant,tool,1
+cyberspace,essential,1
+cyberspace,network,1
+cyberspace,prevailing,1
+cyberspace,resource,1
+cyberspace,situation,1
+cyberspace,threat,1
+cyberspace,tool,1
+essential,network,1
+essential,prevailing,1
+essential,resource,1
+essential,situation,1
+essential,threat,1
+essential,tool,1
+network,prevailing,1
+network,resource,1
+network,situation,1
+network,threat,1
+network,tool,1
+prevailing,resource,1
+prevailing,situation,1
+prevailing,threat,1
+prevailing,tool,1
+resource,situation,1
+resource,threat,1
+resource,tool,1
+situation,threat,1
+situation,tool,1
+threat,tool,1

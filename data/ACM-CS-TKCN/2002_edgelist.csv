@@ -1,0 +1,12 @@
+source,target,weight
+cyber,security,1
+cyber security,information warfare,1
+cyber security,policy,1
+cyber security,viable system model,1
+cyber security,vulnerability,1
+information warfare,policy,1
+information warfare,viable system model,1
+information warfare,vulnerability,1
+policy,viable system model,1
+policy,vulnerability,1
+viable system model,vulnerability,1

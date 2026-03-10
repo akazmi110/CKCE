@@ -1,0 +1,24 @@
+source,target,weight
+cyber,emergent,1
+cyber,infrastructure,1
+cyber,security,2
+cyber,assessment,1
+cyber,electric,1
+cyber,power,1
+cyber,technique,1
+emergent,infrastructure,1
+emergent,security,1
+infrastructure,security,1
+security,assessment,1
+security,electric,1
+security,power,1
+security,technique,1
+assessment,electric,1
+assessment,power,1
+assessment,technique,1
+electric,power,1
+electric,technique,1
+power,technique,1
+cybersecurity policy,european commission,1
+cybersecurity policy,us government,1
+european commission,us government,1
